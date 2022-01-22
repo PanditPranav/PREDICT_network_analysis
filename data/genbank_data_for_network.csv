@@ -1,0 +1,765 @@
+,Virus,ScientificName,accession,most_specific_diagnostic_Test,Order,Family,Genus,Species,common_names,viral_family
+0,Alkhumra hemorrhagic fever virus,Homo sapiens,21,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Flaviviridae
+1,Allpahuayo mammarenavirus,Oecomys bicolor,3,PCR,RODENTIA,CRICETIDAE,Oecomys,bicolor,Bicolored Arboreal Rice Rat,Arenaviridae
+2,Amur virus,Apodemus peninsulae,21,PCR,RODENTIA,MURIDAE,Apodemus,peninsulae,Korean Field Mouse,Hantaviridae
+3,Amur virus,Homo sapiens,1,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+4,Amur virus,Micromys minutus,1,PCR,RODENTIA,MURIDAE,Micromys,minutus,"Eurasian Harvest Mouse, Harvest Mouse",Hantaviridae
+5,Andes orthohantavirus,Abrothrix longipilis,2,PCR,RODENTIA,CRICETIDAE,Abrothrix,longipilis,"Long-haired Akodont, Long-haired Grass Mouse",Hantaviridae
+6,Andes orthohantavirus,Abrothrix longipilis,2,PCR,RODENTIA,CRICETIDAE,Abrothrix,longipilis,"Long-haired Akodont, Long-haired Grass Mouse",Hantaviridae
+7,Andes orthohantavirus,Abrothrix longipilis,2,PCR,RODENTIA,CRICETIDAE,Abrothrix,longipilis,"Long-haired Akodont, Long-haired Grass Mouse",Hantaviridae
+8,Andes orthohantavirus,Homo sapiens,37,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+9,Andes orthohantavirus,Homo sapiens,37,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+10,Andes orthohantavirus,Homo sapiens,37,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+11,Andes orthohantavirus,Loxodontomys micropus,1,PCR,RODENTIA,CRICETIDAE,Loxodontomys,micropus,"Southern Pericote, Southern Big-eared Mouse",Hantaviridae
+12,Andes orthohantavirus,Loxodontomys micropus,1,PCR,RODENTIA,CRICETIDAE,Loxodontomys,micropus,"Southern Pericote, Southern Big-eared Mouse",Hantaviridae
+13,Andes orthohantavirus,Loxodontomys micropus,1,PCR,RODENTIA,CRICETIDAE,Loxodontomys,micropus,"Southern Pericote, Southern Big-eared Mouse",Hantaviridae
+14,Andes orthohantavirus,Oligoryzomys chacoensis,1,PCR,RODENTIA,CRICETIDAE,Oligoryzomys,chacoensis,Chacoan Pygmy Rice Rat,Hantaviridae
+15,Andes orthohantavirus,Oligoryzomys chacoensis,1,PCR,RODENTIA,CRICETIDAE,Oligoryzomys,chacoensis,Chacoan Pygmy Rice Rat,Hantaviridae
+16,Andes orthohantavirus,Oligoryzomys chacoensis,1,PCR,RODENTIA,CRICETIDAE,Oligoryzomys,chacoensis,Chacoan Pygmy Rice Rat,Hantaviridae
+17,Andes orthohantavirus,Oligoryzomys longicaudatus,69,PCR,RODENTIA,CRICETIDAE,Oligoryzomys,longicaudatus,Long-tailed Pygmy Rice Rat,Hantaviridae
+18,Andes orthohantavirus,Oligoryzomys longicaudatus,69,PCR,RODENTIA,CRICETIDAE,Oligoryzomys,longicaudatus,Long-tailed Pygmy Rice Rat,Hantaviridae
+19,Andes orthohantavirus,Oligoryzomys longicaudatus,69,PCR,RODENTIA,CRICETIDAE,Oligoryzomys,longicaudatus,Long-tailed Pygmy Rice Rat,Hantaviridae
+20,Andes orthohantavirus,Rattus norvegicus,1,PCR,RODENTIA,MURIDAE,Rattus,norvegicus,Brown Rat,Hantaviridae
+21,Andes orthohantavirus,Rattus norvegicus,1,PCR,RODENTIA,MURIDAE,Rattus,norvegicus,Brown Rat,Hantaviridae
+22,Andes orthohantavirus,Rattus norvegicus,1,PCR,RODENTIA,MURIDAE,Rattus,norvegicus,Brown Rat,Hantaviridae
+23,Andes orthohantavirus,Rattus rattus,1,PCR,RODENTIA,MURIDAE,Rattus,rattus,"House Rat, Ship Rat, Roof Rat, Black Rat",Hantaviridae
+24,Andes orthohantavirus,Rattus rattus,1,PCR,RODENTIA,MURIDAE,Rattus,rattus,"House Rat, Ship Rat, Roof Rat, Black Rat",Hantaviridae
+25,Andes orthohantavirus,Rattus rattus,1,PCR,RODENTIA,MURIDAE,Rattus,rattus,"House Rat, Ship Rat, Roof Rat, Black Rat",Hantaviridae
+26,Aravan lyssavirus,Myotis blythii,1,PCR,CHIROPTERA,VESPERTILIONIDAE,Myotis,blythii,"Lesser Mouse-eared Myotis, Lesser Mouse-eared Bat",Rhabdoviridae
+27,Australian bat lyssavirus,Equus caballus,2,PCR,PERISSODACTYLA,EQUIDAE,Equus,caballus,,Rhabdoviridae
+28,Australian bat lyssavirus,Homo sapiens,2,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Rhabdoviridae
+29,Australian bat lyssavirus,Pteropus alecto,29,PCR,CHIROPTERA,PTEROPODIDAE,Pteropus,alecto,"Black Flying Fox, Central Flying-fox",Rhabdoviridae
+30,Australian bat lyssavirus,Pteropus poliocephalus,9,PCR,CHIROPTERA,PTEROPODIDAE,Pteropus,poliocephalus,"Grey-headed Flying Fox, Gray-headed Flying Fox, Grey-headed Flying-fox",Rhabdoviridae
+31,Australian bat lyssavirus,Pteropus scapulatus,13,PCR,CHIROPTERA,PTEROPODIDAE,Pteropus,scapulatus,Little Red Flying Fox,Rhabdoviridae
+32,Australian bat lyssavirus,Saccolaimus flaviventris,7,PCR,CHIROPTERA,EMBALLONURIDAE,Saccolaimus,flaviventris,"Yellow-bellied Sheath-tailed Bat, Yellow-bellied Pouched Bat",Rhabdoviridae
+33,Bagaza virus,Alectoris rufa,6,PCR,GALLIFORMES,PHASIANIDAE,Alectoris,rufa,Red-legged Partridge,Flaviviridae
+34,Banna virus,Homo sapiens,2,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Reoviridae
+35,Banna virus,Sus scrofa domesticus,1,PCR,CETARTIODACTYLA,SUIDAE,Sus,scrofa domesticus,,Reoviridae
+36,Batai virus,Bos taurus,6,PCR,CETARTIODACTYLA,BOVIDAE,Bos,taurus,,Peribunyaviridae
+37,Batai virus,Fulica atra,4,PCR,GRUIFORMES,RALLIDAE,Fulica,atra,"Common Coot, Eurasian Coot, Coot, European Coot",Peribunyaviridae
+38,Batai virus,Homo sapiens,1,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Peribunyaviridae
+39,Bayou orthohantavirus,Homo sapiens,2,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+40,Bayou orthohantavirus,Oryzomys palustris,6,PCR,RODENTIA,CRICETIDAE,Oryzomys,palustris,Marsh Rice Rat,Hantaviridae
+41,Bear Canyon mammarenavirus,Neotoma macrotis,6,PCR,RODENTIA,CRICETIDAE,Neotoma,macrotis,"Big-eared Woodrat, Large-eared Woodrat",Arenaviridae
+42,Bear Canyon mammarenavirus,Peromyscus boylii,1,PCR,RODENTIA,CRICETIDAE,Peromyscus,boylii,Brush Mouse,Arenaviridae
+43,Bear Canyon mammarenavirus,Peromyscus californicus,9,PCR,RODENTIA,CRICETIDAE,Peromyscus,californicus,California Mouse,Arenaviridae
+44,Bermejo virus,Homo sapiens,2,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+45,Bermejo virus,Oligoryzomys chacoensis,2,PCR,RODENTIA,CRICETIDAE,Oligoryzomys,chacoensis,Chacoan Pygmy Rice Rat,Hantaviridae
+46,Bhanja virus,Homo sapiens,3,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Phenuiviridae
+47,Big brushy tank virus,Neotoma albigula,10,PCR,RODENTIA,CRICETIDAE,Neotoma,albigula,White-throated Woodrat,Arenaviridae
+48,Black Creek Canal orthohantavirus,Sigmodon hispidus,1,PCR,RODENTIA,CRICETIDAE,Sigmodon,hispidus,Hispid Cotton Rat,Hantaviridae
+49,Bovine papular stomatitis virus,Bos taurus,34,PCR,CETARTIODACTYLA,BOVIDAE,Bos,taurus,,Poxviridae
+50,Buffalopox virus,Bison bison,55,PCR,CETARTIODACTYLA,BOVIDAE,Bison,bison,American Bison,Poxviridae
+51,Buffalopox virus,Bos taurus,14,PCR,CETARTIODACTYLA,BOVIDAE,Bos,taurus,,Poxviridae
+52,Buffalopox virus,Bubalus bubalis,1,PCR,CETARTIODACTYLA,BOVIDAE,Bubalus,bubalis,,Poxviridae
+53,Buffalopox virus,Homo sapiens,58,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Poxviridae
+54,Bundibugyo ebolavirus,Homo sapiens,8,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Filoviridae
+55,Bunyamwera virus,Equus caballus,12,PCR,PERISSODACTYLA,EQUIDAE,Equus,caballus,,Peribunyaviridae
+56,Bwamba orthobunyavirus,Homo sapiens,4,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Peribunyaviridae
+57,Cache Valley virus,Homo sapiens,3,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Peribunyaviridae
+58,Calabazo virus,Zygodontomys brevicauda,3,PCR,RODENTIA,CRICETIDAE,Zygodontomys,brevicauda,Short-tailed Cane Mouse,Hantaviridae
+59,Caraparu virus,Cebus apella,5,PCR,PRIMATES,CEBIDAE,Cebus,apella,,Peribunyaviridae
+60,Caraparu virus,Homo sapiens,13,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Peribunyaviridae
+61,Catarina virus,Neotoma micropus,58,PCR,RODENTIA,CRICETIDAE,Neotoma,micropus,Southern Plains Woodrat,Arenaviridae
+62,Chandipura virus,Homo sapiens,6,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Rhabdoviridae
+63,Chandiru virus,Homo sapiens,7,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Phenuiviridae
+64,Chapare mammarenavirus,Homo sapiens,4,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Arenaviridae
+65,Chikungunya virus,Homo sapiens,2014,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Togaviridae
+66,Chikungunya virus,Macaca fascicularis,8,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,fascicularis,"Nicobar Crab-eating Macaque, Nicobar Cynomolgus Monkey, Nicobar Long-tailed Macaque",Togaviridae
+67,Chikungunya virus,Mus musculus,1,PCR,RODENTIA,MURIDAE,Mus,musculus,House Mouse,Togaviridae
+68,Choclo virus,Homo sapiens,4,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+69,Choclo virus,Oligoryzomys fulvescens,3,PCR,RODENTIA,CRICETIDAE,Oligoryzomys,fulvescens,Fulvous Pygmy Rice Rat,Hantaviridae
+70,Dobrava-Belgrade orthohantavirus,Apodemus agrarius,117,PCR,RODENTIA,MURIDAE,Apodemus,agrarius,Striped Field Mouse,Hantaviridae
+71,Dobrava-Belgrade orthohantavirus,Apodemus flavicollis,204,PCR,RODENTIA,MURIDAE,Apodemus,flavicollis,Yellow-necked Field Mouse,Hantaviridae
+72,Dobrava-Belgrade orthohantavirus,Apodemus ponticus,12,PCR,RODENTIA,MURIDAE,Apodemus,ponticus,Black Sea Field Mouse,Hantaviridae
+73,Dobrava-Belgrade orthohantavirus,Apodemus sylvaticus,6,PCR,RODENTIA,MURIDAE,Apodemus,sylvaticus,"Long-tailed Field Mouse, Wood Mouse, Small Wood Mouse",Hantaviridae
+74,Dobrava-Belgrade orthohantavirus,Glis glis,2,PCR,RODENTIA,GLIRIDAE,Glis,glis,"Edible Dormouse, Fat Dormouse",Hantaviridae
+75,Dobrava-Belgrade orthohantavirus,Glis glis,2,PCR,RODENTIA,GLIRIDAE,Glis,glis,,Hantaviridae
+76,Dobrava-Belgrade orthohantavirus,Homo sapiens,120,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+77,Dobrava-Belgrade orthohantavirus,Meriones tamariscinus,1,PCR,RODENTIA,MURIDAE,Meriones,tamariscinus,"Tamarisk Gerbil, Tamarisk Jird, TAMARISK JIRD",Hantaviridae
+78,Dobrava-Belgrade orthohantavirus,Microtus arvalis,5,PCR,RODENTIA,CRICETIDAE,Microtus,arvalis,Common Vole,Hantaviridae
+79,Dobrava-Belgrade orthohantavirus,Mus musculus,2,PCR,RODENTIA,MURIDAE,Mus,musculus,House Mouse,Hantaviridae
+80,Dobrava-Belgrade orthohantavirus,Myodes glareolus,2,PCR,RODENTIA,CRICETIDAE,Myodes,glareolus,Bank Vole,Hantaviridae
+81,Dobrava-Belgrade orthohantavirus,Sorex araneus,2,PCR,EULIPOTYPHLA,SORICIDAE,Sorex,araneus,"Common Shrew, Eurasian Shrew",Hantaviridae
+82,Duvenhage lyssavirus,Homo sapiens,15,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Rhabdoviridae
+83,Duvenhage lyssavirus,Nycteris thebaica,1,PCR,CHIROPTERA,NYCTERIDAE,Nycteris,thebaica,"Cape Long-eared Bat, Egyptian Slit-faced Bat, Common Slit-faced Bat, Geoffroy's Nycteris",Rhabdoviridae
+84,El Moro Canyon orthohantavirus,Neotoma mexicana,1,PCR,RODENTIA,CRICETIDAE,Neotoma,mexicana,Mexican Woodrat,Hantaviridae
+85,El Moro Canyon orthohantavirus,Peromyscus maniculatus,2,PCR,RODENTIA,CRICETIDAE,Peromyscus,maniculatus,"North American Deermouse, Deer Mouse",Hantaviridae
+86,El Moro Canyon orthohantavirus,Peromyscus melanotis,1,PCR,RODENTIA,CRICETIDAE,Peromyscus,melanotis,Black-eared Mouse,Hantaviridae
+87,El Moro Canyon orthohantavirus,Reithrodontomys megalotis,25,PCR,RODENTIA,CRICETIDAE,Reithrodontomys,megalotis,"Southern Marsh Harvest Mouse, Western Harvest Mouse",Hantaviridae
+88,Encephalomyocarditis virus,Bos taurus,1,PCR,CETARTIODACTYLA,BOVIDAE,Bos,taurus,,Picornaviridae
+89,Encephalomyocarditis virus,Glis glis,1,PCR,RODENTIA,GLIRIDAE,Glis,glis,"Edible Dormouse, Fat Dormouse",Picornaviridae
+90,Encephalomyocarditis virus,Glis glis,1,PCR,RODENTIA,GLIRIDAE,Glis,glis,,Picornaviridae
+91,Encephalomyocarditis virus,Homo sapiens,6,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Picornaviridae
+92,Encephalomyocarditis virus,Loxodonta africana,4,PCR,PROBOSCIDEA,ELEPHANTIDAE,Loxodonta,africana,African Elephant,Picornaviridae
+93,Encephalomyocarditis virus,Mus musculus,1,PCR,RODENTIA,MURIDAE,Mus,musculus,House Mouse,Picornaviridae
+94,Encephalomyocarditis virus,Pan paniscus,1,PCR,PRIMATES,HOMINIDAE,Pan,paniscus,"Bonobo, Pygmy Chimpanzee, Gracile Chimpanzee, Dwarf Chimpazee",Picornaviridae
+95,Encephalomyocarditis virus,Pan troglodytes,4,PCR,PRIMATES,HOMINIDAE,Pan,troglodytes,"Chimpanzee, Robust Chimpanzee, Common Chimpanzee",Picornaviridae
+96,Encephalomyocarditis virus,Panthera tigris,1,PCR,CARNIVORA,FELIDAE,Panthera,tigris,Tiger,Picornaviridae
+97,Encephalomyocarditis virus,Rattus norvegicus,2,PCR,RODENTIA,MURIDAE,Rattus,norvegicus,Brown Rat,Picornaviridae
+98,Encephalomyocarditis virus,Sus scrofa,1,PCR,CETARTIODACTYLA,SUIDAE,Sus,scrofa,"Wild Boar, Eurasian Wild Pig, Ryukyu Islands Wild Pig",Picornaviridae
+99,Encephalomyocarditis virus,Sus scrofa domesticus,50,PCR,CETARTIODACTYLA,SUIDAE,Sus,scrofa domesticus,,Picornaviridae
+100,Encephalomyocarditis virus,Tamiasciurus hudsonicus,1,PCR,RODENTIA,SCIURIDAE,Tamiasciurus,hudsonicus,"Red Squirrel, Mount Graham Red Squirrel, Mountain Weasel",Picornaviridae
+101,Enterovirus A,Gorilla gorilla,1,PCR,PRIMATES,HOMINIDAE,Gorilla,gorilla,"Western Gorilla, Lowland Gorilla",Picornaviridae
+102,Enterovirus A,Homo sapiens,388,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Picornaviridae
+103,Enterovirus A,Mandrillus sphinx,22,PCR,PRIMATES,CERCOPITHECIDAE,Mandrillus,sphinx,Mandrill,Picornaviridae
+104,Enterovirus A,Pan troglodytes,1,PCR,PRIMATES,HOMINIDAE,Pan,troglodytes,"Chimpanzee, Robust Chimpanzee, Common Chimpanzee",Picornaviridae
+105,European bat lyssavirus,Eptesicus serotinus,1,PCR,CHIROPTERA,VESPERTILIONIDAE,Eptesicus,serotinus,Serotine,Rhabdoviridae
+106,Getah virus,Equus caballus,8,PCR,PERISSODACTYLA,EQUIDAE,Equus,caballus,,Togaviridae
+107,Getah virus,Sus scrofa domesticus,4,PCR,CETARTIODACTYLA,SUIDAE,Sus,scrofa domesticus,,Togaviridae
+108,Guama virus,Cebus apella,3,PCR,PRIMATES,CEBIDAE,Cebus,apella,,Peribunyaviridae
+109,Guanarito mammarenavirus,Homo sapiens,33,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Arenaviridae
+110,Guanarito mammarenavirus,Sigmodon alstoni,1,PCR,RODENTIA,CRICETIDAE,Sigmodon,alstoni,Alston's Cotton Rat,Arenaviridae
+111,Guanarito mammarenavirus,Zygodontomys brevicauda,29,PCR,RODENTIA,CRICETIDAE,Zygodontomys,brevicauda,Short-tailed Cane Mouse,Arenaviridae
+112,Guaroa virus,Homo sapiens,74,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Peribunyaviridae
+113,Hantaan orthohantavirus,Apodemus agrarius,349,PCR,RODENTIA,MURIDAE,Apodemus,agrarius,Striped Field Mouse,Hantaviridae
+114,Hantaan orthohantavirus,Apodemus peninsulae,8,PCR,RODENTIA,MURIDAE,Apodemus,peninsulae,Korean Field Mouse,Hantaviridae
+115,Hantaan orthohantavirus,Homo sapiens,99,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+116,Hantaan orthohantavirus,Microtus fortis,27,PCR,RODENTIA,CRICETIDAE,Microtus,fortis,Reed Vole,Hantaviridae
+117,Hantaan orthohantavirus,Mus musculus,2,PCR,RODENTIA,MURIDAE,Mus,musculus,House Mouse,Hantaviridae
+118,Hantaan orthohantavirus,Myodes rutilus,4,PCR,RODENTIA,CRICETIDAE,Myodes,rutilus,"Northern Red-backed Vole, Red Vole, RED VOLE",Hantaviridae
+119,Hantaan orthohantavirus,Niviventer confucianus,4,PCR,RODENTIA,MURIDAE,Niviventer,confucianus,"Confucian Niviventer, Chinese White-bellied Rat",Hantaviridae
+120,Hantaan orthohantavirus,Rattus norvegicus,8,PCR,RODENTIA,MURIDAE,Rattus,norvegicus,Brown Rat,Hantaviridae
+121,Hantaan orthohantavirus,Tscherskia triton,1,PCR,RODENTIA,CRICETIDAE,Tscherskia,triton,Greater Long-tailed Hamster,Hantaviridae
+122,Hendra henipavirus,Equus caballus,23,PCR,PERISSODACTYLA,EQUIDAE,Equus,caballus,,Paramyxoviridae
+123,Hendra henipavirus,Homo sapiens,3,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Paramyxoviridae
+124,Ilheus virus,Homo sapiens,1,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Flaviviridae
+125,Influenza B virus,Homo sapiens,1,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Orthomyxoviridae
+126,Irkut lyssavirus,Murina leucogaster,2,PCR,CHIROPTERA,VESPERTILIONIDAE,Murina,leucogaster,"Rufous Tube-nosed Bat, Greater Tube-nosed Bat",Rhabdoviridae
+127,Isla Vista hantavirus,Microtus californicus,7,PCR,RODENTIA,CRICETIDAE,Microtus,californicus,"Amargosa Vole, California Vole",Hantaviridae
+128,Isla Vista hantavirus,Peromyscus californicus,3,PCR,RODENTIA,CRICETIDAE,Peromyscus,californicus,California Mouse,Hantaviridae
+129,Issyk-Kul virus,Nyctalus noctula,4,PCR,CHIROPTERA,VESPERTILIONIDAE,Nyctalus,noctula,Noctule,Nairoviridae
+130,Japanese encephalitis virus,Bos taurus,7,PCR,CETARTIODACTYLA,BOVIDAE,Bos,taurus,,Flaviviridae
+131,Japanese encephalitis virus,Columba livia,1,PCR,COLUMBIFORMES,COLUMBIDAE,Columba,livia,"Rock Dove, Common Pigeon, Rock Dove, Rock DoveI",Flaviviridae
+132,Japanese encephalitis virus,Equus caballus,7,PCR,PERISSODACTYLA,EQUIDAE,Equus,caballus,,Flaviviridae
+133,Japanese encephalitis virus,Homo sapiens,296,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Flaviviridae
+134,Japanese encephalitis virus,Miniopterus schreibersii,1,PCR,CHIROPTERA,MINIOPTERIDAE,Miniopterus,schreibersii,"Schreiber's Bent-winged Bat, Schreiber's Long-fingered Bat, Common Bentwing Bat",Flaviviridae
+135,Japanese encephalitis virus,Murina aurata,1,PCR,CHIROPTERA,VESPERTILIONIDAE,Murina,aurata,"Little Tube-nosed Bat, Tibetan Tube-nosed Bat",Flaviviridae
+136,Japanese encephalitis virus,Murina aurata,1,PCR,CHIROPTERA,VESPERTILIONIDAE,Murina,aurata,,Flaviviridae
+137,Japanese encephalitis virus,Myotis pilosus,1,PCR,CHIROPTERA,VESPERTILIONIDAE,Myotis,pilosus,"Rickett's Big-footed Myotis, Rickett's Big-footed Bat",Flaviviridae
+138,Japanese encephalitis virus,Ovis aries,1,PCR,CETARTIODACTYLA,BOVIDAE,Ovis,aries,,Flaviviridae
+139,Japanese encephalitis virus,Rhinolophus affinis,1,PCR,CHIROPTERA,RHINOLOPHIDAE,Rhinolophus,affinis,Intermediate Horseshoe Bat,Flaviviridae
+140,Japanese encephalitis virus,Rousettus leschenaultii,3,PCR,CHIROPTERA,PTEROPODIDAE,Rousettus,leschenaultii,"Leschenault's Rousette, Leschenault's Rousette, Shortridge's Rousette",Flaviviridae
+141,Japanese encephalitis virus,Scotophilus kuhlii,1,PCR,CHIROPTERA,VESPERTILIONIDAE,Scotophilus,kuhlii,"Lesser Asiatic Yellow House Bat, Lesser Asiatic Yellow Bat, Lesser Asian House Bat, Asiatic Lesser Yellow House Bat",Flaviviridae
+142,Japanese encephalitis virus,Sturnus vulgaris,1,PCR,PASSERIFORMES,STURNIDAE,Sturnus,vulgaris,"Common Starling, Starling, European Starling",Flaviviridae
+143,Japanese encephalitis virus,Sus scrofa domesticus,176,PCR,CETARTIODACTYLA,SUIDAE,Sus,scrofa domesticus,,Flaviviridae
+144,Japanese encephalitis virus,Turdus merula,1,PCR,PASSERIFORMES,TURDIDAE,Turdus,merula,"Eurasian Blackbird, Common Blackbird, Blackbird",Flaviviridae
+145,Japanese encephalitis virus,Turdus musicus,1,PCR,PASSERIFORMES,TURDIDAE,Turdus,musicus,,Flaviviridae
+146,Japanese encephalitis virus,Turdus philomelos,1,PCR,PASSERIFORMES,TURDIDAE,Turdus,philomelos,Song Thrush,Flaviviridae
+147,Junin mammarenavirus,Calomys laucha,2,PCR,RODENTIA,CRICETIDAE,Calomys,laucha,"Small Vesper Mouse, Little Laucha",Arenaviridae
+148,Junin mammarenavirus,Calomys musculinus,6,PCR,RODENTIA,CRICETIDAE,Calomys,musculinus,"Drylands Vesper Mouse, Drylands Laucha",Arenaviridae
+149,Junin mammarenavirus,Homo sapiens,46,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Arenaviridae
+150,Junin mammarenavirus,Oligoryzomys flavescens,6,PCR,RODENTIA,CRICETIDAE,Oligoryzomys,flavescens,Yellow Pygmy Rice Rat,Arenaviridae
+151,Kunjin virus,Equus caballus,3,PCR,PERISSODACTYLA,EQUIDAE,Equus,caballus,,Flaviviridae
+152,Kunjin virus,Homo sapiens,1,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Flaviviridae
+153,La Crosse virus,Homo sapiens,12,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Peribunyaviridae
+154,Lagos bat lyssavirus,Atilax paludinosus,1,PCR,CARNIVORA,HERPESTIDAE,Atilax,paludinosus,"Marsh Mongoose, Water Mongoose",Rhabdoviridae
+155,Lagos bat lyssavirus,Canis lupus familiaris,1,PCR,CARNIVORA,CANIDAE,Canis,lupus familiaris,,Rhabdoviridae
+156,Lagos bat lyssavirus,Eidolon helvum,7,PCR,CHIROPTERA,PTEROPODIDAE,Eidolon,helvum,"African Straw-coloured Fruit-bat, Staw-coloured Flying Fox, Pale Xantharpy, Straw-coloured Fruit Bat",Rhabdoviridae
+157,Lagos bat lyssavirus,Epomophorus wahlbergi,13,PCR,CHIROPTERA,PTEROPODIDAE,Epomophorus,wahlbergi,Wahlberg's Epauletted Fruit Bat,Rhabdoviridae
+158,Lagos bat lyssavirus,Felis catus,1,PCR,CARNIVORA,FELIDAE,Felis,catus,,Rhabdoviridae
+159,Lagos bat lyssavirus,Rousettus aegyptiacus,2,PCR,CHIROPTERA,PTEROPODIDAE,Rousettus,aegyptiacus,"Egyptian Fruit Bat, Egyptian Rousette",Rhabdoviridae
+160,Laguna Negra orthohantavirus,Akodon simulator,1,PCR,RODENTIA,CRICETIDAE,Akodon,simulator,"Gray-bellied Grass Mouse, White-throated Akodont",Hantaviridae
+161,Laguna Negra orthohantavirus,Calomys callidus,4,PCR,RODENTIA,CRICETIDAE,Calomys,callidus,"Crafty Vesper Mouse, Reclusive Laucha",Hantaviridae
+162,Laguna Negra orthohantavirus,Calomys fecundus,4,PCR,RODENTIA,CRICETIDAE,Calomys,fecundus,,Hantaviridae
+163,Laguna Negra orthohantavirus,Calomys laucha,3,PCR,RODENTIA,CRICETIDAE,Calomys,laucha,"Small Vesper Mouse, Little Laucha",Hantaviridae
+164,Laguna Negra orthohantavirus,Homo sapiens,21,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+165,Lassa mammarenavirus,Homo sapiens,463,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Arenaviridae
+166,Lassa mammarenavirus,Homo sapiens,463,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Arenaviridae
+167,Lassa mammarenavirus,Hylomyscus pamfi,10,PCR,RODENTIA,MURIDAE,Hylomyscus,pamfi,,Arenaviridae
+168,Lassa mammarenavirus,Hylomyscus pamfi,10,PCR,RODENTIA,MURIDAE,Hylomyscus,pamfi,,Arenaviridae
+169,Lassa mammarenavirus,Mastomys erythroleucus,18,PCR,RODENTIA,MURIDAE,Mastomys,erythroleucus,"Guinea Multimammate Mouse, Reddish-white Mastomys",Arenaviridae
+170,Lassa mammarenavirus,Mastomys erythroleucus,18,PCR,RODENTIA,MURIDAE,Mastomys,erythroleucus,"Guinea Multimammate Mouse, Reddish-white Mastomys",Arenaviridae
+171,Lassa mammarenavirus,Mastomys natalensis,322,PCR,RODENTIA,MURIDAE,Mastomys,natalensis,"Natal Mastomys, Natal Multimammate Mouse",Arenaviridae
+172,Lassa mammarenavirus,Mastomys natalensis,322,PCR,RODENTIA,MURIDAE,Mastomys,natalensis,"Natal Mastomys, Natal Multimammate Mouse",Arenaviridae
+173,Lassa mammarenavirus,Mus baoulei,3,PCR,RODENTIA,MURIDAE,Mus,baoulei,Baoule's Mouse,Arenaviridae
+174,Lassa mammarenavirus,Mus baoulei,3,PCR,RODENTIA,MURIDAE,Mus,baoulei,Baoule's Mouse,Arenaviridae
+175,Ljungan virus,Myodes glareolus,3,PCR,RODENTIA,CRICETIDAE,Myodes,glareolus,Bank Vole,Picornaviridae
+176,Ljungan virus,Rattus norvegicus,2,PCR,RODENTIA,MURIDAE,Rattus,norvegicus,Brown Rat,Picornaviridae
+177,Louping ill virus,Capra hircus,2,PCR,CETARTIODACTYLA,BOVIDAE,Capra,hircus,,Flaviviridae
+178,Louping ill virus,Capra hircus,2,PCR,CETARTIODACTYLA,BOVIDAE,Capra,hircus,,Flaviviridae
+179,Louping ill virus,Homo sapiens,1,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Flaviviridae
+180,Louping ill virus,Homo sapiens,1,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Flaviviridae
+181,Louping ill virus,Ovis aries,2,PCR,CETARTIODACTYLA,BOVIDAE,Ovis,aries,,Flaviviridae
+182,Louping ill virus,Ovis aries,2,PCR,CETARTIODACTYLA,BOVIDAE,Ovis,aries,,Flaviviridae
+183,Lujo mammarenavirus,Homo sapiens,4,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Arenaviridae
+184,Lymphocytic choriomeningitis mammarenavirus,Apodemus sylvaticus,4,PCR,RODENTIA,MURIDAE,Apodemus,sylvaticus,"Long-tailed Field Mouse, Wood Mouse, Small Wood Mouse",Arenaviridae
+185,Lymphocytic choriomeningitis mammarenavirus,Callimico goeldii,1,PCR,PRIMATES,CALLITRICHIDAE,Callimico,goeldii,"Goeldi's Monkey, Callimico, Goeldi's Tamarin, Goeldi's Marmoset",Arenaviridae
+186,Lymphocytic choriomeningitis mammarenavirus,Cavia porcellus,1,PCR,RODENTIA,CAVIIDAE,Cavia,porcellus,,Arenaviridae
+187,Lymphocytic choriomeningitis mammarenavirus,Cebuella pygmaea,1,PCR,PRIMATES,CALLITRICHIDAE,Cebuella,pygmaea,Pygmy Marmoset,Arenaviridae
+188,Lymphocytic choriomeningitis mammarenavirus,Homo sapiens,23,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Arenaviridae
+189,Lymphocytic choriomeningitis mammarenavirus,Mus musculus,151,PCR,RODENTIA,MURIDAE,Mus,musculus,House Mouse,Arenaviridae
+190,Machupo mammarenavirus,Apodemus agrarius,1,PCR,RODENTIA,MURIDAE,Apodemus,agrarius,Striped Field Mouse,Arenaviridae
+191,Machupo mammarenavirus,Calomys callosus,9,PCR,RODENTIA,CRICETIDAE,Calomys,callosus,"Large Vesper Mouse, Big Laucha",Arenaviridae
+192,Machupo mammarenavirus,Homo sapiens,67,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Arenaviridae
+193,Mayaro virus,Homo sapiens,27,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Togaviridae
+194,Middle East respiratory syndrome-related coronavirus,Camelus dromedarius,141,PCR,CETARTIODACTYLA,CAMELIDAE,Camelus,dromedarius,,Coronaviridae
+195,Middle East respiratory syndrome-related coronavirus,Homo sapiens,496,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Coronaviridae
+196,Mobala mammarenavirus,Mastomys awashensis,2,PCR,RODENTIA,MURIDAE,Mastomys,awashensis,"Awash Mastomys, Awash Multimammate Mouse",Arenaviridae
+197,Mobala mammarenavirus,Mastomys natalensis,2,PCR,RODENTIA,MURIDAE,Mastomys,natalensis,"Natal Mastomys, Natal Multimammate Mouse",Arenaviridae
+198,Mobala mammarenavirus,Stenocephalemys albipes,1,PCR,RODENTIA,MURIDAE,Stenocephalemys,albipes,"Ethiopian White-footed Mouse, White-footed Stenocephalemys",Arenaviridae
+199,Mokola lyssavirus,Canis lupus familiaris,1,PCR,CARNIVORA,CANIDAE,Canis,lupus familiaris,,Rhabdoviridae
+200,Mokola lyssavirus,Felis catus,16,PCR,CARNIVORA,FELIDAE,Felis,catus,,Rhabdoviridae
+201,Monkeypox virus,Homo sapiens,111,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Poxviridae
+202,Monkeypox virus,Pan troglodytes,1,PCR,PRIMATES,HOMINIDAE,Pan,troglodytes,"Chimpanzee, Robust Chimpanzee, Common Chimpanzee",Poxviridae
+203,Mopeia mammarenavirus,Mastomys natalensis,17,PCR,RODENTIA,MURIDAE,Mastomys,natalensis,"Natal Mastomys, Natal Multimammate Mouse",Arenaviridae
+204,Morogoro mammarenavirus,Mastomys natalensis,20,PCR,RODENTIA,MURIDAE,Mastomys,natalensis,"Natal Mastomys, Natal Multimammate Mouse",Arenaviridae
+205,Muju virus,Myodes regulus,18,PCR,RODENTIA,CRICETIDAE,Myodes,regulus,"Southern Red-backed Vole, Royal Vole, Korean Red-backed Vole",Hantaviridae
+206,Murray Valley encephalitis virus,Equus caballus,3,PCR,PERISSODACTYLA,EQUIDAE,Equus,caballus,,Flaviviridae
+207,Murray Valley encephalitis virus,Homo sapiens,8,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Flaviviridae
+208,Naples virus,Homo sapiens,3,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Phenuiviridae
+209,New York hantavirus,Homo sapiens,2,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+210,New York hantavirus,Peromyscus leucopus,2,PCR,RODENTIA,CRICETIDAE,Peromyscus,leucopus,White-footed Mouse,Hantaviridae
+211,Ngari virus,Homo sapiens,12,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Peribunyaviridae
+212,Nipah henipavirus,Homo sapiens,13,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Paramyxoviridae
+213,Nipah henipavirus,Pteropus giganteus,4,PCR,CHIROPTERA,PTEROPODIDAE,Pteropus,giganteus,"Indian Flying Fox, Indian Flying-fox",Paramyxoviridae
+214,Nipah henipavirus,Pteropus hypomelanus,5,PCR,CHIROPTERA,PTEROPODIDAE,Pteropus,hypomelanus,"Island Flying Fox, Variable Flying-fox, Small Flying-fox, Variable Flying Fox",Paramyxoviridae
+215,Nipah henipavirus,Pteropus lylei,66,PCR,CHIROPTERA,PTEROPODIDAE,Pteropus,lylei,Lyle's Flying Fox,Paramyxoviridae
+216,Nipah henipavirus,Pteropus vampyrus,8,PCR,CHIROPTERA,PTEROPODIDAE,Pteropus,vampyrus,"Large Flying-fox, Large Flying Fox",Paramyxoviridae
+217,Oliveros mammarenavirus,Necromys lasiurus,3,PCR,RODENTIA,CRICETIDAE,Necromys,lasiurus,Hairy-tailed Bolo Mouse,Arenaviridae
+218,Omsk hemorrhagic fever virus,Homo sapiens,4,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Flaviviridae
+219,Omsk hemorrhagic fever virus,Ondatra zibethicus,18,PCR,RODENTIA,CRICETIDAE,Ondatra,zibethicus,Muskrat,Flaviviridae
+220,Oran virus,Homo sapiens,7,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+221,Oran virus,Oligoryzomys longicaudatus,3,PCR,RODENTIA,CRICETIDAE,Oligoryzomys,longicaudatus,Long-tailed Pygmy Rice Rat,Hantaviridae
+222,Orf virus,Antilope cervicapra,1,PCR,CETARTIODACTYLA,BOVIDAE,Antilope,cervicapra,Blackbuck,Poxviridae
+223,Orf virus,Bos taurus,2,PCR,CETARTIODACTYLA,BOVIDAE,Bos,taurus,,Poxviridae
+224,Orf virus,Budorcas taxicolor,2,PCR,CETARTIODACTYLA,BOVIDAE,Budorcas,taxicolor,Takin,Poxviridae
+225,Orf virus,Camelus dromedarius,5,PCR,CETARTIODACTYLA,CAMELIDAE,Camelus,dromedarius,,Poxviridae
+226,Orf virus,Capra hircus,326,PCR,CETARTIODACTYLA,BOVIDAE,Capra,hircus,,Poxviridae
+227,Orf virus,Capra ibex,1,PCR,CETARTIODACTYLA,BOVIDAE,Capra,ibex,"Alpine Ibex, Ibex",Poxviridae
+228,Orf virus,Capricornis crispus,6,PCR,CETARTIODACTYLA,BOVIDAE,Capricornis,crispus,Japanese Serow,Poxviridae
+229,Orf virus,Homo sapiens,12,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Poxviridae
+230,Orf virus,Odocoileus hemionus,2,PCR,CETARTIODACTYLA,CERVIDAE,Odocoileus,hemionus,"Mule Deer, Black-tailed Deer, Cedros Island Mule Deer, Cedros Island Black-tailed Deer",Poxviridae
+231,Orf virus,Oreamnos americanus,16,PCR,CETARTIODACTYLA,BOVIDAE,Oreamnos,americanus,"Mountain Goat, Rocky Mountain Goat",Poxviridae
+232,Orf virus,Ovibos moschatus,12,PCR,CETARTIODACTYLA,BOVIDAE,Ovibos,moschatus,"Muskox, Musk Ox",Poxviridae
+233,Orf virus,Ovis aries,240,PCR,CETARTIODACTYLA,BOVIDAE,Ovis,aries,,Poxviridae
+234,Orf virus,Ovis dalli,6,PCR,CETARTIODACTYLA,BOVIDAE,Ovis,dalli,"Thinhorn Sheep, Dall's Sheep",Poxviridae
+235,Orf virus,Rangifer tarandus,32,PCR,CETARTIODACTYLA,CERVIDAE,Rangifer,tarandus,"Reindeer, Caribou, Peary Caribou",Poxviridae
+236,Orf virus,Rupicapra rupicapra,5,PCR,CETARTIODACTYLA,BOVIDAE,Rupicapra,rupicapra,"Northern Chamois, Alpine Chamois, Chamois, Balkan Chamois",Poxviridae
+237,Oropouche virus,Bradypus tridactylus,11,PCR,PILOSA,BRADYPODIDAE,Bradypus,tridactylus,"Pale-throated Three-toed Sloth, Pale-throated Sloth",Peribunyaviridae
+238,Oropouche virus,Homo sapiens,188,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Peribunyaviridae
+239,Pinhal virus,Calomys tener,5,PCR,RODENTIA,CRICETIDAE,Calomys,tener,"Delicate Vesper Mouse, Delicate Laucha",Arenaviridae
+240,Pirital mammarenavirus,Sigmodon alstoni,29,PCR,RODENTIA,CRICETIDAE,Sigmodon,alstoni,Alston's Cotton Rat,Arenaviridae
+241,Pirital mammarenavirus,Zygodontomys brevicauda,1,PCR,RODENTIA,CRICETIDAE,Zygodontomys,brevicauda,Short-tailed Cane Mouse,Arenaviridae
+242,Powassan virus,Homo sapiens,6,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Flaviviridae
+243,Prospect Hill orthohantavirus,Microtus pennsylvanicus,1,PCR,RODENTIA,CRICETIDAE,Microtus,pennsylvanicus,"Chihuahua Vole, Meadow Vole",Hantaviridae
+244,Pseudocowpox virus,Bos taurus,46,PCR,CETARTIODACTYLA,BOVIDAE,Bos,taurus,,Poxviridae
+245,Pseudocowpox virus,Camelus dromedarius,8,PCR,CETARTIODACTYLA,CAMELIDAE,Camelus,dromedarius,,Poxviridae
+246,Pseudocowpox virus,Homo sapiens,9,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Poxviridae
+247,Pseudocowpox virus,Rangifer tarandus,6,PCR,CETARTIODACTYLA,CERVIDAE,Rangifer,tarandus,"Reindeer, Caribou, Peary Caribou",Poxviridae
+248,Punta Toro virus,Homo sapiens,33,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Phenuiviridae
+249,Puumala orthohantavirus,Homo sapiens,248,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+250,Puumala orthohantavirus,Homo sapiens,248,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+251,Puumala orthohantavirus,Meriones tamariscinus,1,PCR,RODENTIA,MURIDAE,Meriones,tamariscinus,"Tamarisk Gerbil, Tamarisk Jird, TAMARISK JIRD",Hantaviridae
+252,Puumala orthohantavirus,Meriones tamariscinus,1,PCR,RODENTIA,MURIDAE,Meriones,tamariscinus,"Tamarisk Gerbil, Tamarisk Jird, TAMARISK JIRD",Hantaviridae
+253,Puumala orthohantavirus,Myodes glareolus,1066,PCR,RODENTIA,CRICETIDAE,Myodes,glareolus,Bank Vole,Hantaviridae
+254,Puumala orthohantavirus,Myodes glareolus,1066,PCR,RODENTIA,CRICETIDAE,Myodes,glareolus,Bank Vole,Hantaviridae
+255,Puumala orthohantavirus,Myodes rufocanus,32,PCR,RODENTIA,CRICETIDAE,Myodes,rufocanus,"Grey Red-backed Vole, Grey-sided Vole, Gray Red-backed Vole",Hantaviridae
+256,Puumala orthohantavirus,Myodes rufocanus,32,PCR,RODENTIA,CRICETIDAE,Myodes,rufocanus,"Grey Red-backed Vole, Grey-sided Vole, Gray Red-backed Vole",Hantaviridae
+257,Rabies lyssavirus,Antrozous pallidus,9,PCR,CHIROPTERA,VESPERTILIONIDAE,Antrozous,pallidus,Pallid Bat,Rhabdoviridae
+258,Rabies lyssavirus,Apodemus sylvaticus,1,PCR,RODENTIA,MURIDAE,Apodemus,sylvaticus,"Long-tailed Field Mouse, Wood Mouse, Small Wood Mouse",Rhabdoviridae
+259,Rabies lyssavirus,Artibeus jamaicensis,1,PCR,CHIROPTERA,PHYLLOSTOMIDAE,Artibeus,jamaicensis,Jamaican Fruit-eating Bat,Rhabdoviridae
+260,Rabies lyssavirus,Artibeus lituratus,23,PCR,CHIROPTERA,PHYLLOSTOMIDAE,Artibeus,lituratus,Great Fruit-eating Bat,Rhabdoviridae
+261,Rabies lyssavirus,Atilax paludinosus,1,PCR,CARNIVORA,HERPESTIDAE,Atilax,paludinosus,"Marsh Mongoose, Water Mongoose",Rhabdoviridae
+262,Rabies lyssavirus,Bison bison,23,PCR,CETARTIODACTYLA,BOVIDAE,Bison,bison,American Bison,Rhabdoviridae
+263,Rabies lyssavirus,Bos taurus,650,PCR,CETARTIODACTYLA,BOVIDAE,Bos,taurus,,Rhabdoviridae
+264,Rabies lyssavirus,Bubalus arnee,1,PCR,CETARTIODACTYLA,BOVIDAE,Bubalus,arnee,"Wild Water Buffalo, Wild Asian Buffalo, Indian Buffalo, Indian Water Buffalo, Water Buffalo, Asiatic Buffalo, Asian Buffalo",Rhabdoviridae
+265,Rabies lyssavirus,Callithrix jacchus,17,PCR,PRIMATES,CALLITRICHIDAE,Callithrix,jacchus,"Common Marmoset, White-tufted-ear Marmoset",Rhabdoviridae
+266,Rabies lyssavirus,Canis aureus,41,PCR,CARNIVORA,CANIDAE,Canis,aureus,"Golden Jackal, Asiatic Jackal, Common Jackal",Rhabdoviridae
+267,Rabies lyssavirus,Canis familiaris,83,PCR,CARNIVORA,CANIDAE,Canis,familiaris,,Rhabdoviridae
+268,Rabies lyssavirus,Canis latrans,75,PCR,CARNIVORA,CANIDAE,Canis,latrans,"Coyote, American Jackal, Brush Wolf, Prairie Wolf",Rhabdoviridae
+269,Rabies lyssavirus,Canis lupus,16,PCR,CARNIVORA,CANIDAE,Canis,lupus,"Gray Wolf, Timber Wolf, Arctic Wolf, Grey Wolf, Mexican Wolf, Plains Wolf, Common Wolf, Tundra Wolf, Wolf",Rhabdoviridae
+270,Rabies lyssavirus,Canis lupus familiaris,2155,PCR,CARNIVORA,CANIDAE,Canis,lupus familiaris,,Rhabdoviridae
+271,Rabies lyssavirus,Canis mesomelas,47,PCR,CARNIVORA,CANIDAE,Canis,mesomelas,"Black-backed Jackal, Silver-backed Jackal",Rhabdoviridae
+272,Rabies lyssavirus,Canis simensis,1,PCR,CARNIVORA,CANIDAE,Canis,simensis,"Ethiopian Wolf, Simien Jackal, Simien Fox",Rhabdoviridae
+273,Rabies lyssavirus,Capra hircus,54,PCR,CETARTIODACTYLA,BOVIDAE,Capra,hircus,,Rhabdoviridae
+274,Rabies lyssavirus,Cerdocyon thous,65,PCR,CARNIVORA,CANIDAE,Cerdocyon,thous,"Crab-eating Fox, Crab-eating Zorro, Savannah Fox, Common Zorro",Rhabdoviridae
+275,Rabies lyssavirus,Cervus nippon,1,PCR,CETARTIODACTYLA,CERVIDAE,Cervus,nippon,"Sika Deer, Sika, Shansi Sika, Japanese Sika Deer",Rhabdoviridae
+276,Rabies lyssavirus,Civettictis civetta,7,PCR,CARNIVORA,VIVERRIDAE,Civettictis,civetta,African Civet,Rhabdoviridae
+277,Rabies lyssavirus,Corynorhinus townsendii,2,PCR,CHIROPTERA,VESPERTILIONIDAE,Corynorhinus,townsendii,Townsend's Big-eared Bat,Rhabdoviridae
+278,Rabies lyssavirus,Crocuta crocuta,8,PCR,CARNIVORA,HYAENIDAE,Crocuta,crocuta,Spotted Hyaena,Rhabdoviridae
+279,Rabies lyssavirus,Cynictis penicillata,2,PCR,CARNIVORA,HERPESTIDAE,Cynictis,penicillata,Yellow Mongoose,Rhabdoviridae
+280,Rabies lyssavirus,Cynomops abrasus,1,PCR,CHIROPTERA,MOLOSSIDAE,Cynomops,abrasus,Cinnamon Dog-faced Bat,Rhabdoviridae
+281,Rabies lyssavirus,Desmodus rotundus,138,PCR,CHIROPTERA,PHYLLOSTOMIDAE,Desmodus,rotundus,"Common Vampire Bat, Vampire Bat",Rhabdoviridae
+282,Rabies lyssavirus,Diphylla ecaudata,2,PCR,CHIROPTERA,PHYLLOSTOMIDAE,Diphylla,ecaudata,Hairy-legged Vampire Bat,Rhabdoviridae
+283,Rabies lyssavirus,Eptesicus diminutus,3,PCR,CHIROPTERA,VESPERTILIONIDAE,Eptesicus,diminutus,Diminutive Serotine,Rhabdoviridae
+284,Rabies lyssavirus,Eptesicus furinalis,35,PCR,CHIROPTERA,VESPERTILIONIDAE,Eptesicus,furinalis,"Argentine Brown Bat, Argentinian Brown Bat",Rhabdoviridae
+285,Rabies lyssavirus,Eptesicus fuscus,507,PCR,CHIROPTERA,VESPERTILIONIDAE,Eptesicus,fuscus,Big Brown Bat,Rhabdoviridae
+286,Rabies lyssavirus,Eptesicus serotinus,1,PCR,CHIROPTERA,VESPERTILIONIDAE,Eptesicus,serotinus,Serotine,Rhabdoviridae
+287,Rabies lyssavirus,Equus asinus,6,PCR,PERISSODACTYLA,EQUIDAE,Equus,asinus,,Rhabdoviridae
+288,Rabies lyssavirus,Equus caballus,65,PCR,PERISSODACTYLA,EQUIDAE,Equus,caballus,,Rhabdoviridae
+289,Rabies lyssavirus,Euderma maculatum,1,PCR,CHIROPTERA,VESPERTILIONIDAE,Euderma,maculatum,Spotted Bat,Rhabdoviridae
+290,Rabies lyssavirus,Eumops glaucinus,1,PCR,CHIROPTERA,MOLOSSIDAE,Eumops,glaucinus,Wagner's Bonneted Bat,Rhabdoviridae
+291,Rabies lyssavirus,Eumops patagonicus,1,PCR,CHIROPTERA,MOLOSSIDAE,Eumops,patagonicus,Patagonian Dwarf Bonneted Bat,Rhabdoviridae
+292,Rabies lyssavirus,Eumops perotis,1,PCR,CHIROPTERA,MOLOSSIDAE,Eumops,perotis,"Western Mastiff Bat, Western Bonneted Bat, Greater Bonneted Bat",Rhabdoviridae
+293,Rabies lyssavirus,Felis catus,115,PCR,CARNIVORA,FELIDAE,Felis,catus,,Rhabdoviridae
+294,Rabies lyssavirus,Felis nigripes,1,PCR,CARNIVORA,FELIDAE,Felis,nigripes,"Black-footed Cat, Small-spotted Cat",Rhabdoviridae
+295,Rabies lyssavirus,Felis silvestris,5,PCR,CARNIVORA,FELIDAE,Felis,silvestris,"Wild Cat, Wildcat",Rhabdoviridae
+296,Rabies lyssavirus,Genetta genetta,3,PCR,CARNIVORA,VIVERRIDAE,Genetta,genetta,Common Genet,Rhabdoviridae
+297,Rabies lyssavirus,Glossophaga soricina,1,PCR,CHIROPTERA,PHYLLOSTOMIDAE,Glossophaga,soricina,Pallas's Long-tongued Bat,Rhabdoviridae
+298,Rabies lyssavirus,Herpestes edwardsii,1,PCR,CARNIVORA,HERPESTIDAE,Herpestes,edwardsii,"Indian Grey Mongoose, Grey Mongoose, Common Mongoose",Rhabdoviridae
+299,Rabies lyssavirus,Herpestes sanguineus,3,PCR,CARNIVORA,HERPESTIDAE,Herpestes,sanguineus,"Common Slender Mongoose, Slender Mongoose",Rhabdoviridae
+300,Rabies lyssavirus,Histiotus macrotus,9,PCR,CHIROPTERA,VESPERTILIONIDAE,Histiotus,macrotus,Big-eared Brown Bat,Rhabdoviridae
+301,Rabies lyssavirus,Histiotus montanus,1,PCR,CHIROPTERA,VESPERTILIONIDAE,Histiotus,montanus,Small Big-eared Brown Bat,Rhabdoviridae
+302,Rabies lyssavirus,Histiotus velatus,2,PCR,CHIROPTERA,VESPERTILIONIDAE,Histiotus,velatus,Tropical Big-eared Brown Bat,Rhabdoviridae
+303,Rabies lyssavirus,Homo sapiens,207,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Rhabdoviridae
+304,Rabies lyssavirus,Ichneumia albicauda,3,PCR,CARNIVORA,HERPESTIDAE,Ichneumia,albicauda,White-tailed Mongoose,Rhabdoviridae
+305,Rabies lyssavirus,Lama glama,1,PCR,CETARTIODACTYLA,CAMELIDAE,Lama,glama,,Rhabdoviridae
+306,Rabies lyssavirus,Lasionycteris noctivagans,65,PCR,CHIROPTERA,VESPERTILIONIDAE,Lasionycteris,noctivagans,Silver-haired Bat,Rhabdoviridae
+307,Rabies lyssavirus,Lasiurus blossevillii,5,PCR,CHIROPTERA,VESPERTILIONIDAE,Lasiurus,blossevillii,Southern Red Bat,Rhabdoviridae
+308,Rabies lyssavirus,Lasiurus borealis,45,PCR,CHIROPTERA,VESPERTILIONIDAE,Lasiurus,borealis,"Eastern Red Bat, Red Bat",Rhabdoviridae
+309,Rabies lyssavirus,Lasiurus cinereus,79,PCR,CHIROPTERA,VESPERTILIONIDAE,Lasiurus,cinereus,"Hoary Bat, Hawaiian Hoary Bat",Rhabdoviridae
+310,Rabies lyssavirus,Lasiurus ega,13,PCR,CHIROPTERA,VESPERTILIONIDAE,Lasiurus,ega,Southern Yellow Bat,Rhabdoviridae
+311,Rabies lyssavirus,Lasiurus intermedius,12,PCR,CHIROPTERA,VESPERTILIONIDAE,Lasiurus,intermedius,Northern Yellow Bat,Rhabdoviridae
+312,Rabies lyssavirus,Lasiurus seminolus,7,PCR,CHIROPTERA,VESPERTILIONIDAE,Lasiurus,seminolus,Seminole Bat,Rhabdoviridae
+313,Rabies lyssavirus,Lasiurus xanthinus,2,PCR,CHIROPTERA,VESPERTILIONIDAE,Lasiurus,xanthinus,Western Yellow Bat,Rhabdoviridae
+314,Rabies lyssavirus,Lycalopex vetulus,4,PCR,CARNIVORA,CANIDAE,Lycalopex,vetulus,"Hoary Fox, Small-toothed Dog, Hoary Zorro",Rhabdoviridae
+315,Rabies lyssavirus,Lycaon pictus,3,PCR,CARNIVORA,CANIDAE,Lycaon,pictus,"African Wild Dog, Painted Hunting Dog, Cape Hunting Dog",Rhabdoviridae
+316,Rabies lyssavirus,Lynx rufus,4,PCR,CARNIVORA,FELIDAE,Lynx,rufus,"Bobcat, Bay Lynx",Rhabdoviridae
+317,Rabies lyssavirus,Martes foina,1,PCR,CARNIVORA,MUSTELIDAE,Martes,foina,"Beech Marten, Stone Marten",Rhabdoviridae
+318,Rabies lyssavirus,Meles meles,1,PCR,CARNIVORA,MUSTELIDAE,Meles,meles,"Eurasian Badger, European Badger, Badger",Rhabdoviridae
+319,Rabies lyssavirus,Mellivora capensis,4,PCR,CARNIVORA,MUSTELIDAE,Mellivora,capensis,"Honey Badger, Ratel",Rhabdoviridae
+320,Rabies lyssavirus,Mephitis mephitis,79,PCR,CARNIVORA,MEPHITIDAE,Mephitis,mephitis,Striped Skunk,Rhabdoviridae
+321,Rabies lyssavirus,Molossops neglectus,1,PCR,CHIROPTERA,MOLOSSIDAE,Molossops,neglectus,Rufous Dog-faced Bat,Rhabdoviridae
+322,Rabies lyssavirus,Molossus molossus,6,PCR,CHIROPTERA,MOLOSSIDAE,Molossus,molossus,Pallas's Mastiff Bat,Rhabdoviridae
+323,Rabies lyssavirus,Molossus rufus,6,PCR,CHIROPTERA,MOLOSSIDAE,Molossus,rufus,Black Mastiff Bat,Rhabdoviridae
+324,Rabies lyssavirus,Mustela putorius,1,PCR,CARNIVORA,MUSTELIDAE,Mustela,putorius,"Western Polecat, European Polecat",Rhabdoviridae
+325,Rabies lyssavirus,Myotis albescens,1,PCR,CHIROPTERA,VESPERTILIONIDAE,Myotis,albescens,Silver-tipped Myotis,Rhabdoviridae
+326,Rabies lyssavirus,Myotis austroriparius,1,PCR,CHIROPTERA,VESPERTILIONIDAE,Myotis,austroriparius,Southeastern Myotis,Rhabdoviridae
+327,Rabies lyssavirus,Myotis californicus,12,PCR,CHIROPTERA,VESPERTILIONIDAE,Myotis,californicus,"California Myotis, Californian Myotis",Rhabdoviridae
+328,Rabies lyssavirus,Myotis chiloensis,8,PCR,CHIROPTERA,VESPERTILIONIDAE,Myotis,chiloensis,Chilean Myotis,Rhabdoviridae
+329,Rabies lyssavirus,Myotis evotis,3,PCR,CHIROPTERA,VESPERTILIONIDAE,Myotis,evotis,Long-eared Myotis,Rhabdoviridae
+330,Rabies lyssavirus,Myotis lucifugus,2,PCR,CHIROPTERA,VESPERTILIONIDAE,Myotis,lucifugus,"Little Brown Bat, Little Brown Myotis",Rhabdoviridae
+331,Rabies lyssavirus,Myotis nigricans,24,PCR,CHIROPTERA,VESPERTILIONIDAE,Myotis,nigricans,Black Myotis,Rhabdoviridae
+332,Rabies lyssavirus,Myotis riparius,1,PCR,CHIROPTERA,VESPERTILIONIDAE,Myotis,riparius,Riparian Myotis,Rhabdoviridae
+333,Rabies lyssavirus,Myotis thysanodes,1,PCR,CHIROPTERA,VESPERTILIONIDAE,Myotis,thysanodes,Fringed Myotis,Rhabdoviridae
+334,Rabies lyssavirus,Myotis velifer,5,PCR,CHIROPTERA,VESPERTILIONIDAE,Myotis,velifer,Cave Myotis,Rhabdoviridae
+335,Rabies lyssavirus,Myotis yumanensis,8,PCR,CHIROPTERA,VESPERTILIONIDAE,Myotis,yumanensis,Yuma Myotis,Rhabdoviridae
+336,Rabies lyssavirus,Nyctereutes procyonoides,25,PCR,CARNIVORA,CANIDAE,Nyctereutes,procyonoides,Raccoon Dog,Rhabdoviridae
+337,Rabies lyssavirus,Nycticeius humeralis,3,PCR,CHIROPTERA,VESPERTILIONIDAE,Nycticeius,humeralis,Evening Bat,Rhabdoviridae
+338,Rabies lyssavirus,Nyctinomops laticaudatus,22,PCR,CHIROPTERA,MOLOSSIDAE,Nyctinomops,laticaudatus,"Broad-eared Bat, Broad-eared Free-tailed Bat",Rhabdoviridae
+339,Rabies lyssavirus,Nyctinomops macrotis,2,PCR,CHIROPTERA,MOLOSSIDAE,Nyctinomops,macrotis,Big Free-tailed Bat,Rhabdoviridae
+340,Rabies lyssavirus,Otocyon megalotis,121,PCR,CARNIVORA,CANIDAE,Otocyon,megalotis,Bat-eared Fox,Rhabdoviridae
+341,Rabies lyssavirus,Ovis aries,26,PCR,CETARTIODACTYLA,BOVIDAE,Ovis,aries,,Rhabdoviridae
+342,Rabies lyssavirus,Panthera pardus,1,PCR,CARNIVORA,FELIDAE,Panthera,pardus,Leopard,Rhabdoviridae
+343,Rabies lyssavirus,Pipistrellus hesperus,23,PCR,CHIROPTERA,VESPERTILIONIDAE,Pipistrellus,hesperus,Western Pipistrelle,Rhabdoviridae
+344,Rabies lyssavirus,Pipistrellus subflavus,21,PCR,CHIROPTERA,VESPERTILIONIDAE,Pipistrellus,subflavus,Eastern Pipistrelle,Rhabdoviridae
+345,Rabies lyssavirus,Procyon cancrivorus,1,PCR,CARNIVORA,PROCYONIDAE,Procyon,cancrivorus,Crab-eating Raccoon,Rhabdoviridae
+346,Rabies lyssavirus,Procyon lotor,124,PCR,CARNIVORA,PROCYONIDAE,Procyon,lotor,Northern Raccoon,Rhabdoviridae
+347,Rabies lyssavirus,Proteles cristata,2,PCR,CARNIVORA,HYAENIDAE,Proteles,cristata,Aardwolf,Rhabdoviridae
+348,Rabies lyssavirus,Rangifer tarandus,2,PCR,CETARTIODACTYLA,CERVIDAE,Rangifer,tarandus,"Reindeer, Caribou, Peary Caribou",Rhabdoviridae
+349,Rabies lyssavirus,Spilogale putorius,5,PCR,CARNIVORA,MEPHITIDAE,Spilogale,putorius,"Eastern Spotted Skunk, Plains Spotted Skunk, Allegheny Spotted Skunk, Appalachian Spotted Skunk, Spotted Skunk",Rhabdoviridae
+350,Rabies lyssavirus,Suricata suricatta,5,PCR,CARNIVORA,HERPESTIDAE,Suricata,suricatta,"Meerkat, Suricate, Slender-tailed Meerkat",Rhabdoviridae
+351,Rabies lyssavirus,Sus scrofa domesticus,1,PCR,CETARTIODACTYLA,SUIDAE,Sus,scrofa domesticus,,Rhabdoviridae
+352,Rabies lyssavirus,Tadarida brasiliensis,154,PCR,CHIROPTERA,MOLOSSIDAE,Tadarida,brasiliensis,"Brazilian Free-tailed Bat, Mexican Free-tailed Bat",Rhabdoviridae
+353,Rabies lyssavirus,Taxidea taxus,4,PCR,CARNIVORA,MUSTELIDAE,Taxidea,taxus,American Badger,Rhabdoviridae
+354,Rabies lyssavirus,Tragelaphus oryx,1,PCR,CETARTIODACTYLA,BOVIDAE,Tragelaphus,oryx,"Common Eland, Eland",Rhabdoviridae
+355,Rabies lyssavirus,Tragelaphus strepsiceros,11,PCR,CETARTIODACTYLA,BOVIDAE,Tragelaphus,strepsiceros,Greater Kudu,Rhabdoviridae
+356,Rabies lyssavirus,Urocitellus undulatus,2,PCR,RODENTIA,SCIURIDAE,Urocitellus,undulatus,Long-tailed Ground Squirrel,Rhabdoviridae
+357,Rabies lyssavirus,Urocyon cinereoargenteus,7,PCR,CARNIVORA,CANIDAE,Urocyon,cinereoargenteus,"Grey Fox, Tree Fox, Gray Fox",Rhabdoviridae
+358,Rabies lyssavirus,Ursus maritimus,1,PCR,CARNIVORA,URSIDAE,Ursus,maritimus,Polar Bear,Rhabdoviridae
+359,Rabies lyssavirus,Vulpes chama,3,PCR,CARNIVORA,CANIDAE,Vulpes,chama,"Cape Fox, Silver Jackal, Silver Fox",Rhabdoviridae
+360,Rabies lyssavirus,Vulpes lagopus,198,PCR,CARNIVORA,CANIDAE,Vulpes,lagopus,"Arctic Fox, Polar Fox",Rhabdoviridae
+361,Rabies lyssavirus,Vulpes vulpes,149,PCR,CARNIVORA,CANIDAE,Vulpes,vulpes,"Red Fox, Silver Fox, Cross Fox",Rhabdoviridae
+362,Rift Valley fever virus,Bison bison,2,PCR,CETARTIODACTYLA,BOVIDAE,Bison,bison,American Bison,Phenuiviridae
+363,Rift Valley fever virus,Bos taurus,158,PCR,CETARTIODACTYLA,BOVIDAE,Bos,taurus,,Phenuiviridae
+364,Rift Valley fever virus,Capra aegagrus,2,PCR,CETARTIODACTYLA,BOVIDAE,Capra,aegagrus,"Wild Goat, Bezoar",Phenuiviridae
+365,Rift Valley fever virus,Capra hircus,16,PCR,CETARTIODACTYLA,BOVIDAE,Capra,hircus,,Phenuiviridae
+366,Rift Valley fever virus,Hipposideros caffer,3,PCR,CHIROPTERA,HIPPOSIDERIDAE,Hipposideros,caffer,"Sundevall's Roundleaf Bat, Lesser Leaf-nosed bat, Common African Leaf-nosed Bat, Sundevall's Leafnosed Bat, Cape Leaf-nosed bat",Phenuiviridae
+367,Rift Valley fever virus,Homo sapiens,318,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Phenuiviridae
+368,Rift Valley fever virus,Micropteropus pusillus,2,PCR,CHIROPTERA,PTEROPODIDAE,Micropteropus,pusillus,Peter's Dwarf Epauletted Fruit Bat,Phenuiviridae
+369,Rift Valley fever virus,Ovis aries,40,PCR,CETARTIODACTYLA,BOVIDAE,Ovis,aries,,Phenuiviridae
+370,Rift Valley fever virus,Syncerus caffer,7,PCR,CETARTIODACTYLA,BOVIDAE,Syncerus,caffer,African Buffalo,Phenuiviridae
+371,Rio Mamore hantavirus,Homo sapiens,1,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+372,Rio Mamore hantavirus,Oligoryzomys microtis,12,PCR,RODENTIA,CRICETIDAE,Oligoryzomys,microtis,Small-eared Pygmy Rice Rat,Hantaviridae
+373,Ross River virus,Grallina cyanoleuca,1,PCR,PASSERIFORMES,MONARCHIDAE,Grallina,cyanoleuca,"Magpie-lark, Magpielark",Togaviridae
+374,Ross River virus,Homo sapiens,252,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Togaviridae
+375,Ross River virus,Macropus agilis,2,PCR,DIPROTODONTIA,MACROPODIDAE,Macropus,agilis,Agile Wallaby,Togaviridae
+376,Ross River virus,Microeca fascinans,1,PCR,PASSERIFORMES,PETROICIDAE,Microeca,fascinans,"Jacky-winter, Jacky Winter",Togaviridae
+377,Ross River virus,Poephila personata,1,PCR,PASSERIFORMES,ESTRILDIDAE,Poephila,personata,Masked Finch,Togaviridae
+378,Rotavirus,Homo sapiens,5,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Reoviridae
+379,San Miguel sea lion virus,Zalophus californianus,5,PCR,CARNIVORA,OTARIIDAE,Zalophus,californianus,Californian Sea Lion,Caliciviridae
+380,Sandfly fever Sicilian virus,Homo sapiens,8,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Phenuiviridae
+381,Seal parapoxvirus,Halichoerus grypus,3,PCR,CARNIVORA,PHOCIDAE,Halichoerus,grypus,"Grey Seal, Long-nosed Seal, Horsehead Seal, Gray Seal",Poxviridae
+382,Seal parapoxvirus,Leptonychotes weddellii,3,PCR,CARNIVORA,PHOCIDAE,Leptonychotes,weddellii,Weddell Seal,Poxviridae
+383,Seal parapoxvirus,Phoca vitulina,1,PCR,CARNIVORA,PHOCIDAE,Phoca,vitulina,"Harbor Seal, Harbour Seal, Common Seal",Poxviridae
+384,Semliki Forest virus,Capra hircus,1,PCR,CETARTIODACTYLA,BOVIDAE,Capra,hircus,,Togaviridae
+385,Semliki Forest virus,Capra hircus,1,PCR,CETARTIODACTYLA,BOVIDAE,Capra,hircus,,Togaviridae
+386,Seoul orthohantavirus,Apodemus agrarius,10,PCR,RODENTIA,MURIDAE,Apodemus,agrarius,Striped Field Mouse,Hantaviridae
+387,Seoul orthohantavirus,Cricetulus barabensis,3,PCR,RODENTIA,CRICETIDAE,Cricetulus,barabensis,Striped Dwarf Hamster,Hantaviridae
+388,Seoul orthohantavirus,Felis catus,2,PCR,CARNIVORA,FELIDAE,Felis,catus,,Hantaviridae
+389,Seoul orthohantavirus,Hipposideros armiger,3,PCR,CHIROPTERA,HIPPOSIDERIDAE,Hipposideros,armiger,"Great Himalayan Leaf-nosed Bat, Great Leaf-nosed Bat, Great Roundleaf Bat",Hantaviridae
+390,Seoul orthohantavirus,Hipposideros larvatus,1,PCR,CHIROPTERA,HIPPOSIDERIDAE,Hipposideros,larvatus,"Horsfield's Leaf-nosed Bat, Intermediate Roundleaf Bat, Intermediate Leaf-nosed Bat, Intermediat Roundleaf Bat",Hantaviridae
+391,Seoul orthohantavirus,Hipposideros pomona,3,PCR,CHIROPTERA,HIPPOSIDERIDAE,Hipposideros,pomona,"Andersen's Leaf-nosed Bat, Pomona Leaf-nosed Bat, Pomona Roundleaf Bat",Hantaviridae
+392,Seoul orthohantavirus,Homo sapiens,52,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+393,Seoul orthohantavirus,Mammelomys rattoides,2,PCR,RODENTIA,MURIDAE,Mammelomys,rattoides,"Lowland Mammelomys, Large Mosaic-tailed Rat, Large Melomys",Hantaviridae
+394,Seoul orthohantavirus,Microtus fortis,2,PCR,RODENTIA,CRICETIDAE,Microtus,fortis,Reed Vole,Hantaviridae
+395,Seoul orthohantavirus,Mus musculus,27,PCR,RODENTIA,MURIDAE,Mus,musculus,House Mouse,Hantaviridae
+396,Seoul orthohantavirus,Rattus argentiventer,1,PCR,RODENTIA,MURIDAE,Rattus,argentiventer,"Ricefield Rat, Rice-field Rat",Hantaviridae
+397,Seoul orthohantavirus,Rattus norvegicus,664,PCR,RODENTIA,MURIDAE,Rattus,norvegicus,Brown Rat,Hantaviridae
+398,Seoul orthohantavirus,Rattus rattus,4,PCR,RODENTIA,MURIDAE,Rattus,rattus,"House Rat, Ship Rat, Roof Rat, Black Rat",Hantaviridae
+399,Seoul orthohantavirus,Rattus tanezumi,75,PCR,RODENTIA,MURIDAE,Rattus,tanezumi,"Oriental House Rat, Tanezumi Rat",Hantaviridae
+400,Seoul orthohantavirus,Rhinolophus pusillus,2,PCR,CHIROPTERA,RHINOLOPHIDAE,Rhinolophus,pusillus,Least Horseshoe Bat,Hantaviridae
+401,Seoul orthohantavirus,Suncus murinus,7,PCR,EULIPOTYPHLA,SORICIDAE,Suncus,murinus,"House Shrew, Asian House Shrew",Hantaviridae
+402,Seoul orthohantavirus,Tscherskia triton,2,PCR,RODENTIA,CRICETIDAE,Tscherskia,triton,Greater Long-tailed Hamster,Hantaviridae
+403,Shimoni bat lyssavirus,Hipposideros commersoni,2,PCR,CHIROPTERA,HIPPOSIDERIDAE,Hipposideros,commersoni,"Commerson's Leaf-nosed Bat, Commerson's Roundleaf Bat",Rhabdoviridae
+404,Simian foamy virus,Allenopithecus nigroviridis,2,PCR,PRIMATES,CERCOPITHECIDAE,Allenopithecus,nigroviridis,"Allen's Swamp Monkey, Blackish-green Guenon",Retroviridae
+405,Simian foamy virus,Alouatta belzebul,3,PCR,PRIMATES,ATELIDAE,Alouatta,belzebul,"Red-handed Howler Monkey, Black and Red Howler, Red-handed Howler, Red-handed Howling Monkey",Retroviridae
+406,Simian foamy virus,Alouatta guariba,6,PCR,PRIMATES,ATELIDAE,Alouatta,guariba,"Brown Howler, Brown Howling Monkey, Southern Brown Howling Monkey, Brown Howler Monkey",Retroviridae
+407,Simian foamy virus,Alouatta seniculus,11,PCR,PRIMATES,ATELIDAE,Alouatta,seniculus,,Retroviridae
+408,Simian foamy virus,Ateles belzebuth,3,PCR,PRIMATES,ATELIDAE,Ateles,belzebuth,"White-bellied Spider Monkey, White-fronted Spider Monkey, Long-haired Spider Monkey",Retroviridae
+409,Simian foamy virus,Ateles fusciceps,2,PCR,PRIMATES,ATELIDAE,Ateles,fusciceps,"Brown-headed Spider Monkey, Black-headed Spider Monkey",Retroviridae
+410,Simian foamy virus,Ateles geoffroyi,9,PCR,PRIMATES,ATELIDAE,Ateles,geoffroyi,"Geoffroy's Spider Monkey, Black-handed Spider Monkey, Central American Spider Monkey, Central American Spider Monkey, Black-headed Spider Monkey, Mono Colorado",Retroviridae
+411,Simian foamy virus,Ateles paniscus,2,PCR,PRIMATES,ATELIDAE,Ateles,paniscus,"Guiana Spider Monkey, Red-faced Black Spider Monkey, Red-faced Spider Monkey, Black Spider Monkey",Retroviridae
+412,Simian foamy virus,Cacajao calvus,2,PCR,PRIMATES,PITHECIIDAE,Cacajao,calvus,"Bald-headed Uacari, White Uakari, Bald Uacari, Bald Uakari, Red-and-white Uacari, Red Uakari, Bald-headed Uakari",Retroviridae
+413,Simian foamy virus,Cacajao hosomi,3,PCR,PRIMATES,PITHECIIDAE,Cacajao,hosomi,"Black-headed Uacari, Neblina Uakari, Neblina Uacari, Uakari",Retroviridae
+414,Simian foamy virus,Callithrix geoffroyi,1,PCR,PRIMATES,CALLITRICHIDAE,Callithrix,geoffroyi,"Geoffroy's Tufted-ear Marmoset, White-fronted Marmoset, White-faced Marmoset, Geoffroy's Marmoset, White-headed Marmoset",Retroviridae
+415,Simian foamy virus,Callithrix jacchus,2,PCR,PRIMATES,CALLITRICHIDAE,Callithrix,jacchus,"Common Marmoset, White-tufted-ear Marmoset",Retroviridae
+416,Simian foamy virus,Cebus albifrons,2,PCR,PRIMATES,CEBIDAE,Cebus,albifrons,"Humboldt's White-fronted Capuchin, White-fronted Capuchin",Retroviridae
+417,Simian foamy virus,Cebus apella,23,PCR,PRIMATES,CEBIDAE,Cebus,apella,,Retroviridae
+418,Simian foamy virus,Cercocebus agilis,1,PCR,PRIMATES,CERCOPITHECIDAE,Cercocebus,agilis,Agile Mangabey,Retroviridae
+419,Simian foamy virus,Cercocebus atys,4,PCR,PRIMATES,CERCOPITHECIDAE,Cercocebus,atys,Sooty Mangabey,Retroviridae
+420,Simian foamy virus,Cercocebus torquatus,3,PCR,PRIMATES,CERCOPITHECIDAE,Cercocebus,torquatus,"Red-capped Mangabey, White-collared Mangabey, Red-crowned Mangabey, Sooty Mangabey, Collared Mangabey",Retroviridae
+421,Simian foamy virus,Cercopithecus albogularis,1,PCR,PRIMATES,CERCOPITHECIDAE,Cercopithecus,albogularis,,Retroviridae
+422,Simian foamy virus,Cercopithecus cephus,1,PCR,PRIMATES,CERCOPITHECIDAE,Cercopithecus,cephus,"Moustached Monkey, Mustached Monkey, Moustached Guenon",Retroviridae
+423,Simian foamy virus,Cercopithecus hamlyni,1,PCR,PRIMATES,CERCOPITHECIDAE,Cercopithecus,hamlyni,"Owl-faced Monkey, Hamlyn's Monkey, Owl-faced Guenon",Retroviridae
+424,Simian foamy virus,Cercopithecus lhoesti,2,PCR,PRIMATES,CERCOPITHECIDAE,Cercopithecus,lhoesti,,Retroviridae
+425,Simian foamy virus,Cercopithecus mitis,2,PCR,PRIMATES,CERCOPITHECIDAE,Cercopithecus,mitis,"Blue Monkey, Samango, Golden Monkey, Diademed Monkey, Sykes' Monkey",Retroviridae
+426,Simian foamy virus,Cercopithecus mona,2,PCR,PRIMATES,CERCOPITHECIDAE,Cercopithecus,mona,"Mona Monkey, Mona Guenon",Retroviridae
+427,Simian foamy virus,Cercopithecus neglectus,4,PCR,PRIMATES,CERCOPITHECIDAE,Cercopithecus,neglectus,"De Brazza's Monkey, De Brazza's Guenon",Retroviridae
+428,Simian foamy virus,Chlorocebus aethiops,57,PCR,PRIMATES,CERCOPITHECIDAE,Chlorocebus,aethiops,"Grivet Monkey, Tantalus, Green Monkey, Malbrouk Monkey, Grivet, Vervet Monkey",Retroviridae
+429,Simian foamy virus,Chlorocebus pygerythrus,6,PCR,PRIMATES,CERCOPITHECIDAE,Chlorocebus,pygerythrus,"Vervet Monkey, Vervet",Retroviridae
+430,Simian foamy virus,Chlorocebus sabaeus,12,PCR,PRIMATES,CERCOPITHECIDAE,Chlorocebus,sabaeus,"Green Monkey, Western Green Monkey",Retroviridae
+431,Simian foamy virus,Chlorocebus tantalus,8,PCR,PRIMATES,CERCOPITHECIDAE,Chlorocebus,tantalus,Tantalus Monkey,Retroviridae
+432,Simian foamy virus,Colobus guereza,1,PCR,PRIMATES,CERCOPITHECIDAE,Colobus,guereza,"Guereza, Magistrate Colobus, Eastern Black-and-white Colobus",Retroviridae
+433,Simian foamy virus,Erythrocebus patas,1,PCR,PRIMATES,CERCOPITHECIDAE,Erythrocebus,patas,Patas Monkey,Retroviridae
+434,Simian foamy virus,Gorilla gorilla,9,PCR,PRIMATES,HOMINIDAE,Gorilla,gorilla,"Western Gorilla, Lowland Gorilla",Retroviridae
+435,Simian foamy virus,Homo sapiens,509,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Retroviridae
+436,Simian foamy virus,Hylobates pileatus,1,PCR,PRIMATES,HYLOBATIDAE,Hylobates,pileatus,"Pileated Gibbon, Capped Gibbon, Crowned Gibbon",Retroviridae
+437,Simian foamy virus,Lagothrix lagotricha,5,PCR,PRIMATES,ATELIDAE,Lagothrix,lagotricha,"Common Woolly Monkey, Humboldt's Woolly Monkey, Woolly Monkey",Retroviridae
+438,Simian foamy virus,Leontopithecus chrysomelas,1,PCR,PRIMATES,CALLITRICHIDAE,Leontopithecus,chrysomelas,Golden-headed Lion Tamarin,Retroviridae
+439,Simian foamy virus,Leontopithecus rosalia,1,PCR,PRIMATES,CALLITRICHIDAE,Leontopithecus,rosalia,Golden Lion Tamarin,Retroviridae
+440,Simian foamy virus,Lophocebus albigena,2,PCR,PRIMATES,CERCOPITHECIDAE,Lophocebus,albigena,"Grey-cheeked Mangabey, White-cheeked Mangabey, Gray-cheeked Mangabey",Retroviridae
+441,Simian foamy virus,Lophocebus aterrimus,1,PCR,PRIMATES,CERCOPITHECIDAE,Lophocebus,aterrimus,"Black Mangabey, Black Crested Mangabey",Retroviridae
+442,Simian foamy virus,Macaca arctoides,4,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,arctoides,"Stump-tailed Macaque, Stumptail Macaque, Bear Macaque",Retroviridae
+443,Simian foamy virus,Macaca fascicularis,53,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,fascicularis,"Nicobar Crab-eating Macaque, Nicobar Cynomolgus Monkey, Nicobar Long-tailed Macaque",Retroviridae
+444,Simian foamy virus,Macaca fuscata,5,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,fuscata,Japanese Macaque,Retroviridae
+445,Simian foamy virus,Macaca maura,3,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,maura,"Moor Macaque, Celebes Macaque",Retroviridae
+446,Simian foamy virus,Macaca mulatta,1469,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,mulatta,"Rhesus Monkey, Rhesus Macaque",Retroviridae
+447,Simian foamy virus,Macaca nemestrina,7,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,nemestrina,"Southern Pig-tailed Macaque, Sundaland Pigtail Macaque, Pig-tailed Macaque, Pigtail Macaque, Sunda Pig-tailed Macaque",Retroviridae
+448,Simian foamy virus,Macaca radiata,1,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,radiata,Bonnet Macaque,Retroviridae
+449,Simian foamy virus,Macaca silenus,3,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,silenus,"Lion-tailed Macaque, Wanderoo, Liontail Macaque",Retroviridae
+450,Simian foamy virus,Macaca sylvanus,5,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,sylvanus,"Barbary Macaque, Barbary Ape",Retroviridae
+451,Simian foamy virus,Macaca thibetana,1,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,thibetana,"Milne-edwards' Macaque, Tibetan Macaque, Short-tailed Tibetan Macaque, Père David's Macaque",Retroviridae
+452,Simian foamy virus,Macaca tonkeana,9,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,tonkeana,"Tonkean Macaque, Tonkean Black Macaque",Retroviridae
+453,Simian foamy virus,Mandrillus leucophaeus,3,PCR,PRIMATES,CERCOPITHECIDAE,Mandrillus,leucophaeus,Drill,Retroviridae
+454,Simian foamy virus,Mandrillus sphinx,6,PCR,PRIMATES,CERCOPITHECIDAE,Mandrillus,sphinx,Mandrill,Retroviridae
+455,Simian foamy virus,Miopithecus talapoin,1,PCR,PRIMATES,CERCOPITHECIDAE,Miopithecus,talapoin,"Southern Talapoin Monkey, Talapoin",Retroviridae
+456,Simian foamy virus,Nomascus leucogenys,1,PCR,PRIMATES,HYLOBATIDAE,Nomascus,leucogenys,"Northern White-cheeked Gibbon, White-cheeked Gibbon",Retroviridae
+457,Simian foamy virus,Otolemur crassicaudatus,1,PCR,PRIMATES,GALAGIDAE,Otolemur,crassicaudatus,"Thick-tailed Greater Galago, Thick-tailed Bushbaby, Greater Galago, Large-eared Greater Galago, Greater Bushbaby, Garnett's Greater Galago",Retroviridae
+458,Simian foamy virus,Pan paniscus,5,PCR,PRIMATES,HOMINIDAE,Pan,paniscus,"Bonobo, Pygmy Chimpanzee, Gracile Chimpanzee, Dwarf Chimpazee",Retroviridae
+459,Simian foamy virus,Pan troglodytes,379,PCR,PRIMATES,HOMINIDAE,Pan,troglodytes,"Chimpanzee, Robust Chimpanzee, Common Chimpanzee",Retroviridae
+460,Simian foamy virus,Papio anubis,13,PCR,PRIMATES,CERCOPITHECIDAE,Papio,anubis,"Olive Baboon, Anubis Baboon",Retroviridae
+461,Simian foamy virus,Papio cynocephalus,15,PCR,PRIMATES,CERCOPITHECIDAE,Papio,cynocephalus,Yellow Baboon,Retroviridae
+462,Simian foamy virus,Papio hamadryas,2,PCR,PRIMATES,CERCOPITHECIDAE,Papio,hamadryas,"Hamadryas Baboon, Sacred Baboon",Retroviridae
+463,Simian foamy virus,Papio papio,3,PCR,PRIMATES,CERCOPITHECIDAE,Papio,papio,Guinea Baboon,Retroviridae
+464,Simian foamy virus,Papio ursinus,11,PCR,PRIMATES,CERCOPITHECIDAE,Papio,ursinus,Chacma Baboon,Retroviridae
+465,Simian foamy virus,Piliocolobus badius,25,PCR,PRIMATES,CERCOPITHECIDAE,Piliocolobus,badius,"Upper Guinea Red Colobus, Western Red Colobus, Bay Colobus, Upper Guinea Bay Colobus",Retroviridae
+466,Simian foamy virus,Piliocolobus tephrosceles,7,PCR,PRIMATES,CERCOPITHECIDAE,Piliocolobus,tephrosceles,"Ashy Red Colobus, Uganda Red Colobus",Retroviridae
+467,Simian foamy virus,Pithecia pithecia,3,PCR,PRIMATES,PITHECIIDAE,Pithecia,pithecia,White-faced Saki,Retroviridae
+468,Simian foamy virus,Pongo pygmaeus,28,PCR,PRIMATES,HOMINIDAE,Pongo,pygmaeus,Bornean Orangutan,Retroviridae
+469,Simian foamy virus,Procolobus badius,1,PCR,PRIMATES,CERCOPITHECIDAE,Procolobus,badius,,Retroviridae
+470,Simian foamy virus,Pygathrix nemaeus,1,PCR,PRIMATES,CERCOPITHECIDAE,Pygathrix,nemaeus,"Red-shanked Douc Langur, Red-shanked Douc",Retroviridae
+471,Simian foamy virus,Saimiri boliviensis,6,PCR,PRIMATES,CEBIDAE,Saimiri,boliviensis,"Bolivian/peruvian Squirrel Monkey, Bolivian Squirrel Monkey, Black-headed Squirrel Monkey",Retroviridae
+472,Simian foamy virus,Saimiri sciureus,3,PCR,PRIMATES,CEBIDAE,Saimiri,sciureus,"Common Squirrel Monkey, South American Squirrel Monkey",Retroviridae
+473,Simian foamy virus,Saimiri ustus,1,PCR,PRIMATES,CEBIDAE,Saimiri,ustus,"Golden-backed Squirrel Monkey, Bare-eared Squirrel Monkey, Golden-backed Squirel Monkey",Retroviridae
+474,Simian foamy virus,Sapajus robustus,3,PCR,PRIMATES,CEBIDAE,Sapajus,robustus,"Crested Capuchin, Robust Tufted Capuchin",Retroviridae
+475,Simian foamy virus,Sapajus xanthosternos,7,PCR,PRIMATES,CEBIDAE,Sapajus,xanthosternos,"Buff-headed Capuchin, Golden-bellied Capuchin, Yellow-breasted Capuchin",Retroviridae
+476,Simian foamy virus,Theropithecus gelada,2,PCR,PRIMATES,CERCOPITHECIDAE,Theropithecus,gelada,"Gelada, Gelada Baboon",Retroviridae
+477,Simian foamy virus,Trachypithecus francoisi,1,PCR,PRIMATES,CERCOPITHECIDAE,Trachypithecus,francoisi,"François's Langur, François's Leaf Monkey, Francois's Langur, Tonkin Langur, , Tonkin Leaf Monkey",Retroviridae
+478,Simian immunodeficiency virus,Cercocebus agilis,1,PCR,PRIMATES,CERCOPITHECIDAE,Cercocebus,agilis,Agile Mangabey,Retroviridae
+479,Simian immunodeficiency virus,Cercocebus atys,177,PCR,PRIMATES,CERCOPITHECIDAE,Cercocebus,atys,Sooty Mangabey,Retroviridae
+480,Simian immunodeficiency virus,Cercocebus torquatus,2,PCR,PRIMATES,CERCOPITHECIDAE,Cercocebus,torquatus,"Red-capped Mangabey, White-collared Mangabey, Red-crowned Mangabey, Sooty Mangabey, Collared Mangabey",Retroviridae
+481,Simian immunodeficiency virus,Cercopithecus albogularis,4,PCR,PRIMATES,CERCOPITHECIDAE,Cercopithecus,albogularis,,Retroviridae
+482,Simian immunodeficiency virus,Cercopithecus cephus,3,PCR,PRIMATES,CERCOPITHECIDAE,Cercopithecus,cephus,"Moustached Monkey, Mustached Monkey, Moustached Guenon",Retroviridae
+483,Simian immunodeficiency virus,Cercopithecus lhoesti,3,PCR,PRIMATES,CERCOPITHECIDAE,Cercopithecus,lhoesti,,Retroviridae
+484,Simian immunodeficiency virus,Cercopithecus mona,2,PCR,PRIMATES,CERCOPITHECIDAE,Cercopithecus,mona,"Mona Monkey, Mona Guenon",Retroviridae
+485,Simian immunodeficiency virus,Cercopithecus neglectus,13,PCR,PRIMATES,CERCOPITHECIDAE,Cercopithecus,neglectus,"De Brazza's Monkey, De Brazza's Guenon",Retroviridae
+486,Simian immunodeficiency virus,Cercopithecus nictitans,3,PCR,PRIMATES,CERCOPITHECIDAE,Cercopithecus,nictitans,"Putty-nosed Monkey, Spot-nosed Guenon, Greater White-nosed Monkey, Greater Spot-nosed Guenon, Greater Spot-nosed Monkey, White-nosed Guenon",Retroviridae
+487,Simian immunodeficiency virus,Cercopithecus solatus,1,PCR,PRIMATES,CERCOPITHECIDAE,Cercopithecus,solatus,,Retroviridae
+488,Simian immunodeficiency virus,Chlorocebus pygerythrus,2,PCR,PRIMATES,CERCOPITHECIDAE,Chlorocebus,pygerythrus,"Vervet Monkey, Vervet",Retroviridae
+489,Simian immunodeficiency virus,Chlorocebus sabaeus,2,PCR,PRIMATES,CERCOPITHECIDAE,Chlorocebus,sabaeus,"Green Monkey, Western Green Monkey",Retroviridae
+490,Simian immunodeficiency virus,Chlorocebus tantalus,1,PCR,PRIMATES,CERCOPITHECIDAE,Chlorocebus,tantalus,Tantalus Monkey,Retroviridae
+491,Simian immunodeficiency virus,Colobus guereza,3,PCR,PRIMATES,CERCOPITHECIDAE,Colobus,guereza,"Guereza, Magistrate Colobus, Eastern Black-and-white Colobus",Retroviridae
+492,Simian immunodeficiency virus,Lophocebus aterrimus,1,PCR,PRIMATES,CERCOPITHECIDAE,Lophocebus,aterrimus,"Black Mangabey, Black Crested Mangabey",Retroviridae
+493,Simian immunodeficiency virus,Macaca arctoides,1,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,arctoides,"Stump-tailed Macaque, Stumptail Macaque, Bear Macaque",Retroviridae
+494,Simian immunodeficiency virus,Macaca fascicularis,1,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,fascicularis,"Nicobar Crab-eating Macaque, Nicobar Cynomolgus Monkey, Nicobar Long-tailed Macaque",Retroviridae
+495,Simian immunodeficiency virus,Macaca mulatta,631,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,mulatta,"Rhesus Monkey, Rhesus Macaque",Retroviridae
+496,Simian immunodeficiency virus,Macaca nemestrina,304,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,nemestrina,"Southern Pig-tailed Macaque, Sundaland Pigtail Macaque, Pig-tailed Macaque, Pigtail Macaque, Sunda Pig-tailed Macaque",Retroviridae
+497,Simian immunodeficiency virus,Mandrillus sphinx,18,PCR,PRIMATES,CERCOPITHECIDAE,Mandrillus,sphinx,Mandrill,Retroviridae
+498,Simian immunodeficiency virus,Miopithecus ogouensis,7,PCR,PRIMATES,CERCOPITHECIDAE,Miopithecus,ogouensis,"Northern Talapoin Monkey, Gabon Talapoin",Retroviridae
+499,Simian immunodeficiency virus,Pan troglodytes,23,PCR,PRIMATES,HOMINIDAE,Pan,troglodytes,"Chimpanzee, Robust Chimpanzee, Common Chimpanzee",Retroviridae
+500,Sin Nombre orthohantavirus,Homo sapiens,7,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Hantaviridae
+501,Sin Nombre orthohantavirus,Peromyscus californicus,1,PCR,RODENTIA,CRICETIDAE,Peromyscus,californicus,California Mouse,Hantaviridae
+502,Sin Nombre orthohantavirus,Peromyscus eremicus,1,PCR,RODENTIA,CRICETIDAE,Peromyscus,eremicus,Cactus Mouse,Hantaviridae
+503,Sin Nombre orthohantavirus,Peromyscus leucopus,5,PCR,RODENTIA,CRICETIDAE,Peromyscus,leucopus,White-footed Mouse,Hantaviridae
+504,Sin Nombre orthohantavirus,Peromyscus maniculatus,36,PCR,RODENTIA,CRICETIDAE,Peromyscus,maniculatus,"North American Deermouse, Deer Mouse",Hantaviridae
+505,Sin Nombre orthohantavirus,Peromyscus truei,1,PCR,RODENTIA,CRICETIDAE,Peromyscus,truei,Pinyon Mouse,Hantaviridae
+506,Sindbis virus,Corvus cornix,1,PCR,PASSERIFORMES,CORVIDAE,Corvus,cornix,,Togaviridae
+507,Sindbis virus,Homo sapiens,6,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Togaviridae
+508,Sindbis virus,Mesocricetus auratus,25,PCR,RODENTIA,CRICETIDAE,Mesocricetus,auratus,Golden Hamster,Togaviridae
+509,Sindbis virus,Motacilla alba,1,PCR,PASSERIFORMES,MOTACILLIDAE,Motacilla,alba,"White Wagtail, Pied Wagtail and White Wagtail",Togaviridae
+510,Swine vesicular disease virus,Sus scrofa domesticus,33,PCR,CETARTIODACTYLA,SUIDAE,Sus,scrofa domesticus,,Picornaviridae
+511,Tahyna virus,Homo sapiens,2,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Peribunyaviridae
+512,Tai Forest ebolavirus,Homo sapiens,3,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Filoviridae
+513,Tai Forest ebolavirus,Homo sapiens,3,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Filoviridae
+514,Thottapalayam orthohantavirus,Suncus murinus,65,PCR,EULIPOTYPHLA,SORICIDAE,Suncus,murinus,"House Shrew, Asian House Shrew",Hantaviridae
+515,Tioman virus,Pteropus hypomelanus,2,PCR,CHIROPTERA,PTEROPODIDAE,Pteropus,hypomelanus,"Island Flying Fox, Variable Flying-fox, Small Flying-fox, Variable Flying Fox",Paramyxoviridae
+516,Tonto creek virus,Neotoma albigula,8,PCR,RODENTIA,CRICETIDAE,Neotoma,albigula,White-throated Woodrat,Arenaviridae
+517,Torque teno virus,Anas platyrhynchos,6,PCR,ANSERIFORMES,ANATIDAE,Anas,platyrhynchos,"Mallard, Northern Mallard, Common Mallard",Anelloviridae
+518,Torque teno virus,Aotus trivirgatus,7,PCR,PRIMATES,AOTIDAE,Aotus,trivirgatus,"Northern Night Monkey, Three-striped Gray Night Monkey, Douroucouli, Northern Owl Monkey, Owl Monkey, Night Monkey, Three-striped Night Monkey",Anelloviridae
+519,Torque teno virus,Bos taurus,16,PCR,CETARTIODACTYLA,BOVIDAE,Bos,taurus,,Anelloviridae
+520,Torque teno virus,Gallus gallus domesticus,4,PCR,GALLIFORMES,PHASIANIDAE,Gallus,gallus domesticus,,Anelloviridae
+521,Torque teno virus,Homo sapiens,1137,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Anelloviridae
+522,Torque teno virus,Macaca fascicularis,3,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,fascicularis,"Nicobar Crab-eating Macaque, Nicobar Cynomolgus Monkey, Nicobar Long-tailed Macaque",Anelloviridae
+523,Torque teno virus,Macaca fuscata,11,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,fuscata,Japanese Macaque,Anelloviridae
+524,Torque teno virus,Ovis aries,6,PCR,CETARTIODACTYLA,BOVIDAE,Ovis,aries,,Anelloviridae
+525,Torque teno virus,Pan troglodytes,225,PCR,PRIMATES,HOMINIDAE,Pan,troglodytes,"Chimpanzee, Robust Chimpanzee, Common Chimpanzee",Anelloviridae
+526,Torque teno virus,Saguinus labiatus,8,PCR,PRIMATES,CALLITRICHIDAE,Saguinus,labiatus,"Red-chested Mustached Tamarin, Red-bellied Tamarin",Anelloviridae
+527,Torque teno virus,Saguinus oedipus,6,PCR,PRIMATES,CALLITRICHIDAE,Saguinus,oedipus,"Cotton-headed Tamarin, Cotton-top Tamarin",Anelloviridae
+528,Torque teno virus,Sus scrofa,16,PCR,CETARTIODACTYLA,SUIDAE,Sus,scrofa,"Wild Boar, Eurasian Wild Pig, Ryukyu Islands Wild Pig",Anelloviridae
+529,Torque teno virus,Sus scrofa domesticus,218,PCR,CETARTIODACTYLA,SUIDAE,Sus,scrofa domesticus,,Anelloviridae
+530,Torque teno virus,Tupaia belangeri chinensis,5,PCR,SCANDENTIA,TUPAIIDAE,Tupaia,belangeri chinensis,,Anelloviridae
+531,Toscana virus,Canis lupus familiaris,3,PCR,CARNIVORA,CANIDAE,Canis,lupus familiaris,,Phenuiviridae 
+532,Toscana virus,Homo sapiens,112,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Phenuiviridae 
+533,Toscana virus,Pipistrellus kuhlii,1,PCR,CHIROPTERA,VESPERTILIONIDAE,Pipistrellus,kuhlii,Kuhl's Pipistrelle,Phenuiviridae 
+534,Usutu virus,Alectoris rufa,1,PCR,GALLIFORMES,PHASIANIDAE,Alectoris,rufa,Red-legged Partridge,Flaviviridae
+535,Usutu virus,Asio otus,2,PCR,STRIGIFORMES,STRIGIDAE,Asio,otus,Northern Long-eared Owl,Flaviviridae
+536,Usutu virus,Caprimulgus europaeus,2,PCR,CAPRIMULGIFORMES,CAPRIMULGIDAE,Caprimulgus,europaeus,"European Nightjar, Nightjar, European Nightjar",Flaviviridae
+537,Usutu virus,Garrulus glandarius,1,PCR,PASSERIFORMES,CORVIDAE,Garrulus,glandarius,"Eurasian Jay, Jay",Flaviviridae
+538,Usutu virus,Homo sapiens,5,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Flaviviridae
+539,Usutu virus,Parus caeruleus,1,PCR,PASSERIFORMES,PARIDAE,Parus,caeruleus,Blue Tit,Flaviviridae
+540,Usutu virus,Parus major,1,PCR,PASSERIFORMES,PARIDAE,Parus,major,Great Tit,Flaviviridae
+541,Usutu virus,Passer domesticus,1,PCR,PASSERIFORMES,PASSERIDAE,Passer,domesticus,House Sparrow,Flaviviridae
+542,Usutu virus,Pica pica,1,PCR,PASSERIFORMES,CORVIDAE,Pica,pica,"Black-billed Magpie, Eurasian Magpie, Common Magpie, Magpie",Flaviviridae
+543,Usutu virus,Pipistrellus pipistrellus,2,PCR,CHIROPTERA,VESPERTILIONIDAE,Pipistrellus,pipistrellus,Common Pipistrelle,Flaviviridae
+544,Usutu virus,Sitta europaea,1,PCR,PASSERIFORMES,SITTIDAE,Sitta,europaea,"Wood Nuthatch, Nuthatch, Eurasian Nuthatch",Flaviviridae
+545,Usutu virus,Streptopelia decaocto,1,PCR,COLUMBIFORMES,COLUMBIDAE,Streptopelia,decaocto,"Eurasian Collared-dove, Collared Dove",Flaviviridae
+546,Usutu virus,Strix nebulosa,2,PCR,STRIGIFORMES,STRIGIDAE,Strix,nebulosa,"Great Grey Owl, Great Gray Owl",Flaviviridae
+547,Usutu virus,Sturnus vulgaris,1,PCR,PASSERIFORMES,STURNIDAE,Sturnus,vulgaris,"Common Starling, Starling, European Starling",Flaviviridae
+548,Usutu virus,Turdus merula,94,PCR,PASSERIFORMES,TURDIDAE,Turdus,merula,"Eurasian Blackbird, Common Blackbird, Blackbird",Flaviviridae
+549,Usutu virus,Turdus philomelos,2,PCR,PASSERIFORMES,TURDIDAE,Turdus,philomelos,Song Thrush,Flaviviridae
+550,Wesselsbron virus,Desmodillus auricularis,1,PCR,RODENTIA,MURIDAE,Desmodillus,auricularis,Cape Short-eared Gerbil,Flaviviridae
+551,Wesselsbron virus,Equus caballus,5,PCR,PERISSODACTYLA,EQUIDAE,Equus,caballus,,Flaviviridae
+552,Wesselsbron virus,Homo sapiens,9,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Flaviviridae
+553,Wesselsbron virus,Ovis aries,5,PCR,CETARTIODACTYLA,BOVIDAE,Ovis,aries,,Flaviviridae
+554,West Nile virus,Accipiter cooperii,2,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Accipiter,cooperii,Cooper's Hawk,Flaviviridae
+555,West Nile virus,Accipiter cooperii,2,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Accipiter,cooperii,Cooper's Hawk,Flaviviridae
+556,West Nile virus,Accipiter gentilis,11,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Accipiter,gentilis,"Northern Goshawk, Eurasian Goshawk, Goshawk",Flaviviridae
+557,West Nile virus,Accipiter gentilis,11,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Accipiter,gentilis,"Northern Goshawk, Eurasian Goshawk, Goshawk",Flaviviridae
+558,West Nile virus,Accipiter nisus,1,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Accipiter,nisus,"Eurasian Sparrowhawk, Sparrowhawk, European Sparrowhawk",Flaviviridae
+559,West Nile virus,Accipiter nisus,1,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Accipiter,nisus,"Eurasian Sparrowhawk, Sparrowhawk, European Sparrowhawk",Flaviviridae
+560,West Nile virus,Accipiter striatus,1,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Accipiter,striatus,Sharp-shinned Hawk,Flaviviridae
+561,West Nile virus,Accipiter striatus,1,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Accipiter,striatus,Sharp-shinned Hawk,Flaviviridae
+562,West Nile virus,Actitis macularius,1,PCR,CHARADRIIFORMES,SCOLOPACIDAE,Actitis,macularius,Spotted Sandpiper,Flaviviridae
+563,West Nile virus,Actitis macularius,1,PCR,CHARADRIIFORMES,SCOLOPACIDAE,Actitis,macularius,Spotted Sandpiper,Flaviviridae
+564,West Nile virus,Aegypius monachus,5,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Aegypius,monachus,"Cinereous Vulture, Eurasian Black Vulture, Black Vulture",Flaviviridae
+565,West Nile virus,Aegypius monachus,5,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Aegypius,monachus,"Cinereous Vulture, Eurasian Black Vulture, Black Vulture",Flaviviridae
+566,West Nile virus,Agelaius phoeniceus,1,PCR,PASSERIFORMES,ICTERIDAE,Agelaius,phoeniceus,Red-winged Blackbird,Flaviviridae
+567,West Nile virus,Agelaius phoeniceus,1,PCR,PASSERIFORMES,ICTERIDAE,Agelaius,phoeniceus,Red-winged Blackbird,Flaviviridae
+568,West Nile virus,Anas platyrhynchos,2,PCR,ANSERIFORMES,ANATIDAE,Anas,platyrhynchos,"Mallard, Northern Mallard, Common Mallard",Flaviviridae
+569,West Nile virus,Anas platyrhynchos,2,PCR,ANSERIFORMES,ANATIDAE,Anas,platyrhynchos,"Mallard, Northern Mallard, Common Mallard",Flaviviridae
+570,West Nile virus,Anser anser,5,PCR,ANSERIFORMES,ANATIDAE,Anser,anser,Greylag Goose,Flaviviridae
+571,West Nile virus,Anser anser,5,PCR,ANSERIFORMES,ANATIDAE,Anser,anser,Greylag Goose,Flaviviridae
+572,West Nile virus,Aquila adalberti,4,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Aquila,adalberti,"Spanish Imperial Eagle, Adalbert's Eagle, Spanish Eagle",Flaviviridae
+573,West Nile virus,Aquila adalberti,4,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Aquila,adalberti,"Spanish Imperial Eagle, Adalbert's Eagle, Spanish Eagle",Flaviviridae
+574,West Nile virus,Aquila chrysaetos,4,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Aquila,chrysaetos,Golden Eagle,Flaviviridae
+575,West Nile virus,Aquila chrysaetos,4,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Aquila,chrysaetos,Golden Eagle,Flaviviridae
+576,West Nile virus,Aquila fasciata,1,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Aquila,fasciata,Bonelli's Eagle,Flaviviridae
+577,West Nile virus,Aquila fasciata,1,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Aquila,fasciata,Bonelli's Eagle,Flaviviridae
+578,West Nile virus,Ardea herodias,1,PCR,PELECANIFORMES,ARDEIDAE,Ardea,herodias,Great Blue Heron,Flaviviridae
+579,West Nile virus,Ardea herodias,1,PCR,PELECANIFORMES,ARDEIDAE,Ardea,herodias,Great Blue Heron,Flaviviridae
+580,West Nile virus,Asio flammeus,1,PCR,STRIGIFORMES,STRIGIDAE,Asio,flammeus,Short-eared Owl,Flaviviridae
+581,West Nile virus,Asio flammeus,1,PCR,STRIGIFORMES,STRIGIDAE,Asio,flammeus,Short-eared Owl,Flaviviridae
+582,West Nile virus,Athene noctua,2,PCR,STRIGIFORMES,STRIGIDAE,Athene,noctua,Little Owl,Flaviviridae
+583,West Nile virus,Athene noctua,2,PCR,STRIGIFORMES,STRIGIDAE,Athene,noctua,Little Owl,Flaviviridae
+584,West Nile virus,Baeolophus bicolor,1,PCR,PASSERIFORMES,PARIDAE,Baeolophus,bicolor,Tufted Titmouse,Flaviviridae
+585,West Nile virus,Baeolophus bicolor,1,PCR,PASSERIFORMES,PARIDAE,Baeolophus,bicolor,Tufted Titmouse,Flaviviridae
+586,West Nile virus,Bonasa umbellus,1,PCR,GALLIFORMES,PHASIANIDAE,Bonasa,umbellus,Ruffed Grouse,Flaviviridae
+587,West Nile virus,Bonasa umbellus,1,PCR,GALLIFORMES,PHASIANIDAE,Bonasa,umbellus,Ruffed Grouse,Flaviviridae
+588,West Nile virus,Branta canadensis,5,PCR,ANSERIFORMES,ANATIDAE,Branta,canadensis,Canada Goose,Flaviviridae
+589,West Nile virus,Branta canadensis,5,PCR,ANSERIFORMES,ANATIDAE,Branta,canadensis,Canada Goose,Flaviviridae
+590,West Nile virus,Bubo virginianus,16,PCR,STRIGIFORMES,STRIGIDAE,Bubo,virginianus,Great Horned Owl,Flaviviridae
+591,West Nile virus,Bubo virginianus,16,PCR,STRIGIFORMES,STRIGIDAE,Bubo,virginianus,Great Horned Owl,Flaviviridae
+592,West Nile virus,Bubulcus ibis,3,PCR,PELECANIFORMES,ARDEIDAE,Bubulcus,ibis,Cattle Egret,Flaviviridae
+593,West Nile virus,Bubulcus ibis,3,PCR,PELECANIFORMES,ARDEIDAE,Bubulcus,ibis,Cattle Egret,Flaviviridae
+594,West Nile virus,Buteo jamaicensis,10,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Buteo,jamaicensis,Red-tailed Hawk,Flaviviridae
+595,West Nile virus,Buteo jamaicensis,10,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Buteo,jamaicensis,Red-tailed Hawk,Flaviviridae
+596,West Nile virus,Buteo lineatus,1,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Buteo,lineatus,Red-shouldered Hawk,Flaviviridae
+597,West Nile virus,Buteo lineatus,1,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Buteo,lineatus,Red-shouldered Hawk,Flaviviridae
+598,West Nile virus,Buteo regalis,1,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Buteo,regalis,Ferruginous Hawk,Flaviviridae
+599,West Nile virus,Buteo regalis,1,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Buteo,regalis,Ferruginous Hawk,Flaviviridae
+600,West Nile virus,Buteo swainsoni,2,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Buteo,swainsoni,Swainson's Hawk,Flaviviridae
+601,West Nile virus,Buteo swainsoni,2,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Buteo,swainsoni,Swainson's Hawk,Flaviviridae
+602,West Nile virus,Butorides virescens,1,PCR,PELECANIFORMES,ARDEIDAE,Butorides,virescens,,Flaviviridae
+603,West Nile virus,Butorides virescens,1,PCR,PELECANIFORMES,ARDEIDAE,Butorides,virescens,,Flaviviridae
+604,West Nile virus,Calidris alba,1,PCR,CHARADRIIFORMES,SCOLOPACIDAE,Calidris,alba,Sanderling,Flaviviridae
+605,West Nile virus,Calidris alba,1,PCR,CHARADRIIFORMES,SCOLOPACIDAE,Calidris,alba,Sanderling,Flaviviridae
+606,West Nile virus,Camelus dromedarius,1,PCR,CETARTIODACTYLA,CAMELIDAE,Camelus,dromedarius,,Flaviviridae
+607,West Nile virus,Camelus dromedarius,1,PCR,CETARTIODACTYLA,CAMELIDAE,Camelus,dromedarius,,Flaviviridae
+608,West Nile virus,Canis lupus familiaris,1,PCR,CARNIVORA,CANIDAE,Canis,lupus familiaris,,Flaviviridae
+609,West Nile virus,Canis lupus familiaris,1,PCR,CARNIVORA,CANIDAE,Canis,lupus familiaris,,Flaviviridae
+610,West Nile virus,Cardinalis cardinalis,3,PCR,PASSERIFORMES,CARDINALIDAE,Cardinalis,cardinalis,Northern Cardinal,Flaviviridae
+611,West Nile virus,Cardinalis cardinalis,3,PCR,PASSERIFORMES,CARDINALIDAE,Cardinalis,cardinalis,Northern Cardinal,Flaviviridae
+612,West Nile virus,Carduelis tristis,1,PCR,PASSERIFORMES,FRINGILLIDAE,Carduelis,tristis,American Goldfinch,Flaviviridae
+613,West Nile virus,Carduelis tristis,1,PCR,PASSERIFORMES,FRINGILLIDAE,Carduelis,tristis,American Goldfinch,Flaviviridae
+614,West Nile virus,Carpodacus mexicanus,10,PCR,PASSERIFORMES,FRINGILLIDAE,Carpodacus,mexicanus,House Finch,Flaviviridae
+615,West Nile virus,Carpodacus mexicanus,10,PCR,PASSERIFORMES,FRINGILLIDAE,Carpodacus,mexicanus,House Finch,Flaviviridae
+616,West Nile virus,Charadrius melodus,2,PCR,CHARADRIIFORMES,CHARADRIIDAE,Charadrius,melodus,Piping Plover,Flaviviridae
+617,West Nile virus,Charadrius melodus,2,PCR,CHARADRIIFORMES,CHARADRIIDAE,Charadrius,melodus,Piping Plover,Flaviviridae
+618,West Nile virus,Colaptes auratus,3,PCR,PICIFORMES,PICIDAE,Colaptes,auratus,"Yellow-shafted Flicker, Northern Flicker",Flaviviridae
+619,West Nile virus,Colaptes auratus,3,PCR,PICIFORMES,PICIDAE,Colaptes,auratus,"Yellow-shafted Flicker, Northern Flicker",Flaviviridae
+620,West Nile virus,Columba livia domestica,3,PCR,COLUMBIFORMES,COLUMBIDAE,Columba,livia domestica,,Flaviviridae
+621,West Nile virus,Columba livia domestica,3,PCR,COLUMBIFORMES,COLUMBIDAE,Columba,livia domestica,,Flaviviridae
+622,West Nile virus,Coragyps atratus,1,PCR,CATHARTIFORMES,CATHARTIDAE,Coragyps,atratus,American Black Vulture,Flaviviridae
+623,West Nile virus,Coragyps atratus,1,PCR,CATHARTIFORMES,CATHARTIDAE,Coragyps,atratus,American Black Vulture,Flaviviridae
+624,West Nile virus,Corvus brachyrhynchos,638,PCR,PASSERIFORMES,CORVIDAE,Corvus,brachyrhynchos,American Crow,Flaviviridae
+625,West Nile virus,Corvus brachyrhynchos,638,PCR,PASSERIFORMES,CORVIDAE,Corvus,brachyrhynchos,American Crow,Flaviviridae
+626,West Nile virus,Corvus corax,3,PCR,PASSERIFORMES,CORVIDAE,Corvus,corax,"Common Raven, Northern Raven, Raven",Flaviviridae
+627,West Nile virus,Corvus corax,3,PCR,PASSERIFORMES,CORVIDAE,Corvus,corax,"Common Raven, Northern Raven, Raven",Flaviviridae
+628,West Nile virus,Corvus cornix,8,PCR,PASSERIFORMES,CORVIDAE,Corvus,cornix,,Flaviviridae
+629,West Nile virus,Corvus cornix,8,PCR,PASSERIFORMES,CORVIDAE,Corvus,cornix,,Flaviviridae
+630,West Nile virus,Corvus corone,7,PCR,PASSERIFORMES,CORVIDAE,Corvus,corone,Carrion Crow,Flaviviridae
+631,West Nile virus,Corvus corone,7,PCR,PASSERIFORMES,CORVIDAE,Corvus,corone,Carrion Crow,Flaviviridae
+632,West Nile virus,Corvus frugilegus,3,PCR,PASSERIFORMES,CORVIDAE,Corvus,frugilegus,Rook,Flaviviridae
+633,West Nile virus,Corvus frugilegus,3,PCR,PASSERIFORMES,CORVIDAE,Corvus,frugilegus,Rook,Flaviviridae
+634,West Nile virus,Corvus ossifragus,5,PCR,PASSERIFORMES,CORVIDAE,Corvus,ossifragus,Fish Crow,Flaviviridae
+635,West Nile virus,Corvus ossifragus,5,PCR,PASSERIFORMES,CORVIDAE,Corvus,ossifragus,Fish Crow,Flaviviridae
+636,West Nile virus,Cyanocitta cristata,202,PCR,PASSERIFORMES,CORVIDAE,Cyanocitta,cristata,Blue Jay,Flaviviridae
+637,West Nile virus,Cyanocitta cristata,202,PCR,PASSERIFORMES,CORVIDAE,Cyanocitta,cristata,Blue Jay,Flaviviridae
+638,West Nile virus,Cygnus buccinator,1,PCR,ANSERIFORMES,ANATIDAE,Cygnus,buccinator,Trumpeter Swan,Flaviviridae
+639,West Nile virus,Cygnus buccinator,1,PCR,ANSERIFORMES,ANATIDAE,Cygnus,buccinator,Trumpeter Swan,Flaviviridae
+640,West Nile virus,Dumetella carolinensis,1,PCR,PASSERIFORMES,MIMIDAE,Dumetella,carolinensis,"Grey Catbird, Gray Catbird",Flaviviridae
+641,West Nile virus,Dumetella carolinensis,1,PCR,PASSERIFORMES,MIMIDAE,Dumetella,carolinensis,"Grey Catbird, Gray Catbird",Flaviviridae
+642,West Nile virus,Equus caballus,72,PCR,PERISSODACTYLA,EQUIDAE,Equus,caballus,,Flaviviridae
+643,West Nile virus,Equus caballus,72,PCR,PERISSODACTYLA,EQUIDAE,Equus,caballus,,Flaviviridae
+644,West Nile virus,Euphagus cyanocephalus,1,PCR,PASSERIFORMES,ICTERIDAE,Euphagus,cyanocephalus,Brewer's Blackbird,Flaviviridae
+645,West Nile virus,Euphagus cyanocephalus,1,PCR,PASSERIFORMES,ICTERIDAE,Euphagus,cyanocephalus,Brewer's Blackbird,Flaviviridae
+646,West Nile virus,Falco columbarius,1,PCR,FALCONIFORMES,FALCONIDAE,Falco,columbarius,Merlin,Flaviviridae
+647,West Nile virus,Falco columbarius,1,PCR,FALCONIFORMES,FALCONIDAE,Falco,columbarius,Merlin,Flaviviridae
+648,West Nile virus,Falco punctatus,1,PCR,FALCONIFORMES,FALCONIDAE,Falco,punctatus,Mauritius Kestrel,Flaviviridae
+649,West Nile virus,Falco punctatus,1,PCR,FALCONIFORMES,FALCONIDAE,Falco,punctatus,Mauritius Kestrel,Flaviviridae
+650,West Nile virus,Falco sparverius,5,PCR,FALCONIFORMES,FALCONIDAE,Falco,sparverius,American Kestrel,Flaviviridae
+651,West Nile virus,Falco sparverius,5,PCR,FALCONIFORMES,FALCONIDAE,Falco,sparverius,American Kestrel,Flaviviridae
+652,West Nile virus,Gallus gallus,13,PCR,GALLIFORMES,PHASIANIDAE,Gallus,gallus,Red Junglefowl,Flaviviridae
+653,West Nile virus,Gallus gallus,13,PCR,GALLIFORMES,PHASIANIDAE,Gallus,gallus,Red Junglefowl,Flaviviridae
+654,West Nile virus,Gallus gallus domesticus,3,PCR,GALLIFORMES,PHASIANIDAE,Gallus,gallus domesticus,,Flaviviridae
+655,West Nile virus,Gallus gallus domesticus,3,PCR,GALLIFORMES,PHASIANIDAE,Gallus,gallus domesticus,,Flaviviridae
+656,West Nile virus,Garrulus glandarius,6,PCR,PASSERIFORMES,CORVIDAE,Garrulus,glandarius,"Eurasian Jay, Jay",Flaviviridae
+657,West Nile virus,Garrulus glandarius,6,PCR,PASSERIFORMES,CORVIDAE,Garrulus,glandarius,"Eurasian Jay, Jay",Flaviviridae
+658,West Nile virus,Gymnogyps californianus,1,PCR,CATHARTIFORMES,CATHARTIDAE,Gymnogyps,californianus,California Condor,Flaviviridae
+659,West Nile virus,Gymnogyps californianus,1,PCR,CATHARTIFORMES,CATHARTIDAE,Gymnogyps,californianus,California Condor,Flaviviridae
+660,West Nile virus,Haliaeetus albicilla,1,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Haliaeetus,albicilla,"White-tailed Sea-eagle, Grey Sea Eagle",Flaviviridae
+661,West Nile virus,Haliaeetus albicilla,1,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Haliaeetus,albicilla,"White-tailed Sea-eagle, Grey Sea Eagle",Flaviviridae
+662,West Nile virus,Haliaeetus leucocephalus,4,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Haliaeetus,leucocephalus,Bald Eagle,Flaviviridae
+663,West Nile virus,Haliaeetus leucocephalus,4,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Haliaeetus,leucocephalus,Bald Eagle,Flaviviridae
+664,West Nile virus,Homo sapiens,537,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Flaviviridae
+665,West Nile virus,Homo sapiens,537,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Flaviviridae
+666,West Nile virus,Hylocichla mustelina,1,PCR,PASSERIFORMES,TURDIDAE,Hylocichla,mustelina,Wood Thrush,Flaviviridae
+667,West Nile virus,Hylocichla mustelina,1,PCR,PASSERIFORMES,TURDIDAE,Hylocichla,mustelina,Wood Thrush,Flaviviridae
+668,West Nile virus,Ictinia mississippiensis,1,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Ictinia,mississippiensis,Mississippi Kite,Flaviviridae
+669,West Nile virus,Ictinia mississippiensis,1,PCR,ACCIPITRIFORMES,ACCIPITRIDAE,Ictinia,mississippiensis,Mississippi Kite,Flaviviridae
+670,West Nile virus,Lanius ludovicianus,1,PCR,PASSERIFORMES,LANIIDAE,Lanius,ludovicianus,Loggerhead Shrike,Flaviviridae
+671,West Nile virus,Lanius ludovicianus,1,PCR,PASSERIFORMES,LANIIDAE,Lanius,ludovicianus,Loggerhead Shrike,Flaviviridae
+672,West Nile virus,Larus delawarensis,4,PCR,CHARADRIIFORMES,LARIDAE,Larus,delawarensis,Ring-billed Gull,Flaviviridae
+673,West Nile virus,Larus delawarensis,4,PCR,CHARADRIIFORMES,LARIDAE,Larus,delawarensis,Ring-billed Gull,Flaviviridae
+674,West Nile virus,Larus leucophthalmus,1,PCR,CHARADRIIFORMES,LARIDAE,Larus,leucophthalmus,White-eyed Gull,Flaviviridae
+675,West Nile virus,Larus leucophthalmus,1,PCR,CHARADRIIFORMES,LARIDAE,Larus,leucophthalmus,White-eyed Gull,Flaviviridae
+676,West Nile virus,Larus ridibundus,1,PCR,CHARADRIIFORMES,LARIDAE,Larus,ridibundus,"Black-headed Gull, Common Black-headed Gull",Flaviviridae
+677,West Nile virus,Larus ridibundus,1,PCR,CHARADRIIFORMES,LARIDAE,Larus,ridibundus,"Black-headed Gull, Common Black-headed Gull",Flaviviridae
+678,West Nile virus,Larus smithsonianus,1,PCR,CHARADRIIFORMES,LARIDAE,Larus,smithsonianus,"Arctic Herring Gull, American Herring Gull",Flaviviridae
+679,West Nile virus,Larus smithsonianus,1,PCR,CHARADRIIFORMES,LARIDAE,Larus,smithsonianus,"Arctic Herring Gull, American Herring Gull",Flaviviridae
+680,West Nile virus,Meleagris gallopavo,1,PCR,GALLIFORMES,PHASIANIDAE,Meleagris,gallopavo,"Wild Turkey, Turkey",Flaviviridae
+681,West Nile virus,Meleagris gallopavo,1,PCR,GALLIFORMES,PHASIANIDAE,Meleagris,gallopavo,"Wild Turkey, Turkey",Flaviviridae
+682,West Nile virus,Mephitis mephitis,1,PCR,CARNIVORA,MEPHITIDAE,Mephitis,mephitis,Striped Skunk,Flaviviridae
+683,West Nile virus,Mephitis mephitis,1,PCR,CARNIVORA,MEPHITIDAE,Mephitis,mephitis,Striped Skunk,Flaviviridae
+684,West Nile virus,Mesocricetus auratus,1,PCR,RODENTIA,CRICETIDAE,Mesocricetus,auratus,Golden Hamster,Flaviviridae
+685,West Nile virus,Mesocricetus auratus,1,PCR,RODENTIA,CRICETIDAE,Mesocricetus,auratus,Golden Hamster,Flaviviridae
+686,West Nile virus,Mimus polyglottos,3,PCR,PASSERIFORMES,MIMIDAE,Mimus,polyglottos,Northern Mockingbird,Flaviviridae
+687,West Nile virus,Mimus polyglottos,3,PCR,PASSERIFORMES,MIMIDAE,Mimus,polyglottos,Northern Mockingbird,Flaviviridae
+688,West Nile virus,Molothrus ater,1,PCR,PASSERIFORMES,ICTERIDAE,Molothrus,ater,Brown-headed Cowbird,Flaviviridae
+689,West Nile virus,Molothrus ater,1,PCR,PASSERIFORMES,ICTERIDAE,Molothrus,ater,Brown-headed Cowbird,Flaviviridae
+690,West Nile virus,Mus musculus,43,PCR,RODENTIA,MURIDAE,Mus,musculus,House Mouse,Flaviviridae
+691,West Nile virus,Mus musculus,43,PCR,RODENTIA,MURIDAE,Mus,musculus,House Mouse,Flaviviridae
+692,West Nile virus,Nestor notabilis,4,PCR,PSITTACIFORMES,STRIGOPIDAE,Nestor,notabilis,Kea,Flaviviridae
+693,West Nile virus,Nestor notabilis,4,PCR,PSITTACIFORMES,STRIGOPIDAE,Nestor,notabilis,Kea,Flaviviridae
+694,West Nile virus,Orcinus orca,1,PCR,CETARTIODACTYLA,DELPHINIDAE,Orcinus,orca,"Killer Whale, Orca",Flaviviridae
+695,West Nile virus,Orcinus orca,1,PCR,CETARTIODACTYLA,DELPHINIDAE,Orcinus,orca,"Killer Whale, Orca",Flaviviridae
+696,West Nile virus,Panurus biarmicus,1,PCR,PASSERIFORMES,TIMALIIDAE,Panurus,biarmicus,"Bearded Parrotbill, Bearded Reedling, Bearded Tit",Flaviviridae
+697,West Nile virus,Panurus biarmicus,1,PCR,PASSERIFORMES,TIMALIIDAE,Panurus,biarmicus,"Bearded Parrotbill, Bearded Reedling, Bearded Tit",Flaviviridae
+698,West Nile virus,Parus carolinensis,1,PCR,PASSERIFORMES,PARIDAE,Parus,carolinensis,Carolina Chickadee,Flaviviridae
+699,West Nile virus,Parus carolinensis,1,PCR,PASSERIFORMES,PARIDAE,Parus,carolinensis,Carolina Chickadee,Flaviviridae
+700,West Nile virus,Passer domesticus,30,PCR,PASSERIFORMES,PASSERIDAE,Passer,domesticus,House Sparrow,Flaviviridae
+701,West Nile virus,Passer domesticus,30,PCR,PASSERIFORMES,PASSERIDAE,Passer,domesticus,House Sparrow,Flaviviridae
+702,West Nile virus,Pelecanus erythrorhynchos,57,PCR,PELECANIFORMES,PELECANIDAE,Pelecanus,erythrorhynchos,American White Pelican,Flaviviridae
+703,West Nile virus,Pelecanus erythrorhynchos,57,PCR,PELECANIFORMES,PELECANIDAE,Pelecanus,erythrorhynchos,American White Pelican,Flaviviridae
+704,West Nile virus,Pelecanus occidentalis,1,PCR,PELECANIFORMES,PELECANIDAE,Pelecanus,occidentalis,Brown Pelican,Flaviviridae
+705,West Nile virus,Pelecanus occidentalis,1,PCR,PELECANIFORMES,PELECANIDAE,Pelecanus,occidentalis,Brown Pelican,Flaviviridae
+706,West Nile virus,Phalacrocorax auritus,5,PCR,SULIFORMES,PHALACROCORACIDAE,Phalacrocorax,auritus,Double-crested Cormorant,Flaviviridae
+707,West Nile virus,Phalacrocorax auritus,5,PCR,SULIFORMES,PHALACROCORACIDAE,Phalacrocorax,auritus,Double-crested Cormorant,Flaviviridae
+708,West Nile virus,Phasianus colchicus,1,PCR,GALLIFORMES,PHASIANIDAE,Phasianus,colchicus,Common Pheasant,Flaviviridae
+709,West Nile virus,Phasianus colchicus,1,PCR,GALLIFORMES,PHASIANIDAE,Phasianus,colchicus,Common Pheasant,Flaviviridae
+710,West Nile virus,Phoenicopterus ruber,2,PCR,PHOENICOPTERIFORMES,PHOENICOPTERIDAE,Phoenicopterus,ruber,"American Flamingo, Caribbean Flamingo",Flaviviridae
+711,West Nile virus,Phoenicopterus ruber,2,PCR,PHOENICOPTERIFORMES,PHOENICOPTERIDAE,Phoenicopterus,ruber,"American Flamingo, Caribbean Flamingo",Flaviviridae
+712,West Nile virus,Pica pica,12,PCR,PASSERIFORMES,CORVIDAE,Pica,pica,"Black-billed Magpie, Eurasian Magpie, Common Magpie, Magpie",Flaviviridae
+713,West Nile virus,Pica pica,12,PCR,PASSERIFORMES,CORVIDAE,Pica,pica,"Black-billed Magpie, Eurasian Magpie, Common Magpie, Magpie",Flaviviridae
+714,West Nile virus,Quiscalus major,1,PCR,PASSERIFORMES,ICTERIDAE,Quiscalus,major,Boat-tailed Grackle,Flaviviridae
+715,West Nile virus,Quiscalus major,1,PCR,PASSERIFORMES,ICTERIDAE,Quiscalus,major,Boat-tailed Grackle,Flaviviridae
+716,West Nile virus,Quiscalus quiscula,8,PCR,PASSERIFORMES,ICTERIDAE,Quiscalus,quiscula,Common Grackle,Flaviviridae
+717,West Nile virus,Quiscalus quiscula,8,PCR,PASSERIFORMES,ICTERIDAE,Quiscalus,quiscula,Common Grackle,Flaviviridae
+718,West Nile virus,Rousettus leschenaultii,1,PCR,CHIROPTERA,PTEROPODIDAE,Rousettus,leschenaultii,"Leschenault's Rousette, Leschenault's Rousette, Shortridge's Rousette",Flaviviridae
+719,West Nile virus,Rousettus leschenaultii,1,PCR,CHIROPTERA,PTEROPODIDAE,Rousettus,leschenaultii,"Leschenault's Rousette, Leschenault's Rousette, Shortridge's Rousette",Flaviviridae
+720,West Nile virus,Sciurus carolinensis,13,PCR,RODENTIA,SCIURIDAE,Sciurus,carolinensis,"Eastern Gray Squirrel, Gray Squirrel, Grey Squirrel",Flaviviridae
+721,West Nile virus,Sciurus carolinensis,13,PCR,RODENTIA,SCIURIDAE,Sciurus,carolinensis,"Eastern Gray Squirrel, Gray Squirrel, Grey Squirrel",Flaviviridae
+722,West Nile virus,Sciurus niger,1,PCR,RODENTIA,SCIURIDAE,Sciurus,niger,"Bryant's Fox Squirrel, Delmarva Fox Squirrel, Eastern Fox Squirrel, Fox Squirrel",Flaviviridae
+723,West Nile virus,Sciurus niger,1,PCR,RODENTIA,SCIURIDAE,Sciurus,niger,"Bryant's Fox Squirrel, Delmarva Fox Squirrel, Eastern Fox Squirrel, Fox Squirrel",Flaviviridae
+724,West Nile virus,Spatula querquedula,2,PCR,ANSERIFORMES,ANATIDAE,Spatula,querquedula,Garganey,Flaviviridae
+725,West Nile virus,Spatula querquedula,2,PCR,ANSERIFORMES,ANATIDAE,Spatula,querquedula,Garganey,Flaviviridae
+726,West Nile virus,Sternula antillarum,7,PCR,CHARADRIIFORMES,LARIDAE,Sternula,antillarum,Least Tern,Flaviviridae
+727,West Nile virus,Sternula antillarum,7,PCR,CHARADRIIFORMES,LARIDAE,Sternula,antillarum,Least Tern,Flaviviridae
+728,West Nile virus,Streptopelia decaocto,1,PCR,COLUMBIFORMES,COLUMBIDAE,Streptopelia,decaocto,"Eurasian Collared-dove, Collared Dove",Flaviviridae
+729,West Nile virus,Streptopelia decaocto,1,PCR,COLUMBIFORMES,COLUMBIDAE,Streptopelia,decaocto,"Eurasian Collared-dove, Collared Dove",Flaviviridae
+730,West Nile virus,Toxostoma rufum,1,PCR,PASSERIFORMES,MIMIDAE,Toxostoma,rufum,Brown Thrasher,Flaviviridae
+731,West Nile virus,Toxostoma rufum,1,PCR,PASSERIFORMES,MIMIDAE,Toxostoma,rufum,Brown Thrasher,Flaviviridae
+732,West Nile virus,Turdus merula,1,PCR,PASSERIFORMES,TURDIDAE,Turdus,merula,"Eurasian Blackbird, Common Blackbird, Blackbird",Flaviviridae
+733,West Nile virus,Turdus merula,1,PCR,PASSERIFORMES,TURDIDAE,Turdus,merula,"Eurasian Blackbird, Common Blackbird, Blackbird",Flaviviridae
+734,West Nile virus,Turdus migratorius,9,PCR,PASSERIFORMES,TURDIDAE,Turdus,migratorius,American Robin,Flaviviridae
+735,West Nile virus,Turdus migratorius,9,PCR,PASSERIFORMES,TURDIDAE,Turdus,migratorius,American Robin,Flaviviridae
+736,West Nile virus,Zenaida macroura,5,PCR,COLUMBIFORMES,COLUMBIDAE,Zenaida,macroura,"Mourning Dove, American Mourning Dove",Flaviviridae
+737,West Nile virus,Zenaida macroura,5,PCR,COLUMBIFORMES,COLUMBIDAE,Zenaida,macroura,"Mourning Dove, American Mourning Dove",Flaviviridae
+738,Whitewater Arroyo mammarenavirus,Neotoma albigula,5,PCR,RODENTIA,CRICETIDAE,Neotoma,albigula,White-throated Woodrat,Arenaviridae
+739,Whitewater Arroyo mammarenavirus,Neotoma albigula,5,PCR,RODENTIA,CRICETIDAE,Neotoma,albigula,White-throated Woodrat,Arenaviridae
+740,Whitewater Arroyo mammarenavirus,Neotoma cinerea,3,PCR,RODENTIA,CRICETIDAE,Neotoma,cinerea,"Bushy-tailed Woodrat, Packrat, Bushy-talied Woodrat, Woodrat",Arenaviridae
+741,Whitewater Arroyo mammarenavirus,Neotoma cinerea,3,PCR,RODENTIA,CRICETIDAE,Neotoma,cinerea,"Bushy-tailed Woodrat, Packrat, Bushy-talied Woodrat, Woodrat",Arenaviridae
+742,Whitewater Arroyo mammarenavirus,Neotoma mexicana,11,PCR,RODENTIA,CRICETIDAE,Neotoma,mexicana,Mexican Woodrat,Arenaviridae
+743,Whitewater Arroyo mammarenavirus,Neotoma mexicana,11,PCR,RODENTIA,CRICETIDAE,Neotoma,mexicana,Mexican Woodrat,Arenaviridae
+744,Whitewater Arroyo mammarenavirus,Neotoma micropus,15,PCR,RODENTIA,CRICETIDAE,Neotoma,micropus,Southern Plains Woodrat,Arenaviridae
+745,Whitewater Arroyo mammarenavirus,Neotoma micropus,15,PCR,RODENTIA,CRICETIDAE,Neotoma,micropus,Southern Plains Woodrat,Arenaviridae
+746,Yellow fever virus,Alouatta caraya,4,PCR,PRIMATES,ATELIDAE,Alouatta,caraya,"Black-and-gold Howler Monkey, Black Howling Monkey, Black Howler Monkey, Black Howler",Flaviviridae
+747,Yellow fever virus,Alouatta seniculus,12,PCR,PRIMATES,ATELIDAE,Alouatta,seniculus,,Flaviviridae
+748,Yellow fever virus,Erythrocebus patas,1,PCR,PRIMATES,CERCOPITHECIDAE,Erythrocebus,patas,Patas Monkey,Flaviviridae
+749,Yellow fever virus,Homo sapiens,60,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Flaviviridae
+750,Zaire ebolavirus,Cavia porcellus,1,PCR,RODENTIA,CAVIIDAE,Cavia,porcellus,,Filoviridae
+751,Zaire ebolavirus,Cavia porcellus,1,PCR,RODENTIA,CAVIIDAE,Cavia,porcellus,,Filoviridae
+752,Zaire ebolavirus,Gorilla gorilla,8,PCR,PRIMATES,HOMINIDAE,Gorilla,gorilla,"Western Gorilla, Lowland Gorilla",Filoviridae
+753,Zaire ebolavirus,Gorilla gorilla,8,PCR,PRIMATES,HOMINIDAE,Gorilla,gorilla,"Western Gorilla, Lowland Gorilla",Filoviridae
+754,Zaire ebolavirus,Homo sapiens,1707,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Filoviridae
+755,Zaire ebolavirus,Homo sapiens,1707,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Filoviridae
+756,Zaire ebolavirus,Macaca mulatta,11,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,mulatta,"Rhesus Monkey, Rhesus Macaque",Filoviridae
+757,Zaire ebolavirus,Macaca mulatta,11,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,mulatta,"Rhesus Monkey, Rhesus Macaque",Filoviridae
+758,Zaire ebolavirus,Pan troglodytes,1,PCR,PRIMATES,HOMINIDAE,Pan,troglodytes,"Chimpanzee, Robust Chimpanzee, Common Chimpanzee",Filoviridae
+759,Zaire ebolavirus,Pan troglodytes,1,PCR,PRIMATES,HOMINIDAE,Pan,troglodytes,"Chimpanzee, Robust Chimpanzee, Common Chimpanzee",Filoviridae
+760,Zika virus,Callithrix jacchus,1,PCR,PRIMATES,CALLITRICHIDAE,Callithrix,jacchus,"Common Marmoset, White-tufted-ear Marmoset",Flaviviridae
+761,Zika virus,Homo sapiens,250,PCR,PRIMATES,HOMINIDAE,Homo,sapiens,Human,Flaviviridae
+762,Zika virus,Macaca mulatta,5,PCR,PRIMATES,CERCOPITHECIDAE,Macaca,mulatta,"Rhesus Monkey, Rhesus Macaque",Flaviviridae
+763,Zika virus,Sapajus libidinosus,1,PCR,PRIMATES,CEBIDAE,Sapajus,libidinosus,"Bearded Capuchin, Black-striped Capuchin",Flaviviridae
