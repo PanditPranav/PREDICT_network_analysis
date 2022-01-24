@@ -1,0 +1,979 @@
+,VirusGroup,ViralFamily,VirusStatus,ScientificName,Order,PubMed
+0,Bombali Virus (BOMV),Filoviridae,new,['Mops condylurus' 'Chaerephon pumilus'],['CHIROPTERA'],2
+1,PREDICT_AaV-1,Adenoviridae,new,['Macaca mulatta'],['PRIMATES'],1
+2,PREDICT_AaV-10,Adenoviridae,new,['Macaca mulatta'],['PRIMATES'],1
+3,PREDICT_AaV-11,Adenoviridae,new,['Macaca mulatta'],['PRIMATES'],1
+4,PREDICT_AaV-2,Adenoviridae,new,['Macaca mulatta'],['PRIMATES'],1
+5,PREDICT_AaV-3,Adenoviridae,new,['Macaca mulatta'],['PRIMATES'],1
+6,PREDICT_AaV-4,Adenoviridae,new,['Macaca mulatta'],['PRIMATES'],1
+7,PREDICT_AaV-5,Adenoviridae,new,['Macaca mulatta'],['PRIMATES'],1
+8,PREDICT_AaV-6,Adenoviridae,new,['Macaca mulatta'],['PRIMATES'],1
+9,PREDICT_AaV-7,Adenoviridae,new,['Macaca mulatta'],['PRIMATES'],1
+10,PREDICT_AaV-8,Adenoviridae,new,['Macaca mulatta'],['PRIMATES'],1
+11,PREDICT_AaV-9,Adenoviridae,new,['Macaca mulatta'],['PRIMATES'],1
+12,PREDICT_AdV-1,Adenoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+13,PREDICT_AdV-10,Adenoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+14,PREDICT_AdV-11,Adenoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+15,PREDICT_AdV-12,Adenoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+16,PREDICT_AdV-13,Adenoviridae,new,"['Sturnira lilium' 'Sturnirinae' 'Rhynchonycteris naso'
+ 'Carollia perspicillata' 'Artibeus obscurus' 'Chiroptera' 'Sturnira sp.']",['CHIROPTERA'],7
+17,PREDICT_AdV-14,Adenoviridae,new,['Glossophaga soricina'],['CHIROPTERA'],1
+18,PREDICT_AdV-15,Adenoviridae,new,['Sturnira lilium'],['CHIROPTERA'],1
+19,PREDICT_AdV-16,Adenoviridae,new,['Anoura caudifer' 'Glossophaga soricina' 'Carollia perspicillata'],['CHIROPTERA'],3
+20,PREDICT_AdV-17,Adenoviridae,new,['Lophuromys sikapusi' 'Thryonomys swinderianus'],['RODENTIA'],2
+21,PREDICT_AdV-18,Adenoviridae,new,['Soricidae'],['EULIPOTYPHLA'],1
+22,PREDICT_AdV-19,Adenoviridae,new,['Praomys sp.'],['RODENTIA'],1
+23,PREDICT_AdV-2,Adenoviridae,new,['Gorilla beringei beringei'],['PRIMATES'],1
+24,PREDICT_AdV-20,Adenoviridae,new,['Mus musculus'],['RODENTIA'],1
+25,PREDICT_AdV-21,Adenoviridae,new,['Praomys sp.'],['RODENTIA'],1
+26,PREDICT_AdV-22,Adenoviridae,new,['Dasymys rufulus' 'Mus sp.'],['RODENTIA'],2
+27,PREDICT_AdV-23,Adenoviridae,new,['Gerbilliscus kempi'],['RODENTIA'],1
+28,PREDICT_AdV-24,Adenoviridae,new,['Uranomys ruddi' 'Lophuromys nudicaudus'],['RODENTIA'],2
+29,PREDICT_AdV-25,Adenoviridae,new,['Praomys sp.'],['RODENTIA'],1
+30,PREDICT_AdV-26,Adenoviridae,new,['Rattus rattus'],['RODENTIA'],1
+31,PREDICT_AdV-27,Adenoviridae,new,['Macroglossus sobrinus'],['CHIROPTERA'],1
+32,PREDICT_AdV-28,Adenoviridae,new,['Epomops franqueti'],['CHIROPTERA'],1
+33,PREDICT_AdV-29,Adenoviridae,new,['Megaloglossus woermanni' 'Epomops franqueti'],['CHIROPTERA'],2
+34,PREDICT_AdV-3,Adenoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+35,PREDICT_AdV-30,Adenoviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+36,PREDICT_AdV-31,Adenoviridae,new,['Rattus rattus'],['RODENTIA'],1
+37,PREDICT_AdV-32,Adenoviridae,new,['Mastomys natalensis'],['RODENTIA'],1
+38,PREDICT_AdV-33,Adenoviridae,new,['Hypsugo musciculus'],['CHIROPTERA'],1
+39,PREDICT_AdV-34,Adenoviridae,new,['Neoromicia tenuipinnis'],['CHIROPTERA'],1
+40,PREDICT_AdV-35,Adenoviridae,new,['Rhinolophus alcyone' 'Rhinolophus landeri' 'Hipposideros cyclops'],['CHIROPTERA'],3
+41,PREDICT_AdV-36,Adenoviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+42,PREDICT_AdV-37,Adenoviridae,new,['Mops demonstrator' 'Chaerephon pumilus'],['CHIROPTERA'],2
+43,PREDICT_AdV-38,Adenoviridae,new,['Megaloglossus woermanni' 'Hipposideros cyclops' 'Micropteropus pusillus'],['CHIROPTERA'],3
+44,PREDICT_AdV-39,Adenoviridae,new,['Hipposideros cyclops'],['CHIROPTERA'],1
+45,PREDICT_AdV-4,Adenoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+46,PREDICT_AdV-40,Adenoviridae,new,['Hipposideros commersoni'],['CHIROPTERA'],1
+47,PREDICT_AdV-41,Adenoviridae,new,['Hipposideros commersoni' 'Hipposideros gigas'],['CHIROPTERA'],2
+48,PREDICT_AdV-42,Adenoviridae,new,['Rhinolophus landeri'],['CHIROPTERA'],1
+49,PREDICT_AdV-43,Adenoviridae,new,['Lophuromys sp.'],['RODENTIA'],1
+50,PREDICT_AdV-44,Adenoviridae,new,['Praomys sp.' 'Dasymys rufulus'],['RODENTIA'],2
+51,PREDICT_AdV-46,Adenoviridae,new,['Malacomys longipes'],['RODENTIA'],1
+52,PREDICT_AdV-47,Adenoviridae,new,['Malacomys sp.'],['RODENTIA'],1
+53,PREDICT_AdV-48,Adenoviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+54,PREDICT_AdV-49,Adenoviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+55,PREDICT_AdV-5,Adenoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+56,PREDICT_AdV-50,Adenoviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+57,PREDICT_AdV-51,Adenoviridae,new,['Dasymys rufulus'],['RODENTIA'],1
+58,PREDICT_AdV-52,Adenoviridae,new,['Hylomyscus stella'],['RODENTIA'],1
+59,PREDICT_AdV-53,Adenoviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+60,PREDICT_AdV-54,Adenoviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+61,PREDICT_AdV-55,Adenoviridae,new,['Macaca mulatta' 'Macaca nemestrina'],['PRIMATES'],2
+62,PREDICT_AdV-56,Adenoviridae,new,['Neoromicia tenuipinnis'],['CHIROPTERA'],1
+63,PREDICT_AdV-57,Adenoviridae,new,['Nycteris hispida'],['CHIROPTERA'],1
+64,PREDICT_AdV-58,Adenoviridae,new,['Mops condylurus'],['CHIROPTERA'],1
+65,PREDICT_AdV-59,Adenoviridae,new,['Mops condylurus'],['CHIROPTERA'],1
+66,PREDICT_AdV-6,Adenoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+67,PREDICT_AdV-60,Adenoviridae,new,['Rhinolophus fumigatus'],['CHIROPTERA'],1
+68,PREDICT_AdV-61,Adenoviridae,new,['Lissonycteris angolensis'],['CHIROPTERA'],1
+69,PREDICT_AdV-62,Adenoviridae,new,['Neoromicia tenuipinnis'],['CHIROPTERA'],1
+70,PREDICT_AdV-63,Adenoviridae,new,['Eidolon helvum'],['CHIROPTERA'],1
+71,PREDICT_AdV-64,Adenoviridae,new,['Rhinolophus alcyone' 'Rhinolophus landeri'],['CHIROPTERA'],2
+72,PREDICT_AdV-65,Adenoviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+73,PREDICT_AdV-66,Adenoviridae,new,['Hipposideros diadema' 'Hipposideros galeritus'],['CHIROPTERA'],2
+74,PREDICT_AdV-67,Adenoviridae,new,['Hipposideros diadema'],['CHIROPTERA'],1
+75,PREDICT_AdV-68,Adenoviridae,new,['Hipposideros cyclops'],['CHIROPTERA'],1
+76,PREDICT_AdV-69,Adenoviridae,new,['Macaca mulatta' 'Suncus murinus'],['PRIMATES' 'EULIPOTYPHLA'],2
+77,PREDICT_AdV-7,Adenoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+78,PREDICT_AdV-70,Adenoviridae,new,['Sundamys muelleri'],['RODENTIA'],1
+79,PREDICT_AdV-71,Adenoviridae,new,['Rhinophylla pumilio' 'Sturnira sp.'],['CHIROPTERA'],2
+80,PREDICT_AdV-72,Adenoviridae,new,['Macaca mulatta'],['PRIMATES'],1
+81,PREDICT_AdV-73,Adenoviridae,new,['Mus musculoides'],['RODENTIA'],1
+82,PREDICT_AdV-74,Adenoviridae,new,['Mus musculus' 'Mus musculoides'],['RODENTIA'],2
+83,PREDICT_AdV-75,Adenoviridae,new,"['Mus musculoides' 'Praomys tullbergi' 'Heimyscus fumosus'
+ 'Hylomyscus sp.' 'Hylomyscus stella' 'Crocidura sp.' 'Hylomyscus parvus']",['RODENTIA' 'EULIPOTYPHLA'],7
+84,PREDICT_AdV-77,Adenoviridae,new,['Nasalis larvatus'],['PRIMATES'],1
+85,PREDICT_AdV-78,Adenoviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+86,PREDICT_AdV-79,Adenoviridae,new,['Micropteropus pusillus'],['CHIROPTERA'],1
+87,PREDICT_AdV-8,Adenoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+88,PREDICT_AdV-80,Adenoviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+89,PREDICT_AdV-81,Adenoviridae,new,['Glossophaga soricina'],['CHIROPTERA'],1
+90,PREDICT_AdV-83,Adenoviridae,new,['Bandicota indica' 'Bandicota bengalensis'],['RODENTIA'],2
+91,PREDICT_AdV-84,Adenoviridae,new,['Suncus murinus'],['EULIPOTYPHLA'],1
+92,PREDICT_AdV-85,Adenoviridae,new,['Suncus murinus'],['EULIPOTYPHLA'],1
+93,PREDICT_AdV-86,Adenoviridae,new,['Suncus murinus'],['EULIPOTYPHLA'],1
+94,PREDICT_AdV-87,Adenoviridae,new,['Pteronotus davyi' 'Glossophaga soricina' 'Myotis californicus'],['CHIROPTERA'],3
+95,PREDICT_AdV-88,Adenoviridae,new,['Rattus rattus'],['RODENTIA'],1
+96,PREDICT_AdV-89,Adenoviridae,new,['Bandicota indica'],['RODENTIA'],1
+97,PREDICT_AdV-9,Adenoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+98,PREDICT_AdV-90,Adenoviridae,new,"['Bandicota indica' 'Suncus murinus' 'Bandicota bengalensis'
+ 'Rattus rattus']",['RODENTIA' 'EULIPOTYPHLA'],4
+99,PREDICT_AdV-91,Adenoviridae,new,['Pongo pygmaeus'],['PRIMATES'],1
+100,PREDICT_ArenaV-1,Arenaviridae,new,['Apodemus sp.'],['RODENTIA'],1
+101,PREDICT_ArenaV-2,Arenaviridae,new,['Rattus exulans'],['RODENTIA'],1
+102,PREDICT_BoV-1,Parvoviridae,new,['Macaca mulatta'],['PRIMATES'],1
+103,PREDICT_CoV-1,Coronaviridae,new,['Carollia sowelli' 'Carollia perspicillata' 'Bauerus dubiaquercus'],['CHIROPTERA'],3
+104,PREDICT_CoV-10,Coronaviridae,new,['Pteronotus parnellii'],['CHIROPTERA'],1
+105,PREDICT_CoV-100,Coronaviridae,new,['Gallus gallus domesticus'],['GALLIFORMES'],1
+106,PREDICT_CoV-101,Coronaviridae,new,['Kerivoula hardwickii'],['CHIROPTERA'],1
+107,PREDICT_CoV-102,Coronaviridae,new,['Epomophorus gambianus'],['CHIROPTERA'],1
+108,PREDICT_CoV-103,Coronaviridae,new,"['Megaderma lyra' 'Cynopterus sphinx' 'Scotophilus cf. kuhlii'
+ 'Megaderma sp.']",['CHIROPTERA'],4
+109,PREDICT_CoV-104,Coronaviridae,new,['Tylonycteris pachypus'],['CHIROPTERA'],1
+110,PREDICT_CoV-105,Coronaviridae,new,['Rhinolophus creaghi'],['CHIROPTERA'],1
+111,PREDICT_CoV-106,Coronaviridae,new,['Mops condylurus'],['CHIROPTERA'],1
+112,PREDICT_CoV-107,Coronaviridae,new,['Myotis ricketti'],['CHIROPTERA'],1
+113,PREDICT_CoV-108,Coronaviridae,new,['Rhinolophus pusillus' 'Myotis siligorensis'],['CHIROPTERA'],2
+114,PREDICT_CoV-109,Coronaviridae,new,['Rhinolophus cf. alcyone' 'Rhinolophus sp.'],['CHIROPTERA'],2
+115,PREDICT_CoV-11,Coronaviridae,new,"['Artibeus phaeotis' 'Pteronotus personatus' 'Artibeus lituratus'
+ 'Artibeus obscurus']",[nan 'CHIROPTERA'],4
+116,PREDICT_CoV-110,Coronaviridae,new,['Rhinolophus cf. creaghi' 'Rhinolophus creaghi'],['CHIROPTERA'],2
+117,PREDICT_CoV-111,Coronaviridae,new,['Myotis laniger'],['CHIROPTERA'],1
+118,PREDICT_CoV-112,Coronaviridae,new,['Rhinolophus cf. mehelyi'],['CHIROPTERA'],1
+119,PREDICT_CoV-113,Coronaviridae,new,['Rhinolophus sp.'],['CHIROPTERA'],1
+120,PREDICT_CoV-114,Coronaviridae,new,['Rhinopoma hardwickii' 'Mops midas'],['CHIROPTERA'],2
+121,PREDICT_CoV-115,Coronaviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+122,PREDICT_CoV-116,Coronaviridae,new,['Glauconycteris poensis' 'Miniopterus sp.'],['CHIROPTERA'],2
+123,PREDICT_CoV-117,Coronaviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+124,PREDICT_CoV-12,Coronaviridae,new,['Anoura caudifer'],['CHIROPTERA'],1
+125,PREDICT_CoV-13,Coronaviridae,new,['Lichonycteris obscura' 'Glossophaga soricina'],['CHIROPTERA'],2
+126,PREDICT_CoV-14,Coronaviridae,new,['Sturnira lilium'],['CHIROPTERA'],1
+127,PREDICT_CoV-15,Coronaviridae,new,['Sturnira lilium' 'Artibeus lituratus'],['CHIROPTERA'],2
+128,PREDICT_CoV-16,Coronaviridae,new,"['Pteropus giganteus' 'Pteropus alecto' 'Pteropus cf. alecto'
+ 'Pteropus lylei']",['CHIROPTERA'],4
+129,PREDICT_CoV-17,Coronaviridae,new,"['Pteropus giganteus' 'Chiroptera' 'Pteropus sp.' 'Pteropus lylei'
+ 'Pteropus cf. lylei']",['CHIROPTERA'],5
+130,PREDICT_CoV-18,Coronaviridae,new,['Phyllostomidae'],['CHIROPTERA'],1
+131,PREDICT_CoV-19,Coronaviridae,new,['Phyllostomidae'],['CHIROPTERA'],1
+132,PREDICT_CoV-2,Coronaviridae,new,['Megaloglossus woermanni'],['CHIROPTERA'],1
+133,PREDICT_CoV-20,Coronaviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+134,PREDICT_CoV-21,Coronaviridae,new,['Mops condylurus' 'Triaenops persicus'],['CHIROPTERA'],2
+135,PREDICT_CoV-22,Coronaviridae,new,"['Hipposideros lekaguli' 'Macroglossus sp.' 'Eonycteris spelaea'
+ 'Rousettus leschenaultii']",['CHIROPTERA'],4
+136,PREDICT_CoV-23,Coronaviridae,new,['Rousettus sp.' 'Eonycteris spelaea'],['CHIROPTERA'],2
+137,PREDICT_CoV-24,Coronaviridae,new,"['Hipposideros lekaguli' 'Pteropus sp.' 'Cynopterus sphinx'
+ 'Cynopterus brachyotis' 'Cynopterus sp.' 'Megaerops niphanae'
+ 'Rousettus sp.']",['CHIROPTERA'],7
+138,PREDICT_CoV-25,Coronaviridae,new,['Rhinolophus shameli' 'Scotophilus kuhlii'],['CHIROPTERA'],2
+139,PREDICT_CoV-26,Coronaviridae,new,['Megaderma lyra'],['CHIROPTERA'],1
+140,PREDICT_CoV-27,Coronaviridae,new,['Hipposideros lekaguli'],['CHIROPTERA'],1
+141,PREDICT_CoV-28,Coronaviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+142,PREDICT_CoV-29,Coronaviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+143,PREDICT_CoV-3,Coronaviridae,new,['Lonchorhina aurita'],['CHIROPTERA'],1
+144,PREDICT_CoV-30,Coronaviridae,new,"['Rousettus aegyptiacus' 'Megaloglossus woermanni' 'Epomops franqueti'
+ 'Mops condylurus']",['CHIROPTERA'],4
+145,PREDICT_CoV-32,Coronaviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+146,PREDICT_CoV-33,Coronaviridae,new,['Scotophilus nux'],['CHIROPTERA'],1
+147,PREDICT_CoV-34,Coronaviridae,new,['Pipistrellus coromandra'],['CHIROPTERA'],1
+148,PREDICT_CoV-35,Coronaviridae,new,"['Scotophilus dinganii' 'Scotophilus leucogaster' 'Mops condylurus'
+ 'Scotophilus kuhlii' 'Chiroptera' 'Pteropus sp.' 'Scotophilus cf. kuhlii'
+ 'Scotophilus heathii' 'Epomops franqueti' 'Scotophilus nux'
+ 'Taphozous sp.' 'Scotophilus cf. heathii' 'Myotis sp.']",['CHIROPTERA' nan],13
+149,PREDICT_CoV-36,Coronaviridae,new,['Hipposideros bicolor'],['CHIROPTERA'],1
+150,PREDICT_CoV-37,Coronaviridae,new,['Myotis ricketti' 'Rhinolophus sinicus' 'Miniopterus schreibersii'],['CHIROPTERA'],3
+151,PREDICT_CoV-38,Coronaviridae,new,['Myotis myotis'],['CHIROPTERA'],1
+152,PREDICT_CoV-39,Coronaviridae,new,['Rhinolophus affinis'],['CHIROPTERA'],1
+153,PREDICT_CoV-4,Coronaviridae,new,"['Artibeus jamaicensis' 'Sturnira lilium' 'Artibeus planirostris'
+ 'Mesophylla macconnelli']",['CHIROPTERA'],4
+154,PREDICT_CoV-40,Coronaviridae,new,['Sturnira erythromos'],['CHIROPTERA'],1
+155,PREDICT_CoV-41,Coronaviridae,new,['Chiroptera' 'Chaerephon plicatus'],['CHIROPTERA'],2
+156,PREDICT_CoV-42,Coronaviridae,new,['Rhinolophus sp.'],['CHIROPTERA'],1
+157,PREDICT_CoV-43,Coronaviridae,new,['Rhinolophus clivosus' 'Hipposideros caffer' 'Rhinolophus sp.'],['CHIROPTERA'],3
+158,PREDICT_CoV-44,Coronaviridae,new,"['Hipposideros ruber' 'Rhinolophus sp.' 'Hipposideros caffer'
+ 'Lissonycteris angolensis']",['CHIROPTERA'],4
+159,PREDICT_CoV-45,Coronaviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+160,PREDICT_CoV-46,Coronaviridae,new,['Crocidura sp.' 'Crocidura olivieri'],['EULIPOTYPHLA'],2
+161,PREDICT_CoV-47,Coronaviridae,new,['Chiroptera' 'Chaerephon plicatus'],['CHIROPTERA'],2
+162,PREDICT_CoV-48,Coronaviridae,new,['Crocidura attenuata'],['EULIPOTYPHLA'],1
+163,PREDICT_CoV-49,Coronaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+164,PREDICT_CoV-5,Coronaviridae,new,['Bauerus dubiaquercus' 'Artibeus jamaicensis' 'Artibeus lituratus'],['CHIROPTERA'],3
+165,PREDICT_CoV-51,Coronaviridae,new,['Rhinolophus creaghi' 'Hipposideros galeritus'],['CHIROPTERA'],2
+166,PREDICT_CoV-52,Coronaviridae,new,['Hipposideros diadema' 'Hipposideros cervinus' 'Myotis horsfieldii'],['CHIROPTERA'],3
+167,PREDICT_CoV-53,Coronaviridae,new,['Hipposideros larvatus'],['CHIROPTERA'],1
+168,PREDICT_CoV-54,Coronaviridae,new,['Hipposideros gigas' 'Hipposideros commersoni'],['CHIROPTERA'],2
+169,PREDICT_CoV-55,Coronaviridae,new,['Mastomys sp.' 'Rattus rattus'],['RODENTIA'],2
+170,PREDICT_CoV-56,Coronaviridae,new,['Cynopterus sp.' 'Cynopterus sphinx'],['CHIROPTERA'],2
+171,PREDICT_CoV-57,Coronaviridae,new,['Pipistrellus pipistrellus' 'Myotis ricketti'],['CHIROPTERA'],2
+172,PREDICT_CoV-58,Coronaviridae,new,['Deomys ferrugineus'],['RODENTIA'],1
+173,PREDICT_CoV-59,Coronaviridae,new,['Myotis daubentonii'],['CHIROPTERA'],1
+174,PREDICT_CoV-6,Coronaviridae,new,['Myotis californicus'],['CHIROPTERA'],1
+175,PREDICT_CoV-60,Coronaviridae,new,['Myotis longipes' 'Pipistrellus pipistrellus' 'Myotis laniger'],['CHIROPTERA'],3
+176,PREDICT_CoV-61,Coronaviridae,new,['Pipistrellus pipistrellus'],['CHIROPTERA'],1
+177,PREDICT_CoV-62,Coronaviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+178,PREDICT_CoV-63,Coronaviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+179,PREDICT_CoV-64,Coronaviridae,new,['Mastomys sp.' 'Mus minutoides'],['RODENTIA'],2
+180,PREDICT_CoV-65,Coronaviridae,new,"['Rhinolophus clivosus' 'Rhinolophus sp.' 'Rhinolophus cf. mehelyi'
+ 'Rhinolophus ferrumequinum' 'Miniopterus cf. schreibersii'
+ 'Rhinolophus cf. euryale' 'Rhinopoma hardwickii']",['CHIROPTERA'],7
+181,PREDICT_CoV-66,Coronaviridae,new,['Lissonycteris angolensis' 'Myonycteris torquata'],['CHIROPTERA'],2
+182,PREDICT_CoV-67,Coronaviridae,new,"['Pteropus alecto' 'Pteropus sp.' 'Acerodon celebensis'
+ 'Pteropus cf. alecto' 'Pteropus cf. conspicillatus']",['CHIROPTERA'],5
+183,PREDICT_CoV-68,Coronaviridae,new,"['Pteropus alecto' 'Pteropus giganteus' 'Pteropus cf. alecto'
+ 'Pteropus lylei']",['CHIROPTERA'],4
+184,PREDICT_CoV-7,Coronaviridae,new,['Myotis velifer'],['CHIROPTERA'],1
+185,PREDICT_CoV-70,Coronaviridae,new,['Rhinolophus clivosus' 'Rhinolophus cf. alcyone'],['CHIROPTERA'],2
+186,PREDICT_CoV-71,Coronaviridae,new,['Mus bufo'],['RODENTIA'],1
+187,PREDICT_CoV-72,Coronaviridae,new,['Calomys sp.' 'Rattus sp.' 'Oryzomys sp.'],['RODENTIA'],3
+188,PREDICT_CoV-73,Coronaviridae,new,['Pteropus alecto' 'Acerodon celebensis' 'Pteropus cf. alecto'],['CHIROPTERA'],3
+189,PREDICT_CoV-74,Coronaviridae,new,['Malacomys longipes'],['RODENTIA'],1
+190,PREDICT_CoV-75,Coronaviridae,new,['Nandinia binotata'],['CARNIVORA'],1
+191,PREDICT_CoV-76,Coronaviridae,new,['Niviventer cremoriventer' 'Hipposideros cervinus'],['RODENTIA' 'CHIROPTERA'],2
+192,PREDICT_CoV-77,Coronaviridae,new,['Lissonycteris angolensis'],['CHIROPTERA'],1
+193,PREDICT_CoV-78,Coronaviridae,new,"['Rhinolophus creaghi' 'Rhinolophus cf. arcuatus' 'Sundasciurus hippurus'
+ 'Hipposideros cervinus' 'Rhinolophus cf. creaghi' 'Rattus rattus'
+ 'Rhinolophus sp.' 'Maxomys whiteheadi' 'Maxomys surifer'
+ 'Cynopterus brachyotis' 'Sundamys muelleri' 'Rhinolophus acuminatus'
+ 'Kerivoula pellucida' 'Rhinolophus trifoliatus' 'Leopoldamys sabanus']",['CHIROPTERA' 'RODENTIA'],15
+194,PREDICT_CoV-79,Coronaviridae,new,['Rhinolophus pusillus'],['CHIROPTERA'],1
+195,PREDICT_CoV-8,Coronaviridae,new,['Tadarida brasiliensis'],['CHIROPTERA'],1
+196,PREDICT_CoV-80,Coronaviridae,new,['Rhinolophus cf. creaghi' 'Rhinolophus cf. arcuatus'],['CHIROPTERA'],2
+197,PREDICT_CoV-81,Coronaviridae,new,['Hipposideros ruber' 'Hipposideros fuliginosus'],['CHIROPTERA'],2
+198,PREDICT_CoV-82,Coronaviridae,new,['Chaerephon plicatus'],['CHIROPTERA'],1
+199,PREDICT_CoV-83,Coronaviridae,new,['Acerodon celebensis' 'Pteropus alecto' 'Pteropus cf. alecto'],['CHIROPTERA'],3
+200,PREDICT_CoV-84,Coronaviridae,new,['Rhinolophus creaghi'],['CHIROPTERA'],1
+201,PREDICT_CoV-85,Coronaviridae,new,['Sylvicapra grimmia'],['CETARTIODACTYLA'],1
+202,PREDICT_CoV-86,Coronaviridae,new,['Tylonycteris pachypus'],['CHIROPTERA'],1
+203,PREDICT_CoV-87,Coronaviridae,new,['Eonycteris spelaea' 'Nycteris tragata' 'Pipistrellus coromandra'],['CHIROPTERA'],3
+204,PREDICT_CoV-88,Coronaviridae,new,['Tylonycteris pachypus'],['CHIROPTERA'],1
+205,PREDICT_CoV-89,Coronaviridae,new,['Rhinolophus lepidus'],['CHIROPTERA'],1
+206,PREDICT_CoV-9,Coronaviridae,new,['Nyctinomops laticaudatus'],['CHIROPTERA'],1
+207,PREDICT_CoV-90,Coronaviridae,new,['Chaerephon pumilus' 'Scotophilus cf. heathii' 'Scotophilus heathii'],['CHIROPTERA'],3
+208,PREDICT_CoV-91,Coronaviridae,new,['Rhinolophus sp.'],['CHIROPTERA'],1
+209,PREDICT_CoV-92,Coronaviridae,new,['Rhinolophus lepidus' 'Hipposideros larvatus species complex'],['CHIROPTERA'],2
+210,PREDICT_CoV-93,Coronaviridae,new,['Hipposideros larvatus species complex'],['CHIROPTERA'],1
+211,PREDICT_CoV-94,Coronaviridae,new,['Rattus rattus'],['RODENTIA'],1
+212,PREDICT_CoV-95,Coronaviridae,new,['Hipposideros larvatus'],['CHIROPTERA'],1
+213,PREDICT_CoV-96,Coronaviridae,new,['Hipposideros larvatus/grandis species complex'],['CHIROPTERA'],1
+214,PREDICT_CoV-97,Coronaviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+215,PREDICT_CoV-98,Coronaviridae,new,['Crocidura goliath'],['EULIPOTYPHLA'],1
+216,PREDICT_CoV-99,Coronaviridae,new,['Chaerephon plicatus'],['CHIROPTERA'],1
+217,PREDICT_EV-1,Picornaviridae,new,['Gorilla beringei beringei'],['PRIMATES'],1
+218,PREDICT_EV-2,Picornaviridae,new,['Pan troglodytes'],['PRIMATES'],1
+219,PREDICT_EV-3,Picornaviridae,new,['Pan troglodytes'],['PRIMATES'],1
+220,PREDICT_EV-4,Picornaviridae,new,['Praomys sp.'],['RODENTIA'],1
+221,PREDICT_EV-5,Picornaviridae,new,['Praomys sp.'],['RODENTIA'],1
+222,PREDICT_EV-6,Picornaviridae,new,['Pongo pygmaeus'],['PRIMATES'],1
+223,PREDICT_EV-7,Picornaviridae,new,['Pongo pygmaeus'],['PRIMATES'],1
+224,PREDICT_EV-8,Picornaviridae,new,['Cercopithecus nictitans' 'Cercopithecus preussi'],['PRIMATES'],2
+225,PREDICT_Flavi-1,Flaviviridae,new,['Scotophilus sp.'],['CHIROPTERA'],1
+226,PREDICT_Flavi-2,Flaviviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+227,PREDICT_Flavi-3,Flaviviridae,new,['Hipposideros gigas'],['CHIROPTERA'],1
+228,PREDICT_Flavi-4,Flaviviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+229,PREDICT_Flavi-5,Flaviviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+230,PREDICT_Flavi-6,Flaviviridae,new,['Hipposideros diadema'],['CHIROPTERA'],1
+231,PREDICT_HV-1,Herpesviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+232,PREDICT_HV-10,Herpesviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+233,PREDICT_HV-100,Herpesviridae,new,['Leopoldamys sabanus'],['RODENTIA'],1
+234,PREDICT_HV-101,Herpesviridae,new,['Hipposideros diadema'],['CHIROPTERA'],1
+235,PREDICT_HV-102,Herpesviridae,new,['Rhinolophus creaghi'],['CHIROPTERA'],1
+236,PREDICT_HV-103,Herpesviridae,new,['Glossophaga soricina' 'Glossophaga commissarisi' 'Sturnira ludovici'],['CHIROPTERA'],3
+237,PREDICT_HV-104,Herpesviridae,new,['Glossophaga soricina'],['CHIROPTERA'],1
+238,PREDICT_HV-105,Herpesviridae,new,['Glossophaga soricina'],['CHIROPTERA'],1
+239,PREDICT_HV-106,Herpesviridae,new,['Callosciurus notatus' 'Echinosorex gymnura'],['RODENTIA' 'EULIPOTYPHLA'],2
+240,PREDICT_HV-107,Herpesviridae,new,['Glossophaga soricina'],['CHIROPTERA'],1
+241,PREDICT_HV-109,Herpesviridae,new,['Sturnira ludovici' 'Glossophaga soricina' 'Sturnira lilium'],['CHIROPTERA'],3
+242,PREDICT_HV-11,Herpesviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+243,PREDICT_HV-110,Herpesviridae,new,['Pteronotus davyi'],['CHIROPTERA'],1
+244,PREDICT_HV-111,Herpesviridae,new,['Sturnira ludovici'],['CHIROPTERA'],1
+245,PREDICT_HV-112,Herpesviridae,new,['Sturnira lilium'],['CHIROPTERA'],1
+246,PREDICT_HV-12,Herpesviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+247,PREDICT_HV-120,Herpesviridae,new,['Funisciurus sp.' 'Funisciurus pyrropus'],['RODENTIA'],2
+248,PREDICT_HV-121,Herpesviridae,new,['Tupaia glis' 'Sundasciurus lowii' 'Maxomys whiteheadi'],['SCANDENTIA' 'RODENTIA'],3
+249,PREDICT_HV-122,Herpesviridae,new,['Rodentia'],['RODENTIA'],1
+250,PREDICT_HV-123,Herpesviridae,new,['Maxomys whiteheadi'],['RODENTIA'],1
+251,PREDICT_HV-124,Herpesviridae,new,['Callosciurus notatus'],['RODENTIA'],1
+252,PREDICT_HV-125,Herpesviridae,new,['Ruwenzorisorex suncoides'],['EULIPOTYPHLA'],1
+253,PREDICT_HV-126,Herpesviridae,new,['Gorilla beringei beringei' 'Tarsius bancanus'],['PRIMATES'],2
+254,PREDICT_HV-127,Herpesviridae,new,['Gorilla beringei beringei'],['PRIMATES'],1
+255,PREDICT_HV-128,Herpesviridae,new,['Lophocebus aterrimus' 'Cercopithecus wolfi' 'piliocolobus tholloni'],['PRIMATES'],3
+256,PREDICT_HV-129,Herpesviridae,new,['piliocolobus tholloni'],['PRIMATES'],1
+257,PREDICT_HV-13,Herpesviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+258,PREDICT_HV-14,Herpesviridae,new,['Pipistrellus nanulus'],['CHIROPTERA'],1
+259,PREDICT_HV-140,Herpesviridae,new,['Kerivoula minuta'],['CHIROPTERA'],1
+260,PREDICT_HV-142,Herpesviridae,new,['Cercopithecus preussi'],['PRIMATES'],1
+261,PREDICT_HV-15,Herpesviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+262,PREDICT_HV-16,Herpesviridae,new,['Mus sp.'],['RODENTIA'],1
+263,PREDICT_HV-17,Herpesviridae,new,['Paradoxurus hermaphroditus'],['CARNIVORA'],1
+264,PREDICT_HV-18,Herpesviridae,new,['Cercopithecus nictitans'],['PRIMATES'],1
+265,PREDICT_HV-19,Herpesviridae,new,['Cercopithecus nictitans' 'Cercopithecus cephus'],['PRIMATES'],2
+266,PREDICT_HV-2,Herpesviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+267,PREDICT_HV-20,Herpesviridae,new,['Ursus thibetanus'],['CARNIVORA'],1
+268,PREDICT_HV-21,Herpesviridae,new,['Macaca fascicularis'],['PRIMATES'],1
+269,PREDICT_HV-22,Herpesviridae,new,"['Chlorocebus aethiops' 'Cercopithecus nictitans' 'Cercopithecus preussi'
+ 'Chlorocebus pygerythrus']",['PRIMATES'],4
+270,PREDICT_HV-23,Herpesviridae,new,['Pongo pygmaeus'],['PRIMATES'],1
+271,PREDICT_HV-24,Herpesviridae,new,['Lophocebus albigena'],['PRIMATES'],1
+272,PREDICT_HV-25,Herpesviridae,new,['Nycticebus pygmaeus' 'Nycticebus bengalensis'],['PRIMATES'],2
+273,PREDICT_HV-26,Herpesviridae,new,['Pongo pygmaeus'],['PRIMATES'],1
+274,PREDICT_HV-27,Herpesviridae,new,"['Cercopithecus kandti' 'Cercopithecus preussi' 'Papio hamadryas'
+ 'Cercopithecus nictitans']",[nan 'PRIMATES'],4
+275,PREDICT_HV-28,Herpesviridae,new,['Macroglossus sobrinus'],['CHIROPTERA'],1
+276,PREDICT_HV-29,Herpesviridae,new,['Praomys jacksoni' 'Crocidura sp.'],['RODENTIA' 'EULIPOTYPHLA'],2
+277,PREDICT_HV-3,Herpesviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+278,PREDICT_HV-30,Herpesviridae,new,['Malacomys longipes'],['RODENTIA'],1
+279,PREDICT_HV-31,Herpesviridae,new,['Malacomys sp.' 'Praomys sp.' 'Lophuromys sp.'],['RODENTIA'],3
+280,PREDICT_HV-32,Herpesviridae,new,['Lophuromys sp.'],['RODENTIA'],1
+281,PREDICT_HV-33,Herpesviridae,new,['Praomys sp.' 'Lophuromys sp.'],['RODENTIA'],2
+282,PREDICT_HV-34,Herpesviridae,new,['Hylomyscus stella' 'Malacomys sp.'],['RODENTIA'],2
+283,PREDICT_HV-35,Herpesviridae,new,['Malacomys longipes' 'Malacomys sp.'],['RODENTIA'],2
+284,PREDICT_HV-36,Herpesviridae,new,['Lophuromys sp.'],['RODENTIA'],1
+285,PREDICT_HV-37,Herpesviridae,new,['Rhinolophus sp.'],['CHIROPTERA'],1
+286,PREDICT_HV-38,Herpesviridae,new,['Crocidura olivieri' 'Rattus rattus'],['EULIPOTYPHLA' 'RODENTIA'],2
+287,PREDICT_HV-39,Herpesviridae,new,['Malacomys sp.' 'Lophuromys sp.'],['RODENTIA'],2
+288,PREDICT_HV-4,Herpesviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+289,PREDICT_HV-40,Herpesviridae,new,"['Carollia sowelli' 'Carollia perspicillata' 'Chlorocebus pygerythrus'
+ 'Sturnira lilium']",['CHIROPTERA' 'PRIMATES'],4
+290,PREDICT_HV-41,Herpesviridae,new,['Malacomys sp.'],['RODENTIA'],1
+291,PREDICT_HV-42,Herpesviridae,new,['Praomys sp.'],['RODENTIA'],1
+292,PREDICT_HV-43,Herpesviridae,new,['Tadarida sp.'],['CHIROPTERA'],1
+293,PREDICT_HV-44,Herpesviridae,new,['Soricidae'],['EULIPOTYPHLA'],1
+294,PREDICT_HV-45,Herpesviridae,new,['Crocidura olivieri'],['EULIPOTYPHLA'],1
+295,PREDICT_HV-46,Herpesviridae,new,['Soricidae'],['EULIPOTYPHLA'],1
+296,PREDICT_HV-47,Herpesviridae,new,['Soricidae'],['EULIPOTYPHLA'],1
+297,PREDICT_HV-48,Herpesviridae,new,['Soricidae'],['EULIPOTYPHLA'],1
+298,PREDICT_HV-49,Herpesviridae,new,"['Soricidae' 'Rattus rattus' 'Mastomys natalensis' 'Crocidura olivieri'
+ 'Crocidura sp.' 'Mus musculoides' 'Praomys tullbergi' 'Crocidura goliath']",['EULIPOTYPHLA' 'RODENTIA'],8
+299,PREDICT_HV-5,Herpesviridae,new,['Pteropus giganteus' 'Desmodus sp.'],['CHIROPTERA'],2
+300,PREDICT_HV-50,Herpesviridae,new,['Praomys sp.'],['RODENTIA'],1
+301,PREDICT_HV-51,Herpesviridae,new,['Tupaia glis'],['SCANDENTIA'],1
+302,PREDICT_HV-52,Herpesviridae,new,['Nasalis larvatus' 'Macaca nemestrina'],['PRIMATES'],2
+303,PREDICT_HV-53,Herpesviridae,new,['Nasalis larvatus'],['PRIMATES'],1
+304,PREDICT_HV-54,Herpesviridae,new,['Macaca nemestrina'],['PRIMATES'],1
+305,PREDICT_HV-56,Herpesviridae,new,['Hipposideros galeritus'],['CHIROPTERA'],1
+306,PREDICT_HV-57,Herpesviridae,new,['Hipposideros galeritus'],['CHIROPTERA'],1
+307,PREDICT_HV-58,Herpesviridae,new,['Pycnonotus plumosus'],['PASSERIFORMES'],1
+308,PREDICT_HV-59,Herpesviridae,new,['Myotis albescens'],['CHIROPTERA'],1
+309,PREDICT_HV-6,Herpesviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+310,PREDICT_HV-60,Herpesviridae,new,['Molossus molossus'],['CHIROPTERA'],1
+311,PREDICT_HV-61,Herpesviridae,new,['Carollia perspicillata'],['CHIROPTERA'],1
+312,PREDICT_HV-62,Herpesviridae,new,['Vampyrum spectrum'],['CHIROPTERA'],1
+313,PREDICT_HV-63,Herpesviridae,new,['Rhinophylla pumilio'],['CHIROPTERA'],1
+314,PREDICT_HV-64,Herpesviridae,new,['Dephomys defua'],['RODENTIA'],1
+315,PREDICT_HV-68,Herpesviridae,new,['Rhinolophus creaghi'],['CHIROPTERA'],1
+316,PREDICT_HV-69,Herpesviridae,new,['Sundamys infraluteus' 'Sundamys muelleri'],['RODENTIA'],2
+317,PREDICT_HV-7,Herpesviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+318,PREDICT_HV-70,Herpesviridae,new,['Phyllostomidae'],['CHIROPTERA'],1
+319,PREDICT_HV-71,Herpesviridae,new,['Megaderma spasma'],['CHIROPTERA'],1
+320,PREDICT_HV-72,Herpesviridae,new,['Cebus apella'],['PRIMATES'],1
+321,PREDICT_HV-73,Herpesviridae,new,['Uroderma bilobatum'],['CHIROPTERA'],1
+322,PREDICT_HV-74,Herpesviridae,new,['Artibeus obscurus'],['CHIROPTERA'],1
+323,PREDICT_HV-75,Herpesviridae,new,['Artibeus sp.'],['CHIROPTERA'],1
+324,PREDICT_HV-76,Herpesviridae,new,['Cricetomys sp.' 'Funisciurus sp.'],['RODENTIA'],2
+325,PREDICT_HV-77,Herpesviridae,new,['Artibeus obscurus'],['CHIROPTERA'],1
+326,PREDICT_HV-8,Herpesviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+327,PREDICT_HV-82,Herpesviridae,new,['Tupaia glis'],['SCANDENTIA'],1
+328,PREDICT_HV-83,Herpesviridae,new,['Tupaia tana' 'Tupaia glis'],['SCANDENTIA'],2
+329,PREDICT_HV-84,Herpesviridae,new,['Hipposideros galeritus'],['CHIROPTERA'],1
+330,PREDICT_HV-85,Herpesviridae,new,['Cercopithecus ascanius' 'Lophocebus albigena'],['PRIMATES'],2
+331,PREDICT_HV-88,Herpesviridae,new,['Lophocebus aterrimus'],['PRIMATES'],1
+332,PREDICT_HV-89,Herpesviridae,new,['Cercopithecus ascanius'],['PRIMATES'],1
+333,PREDICT_HV-9,Herpesviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+334,PREDICT_HV-91,Herpesviridae,new,['Lophocebus aterrimus'],['PRIMATES'],1
+335,PREDICT_HV-93,Herpesviridae,new,['Rhinolophus paradoxolophus'],['CHIROPTERA'],1
+336,PREDICT_HV-94,Herpesviridae,new,['Cynopterus brachyotis'],['CHIROPTERA'],1
+337,PREDICT_HV-95,Herpesviridae,new,['Tupaia glis'],['SCANDENTIA'],1
+338,PREDICT_HV-96,Herpesviridae,new,['Tupaia tana' 'Tupaia glis' 'Callosciurus notatus'],['SCANDENTIA' 'RODENTIA'],3
+339,PREDICT_HV-97,Herpesviridae,new,['Tupaia glis'],['SCANDENTIA'],1
+340,PREDICT_HV-98,Herpesviridae,new,['Hipposideros galeritus'],['CHIROPTERA'],1
+341,PREDICT_HV-99,Herpesviridae,new,['Praomys tullbergi' 'Malacomys longipes' 'Mus musculoides'],['RODENTIA'],3
+345,PREDICT_Lenti-1,Retroviridae,new,['Cercopithecus kandti'],[nan],1
+346,PREDICT_Lenti-2,Retroviridae,new,['Cercopithecus kandti'],[nan],1
+347,PREDICT_Lenti-3,Retroviridae,new,['Cercopithecus mitis'],['PRIMATES'],1
+348,PREDICT_Lenti-4,Retroviridae,new,['Cercopithecus kandti'],[nan],1
+349,PREDICT_MAstV-1,Astroviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+350,PREDICT_MAstV-10,Astroviridae,new,['Akodon cursor'],['RODENTIA'],1
+351,PREDICT_MAstV-100,Astroviridae,new,['Eothenomys cachinus'],['RODENTIA'],1
+352,PREDICT_MAstV-101,Astroviridae,new,['Niviventer eha'],['RODENTIA'],1
+353,PREDICT_MAstV-102,Astroviridae,new,['Eothenomys cachinus'],['RODENTIA'],1
+354,PREDICT_MAstV-103,Astroviridae,new,['Eothenomys cachinus'],['RODENTIA'],1
+355,PREDICT_MAstV-104,Astroviridae,new,['Ochotona thibetana'],['LAGOMORPHA'],1
+356,PREDICT_MAstV-105,Astroviridae,new,['Crocidura sp.' 'Sorex sp.'],['EULIPOTYPHLA'],2
+357,PREDICT_MAstV-106,Astroviridae,new,['Crocidura attenuata'],['EULIPOTYPHLA'],1
+358,PREDICT_MAstV-107,Astroviridae,new,['Rhizomys sinensis'],['RODENTIA'],1
+359,PREDICT_MAstV-108,Astroviridae,new,['Rhinolophus pusillus'],['CHIROPTERA'],1
+360,PREDICT_MAstV-109,Astroviridae,new,['Myotis ricketti'],['CHIROPTERA'],1
+361,PREDICT_MAstV-11,Astroviridae,new,['Tylonycteris pachypus'],['CHIROPTERA'],1
+362,PREDICT_MAstV-110,Astroviridae,new,"['Praomys tullbergi' 'Mus musculoides' 'Crocidura goliath'
+ 'Hylomyscus sp.' 'Heimyscus fumosus' 'Malacomys longipes'
+ 'Hylomyscus stella']",['RODENTIA' 'EULIPOTYPHLA'],7
+363,PREDICT_MAstV-111,Astroviridae,new,['Macaca mulatta'],['PRIMATES'],1
+364,PREDICT_MAstV-112,Astroviridae,new,['Macaca mulatta'],['PRIMATES'],1
+365,PREDICT_MAstV-113,Astroviridae,new,['Macaca mulatta'],['PRIMATES'],1
+366,PREDICT_MAstV-114,Astroviridae,new,['Leopoldamys sabanus'],['RODENTIA'],1
+367,PREDICT_MAstV-115,Astroviridae,new,['Mastomys natalensis'],['RODENTIA'],1
+368,PREDICT_MAstV-116,Astroviridae,new,['Apodemus sylvaticus'],['RODENTIA'],1
+369,PREDICT_MAstV-117,Astroviridae,new,['Macaca mulatta'],['PRIMATES'],1
+370,PREDICT_MAstV-118,Astroviridae,new,['Macaca mulatta'],['PRIMATES'],1
+371,PREDICT_MAstV-119,Astroviridae,new,['Rousettus amplexicaudatus'],['CHIROPTERA'],1
+372,PREDICT_MAstV-12,Astroviridae,new,['Macaca fascicularis'],['PRIMATES'],1
+373,PREDICT_MAstV-120,Astroviridae,new,['Rousettus amplexicaudatus'],['CHIROPTERA'],1
+374,PREDICT_MAstV-121,Astroviridae,new,['Mus musculoides' 'Praomys tullbergi' 'Crocidura goliath'],['RODENTIA' 'EULIPOTYPHLA'],3
+375,PREDICT_MAstV-122,Astroviridae,new,['Macaca mulatta'],['PRIMATES'],1
+376,PREDICT_MAstV-123,Astroviridae,new,['Macaca mulatta'],['PRIMATES'],1
+377,PREDICT_MAstV-124,Astroviridae,new,['Macaca mulatta'],['PRIMATES'],1
+378,PREDICT_MAstV-125,Astroviridae,new,['Macaca mulatta'],['PRIMATES'],1
+379,PREDICT_MAstV-126,Astroviridae,new,['Macaca mulatta'],['PRIMATES'],1
+380,PREDICT_MAstV-127,Astroviridae,new,['Macaca mulatta'],['PRIMATES'],1
+381,PREDICT_MAstV-128,Astroviridae,new,['Macaca mulatta'],['PRIMATES'],1
+382,PREDICT_MAstV-129,Astroviridae,new,['Apodemus sylvaticus'],['RODENTIA'],1
+383,PREDICT_MAstV-13,Astroviridae,new,"['Rousettus sp.' 'Eonycteris spelaea' 'Rousettus leschenaultii'
+ 'Rousettus amplexicaudatus' 'Rhinolophus sp.']",['CHIROPTERA'],5
+384,PREDICT_MAstV-130,Astroviridae,new,['Eidolon helvum'],['CHIROPTERA'],1
+385,PREDICT_MAstV-131,Astroviridae,new,['Eidolon helvum'],['CHIROPTERA'],1
+386,PREDICT_MAstV-132,Astroviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+387,PREDICT_MAstV-133,Astroviridae,new,['Eidolon helvum'],['CHIROPTERA'],1
+388,PREDICT_MAstV-134,Astroviridae,new,['Eidolon helvum'],['CHIROPTERA'],1
+389,PREDICT_MAstV-135,Astroviridae,new,['Paguma larvata' 'Hylopetes sp.'],['CARNIVORA' 'RODENTIA'],2
+390,PREDICT_MAstV-136,Astroviridae,new,['Pteropus alecto' 'Acerodon celebensis'],['CHIROPTERA'],2
+391,PREDICT_MAstV-137,Astroviridae,new,['Macaca mulatta'],['PRIMATES'],1
+392,PREDICT_MAstV-138,Astroviridae,new,['Macaca leonina'],['PRIMATES'],1
+393,PREDICT_MAstV-139,Astroviridae,new,['Coleura afra'],['CHIROPTERA'],1
+394,PREDICT_MAstV-14,Astroviridae,new,['Rhinolophus affinis' 'Hipposideros larvatus'],['CHIROPTERA'],2
+395,PREDICT_MAstV-140,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+396,PREDICT_MAstV-141,Astroviridae,new,['Hipposideros larvatus' 'Miniopterus magnater'],['CHIROPTERA'],2
+397,PREDICT_MAstV-142,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+398,PREDICT_MAstV-143,Astroviridae,new,['Miniopterus magnater' 'Rhinolophus coelophyllus'],['CHIROPTERA'],2
+399,PREDICT_MAstV-144,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+400,PREDICT_MAstV-145,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+401,PREDICT_MAstV-146,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+402,PREDICT_MAstV-147,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+403,PREDICT_MAstV-148,Astroviridae,new,['Rhinolophus coelophyllus'],['CHIROPTERA'],1
+404,PREDICT_MAstV-149,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+405,PREDICT_MAstV-15,Astroviridae,new,['Rhinolophus shameli' 'Rhinolophus sp.'],['CHIROPTERA'],2
+406,PREDICT_MAstV-150,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+407,PREDICT_MAstV-151,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+408,PREDICT_MAstV-152,Astroviridae,new,['Miniopterus magnater' 'Rhinolophus coelophyllus'],['CHIROPTERA'],2
+409,PREDICT_MAstV-153,Astroviridae,new,['Hipposideros larvatus'],['CHIROPTERA'],1
+410,PREDICT_MAstV-154,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+411,PREDICT_MAstV-155,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+412,PREDICT_MAstV-156,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+413,PREDICT_MAstV-157,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+414,PREDICT_MAstV-158,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+415,PREDICT_MAstV-159,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+416,PREDICT_MAstV-16,Astroviridae,new,['Rousettus sp.' 'Rousettus leschenaultii'],['CHIROPTERA'],2
+417,PREDICT_MAstV-160,Astroviridae,new,['Chiroptera'],['CHIROPTERA'],1
+418,PREDICT_MAstV-161,Astroviridae,new,['Miniopterus minor'],['CHIROPTERA'],1
+419,PREDICT_MAstV-162,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+420,PREDICT_MAstV-163,Astroviridae,new,['Rhinolophus coelophyllus' 'Miniopterus magnater'],['CHIROPTERA'],2
+421,PREDICT_MAstV-164,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+422,PREDICT_MAstV-165,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+423,PREDICT_MAstV-166,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+424,PREDICT_MAstV-167,Astroviridae,new,['Scotophilus kuhlii'],['CHIROPTERA'],1
+425,PREDICT_MAstV-168,Astroviridae,new,['Hipposideros larvatus' 'Miniopterus magnater'],['CHIROPTERA'],2
+426,PREDICT_MAstV-169,Astroviridae,new,['Rhinolophus coelophyllus'],['CHIROPTERA'],1
+427,PREDICT_MAstV-17,Astroviridae,new,['Rousettus leschenaultii'],['CHIROPTERA'],1
+428,PREDICT_MAstV-170,Astroviridae,new,['Hipposideros larvatus'],['CHIROPTERA'],1
+429,PREDICT_MAstV-171,Astroviridae,new,['Hipposideros larvatus'],['CHIROPTERA'],1
+430,PREDICT_MAstV-172,Astroviridae,new,['Hipposideros larvatus' 'Miniopterus magnater'],['CHIROPTERA'],2
+431,PREDICT_MAstV-173,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+432,PREDICT_MAstV-174,Astroviridae,new,['Balionycteris maculata'],['CHIROPTERA'],1
+433,PREDICT_MAstV-175,Astroviridae,new,['Rousettus amplexicaudatus'],['CHIROPTERA'],1
+434,PREDICT_MAstV-176,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+435,PREDICT_MAstV-177,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+436,PREDICT_MAstV-178,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+437,PREDICT_MAstV-179,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+438,PREDICT_MAstV-18,Astroviridae,new,['Rattus sp.'],['RODENTIA'],1
+439,PREDICT_MAstV-180,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+440,PREDICT_MAstV-181,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+441,PREDICT_MAstV-182,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+442,PREDICT_MAstV-183,Astroviridae,new,['Rattus norvegicus' 'Rattus exulans'],['RODENTIA'],2
+443,PREDICT_MAstV-184,Astroviridae,new,['Rousettus sp.'],['CHIROPTERA'],1
+444,PREDICT_MAstV-185,Astroviridae,new,['Rousettus sp.'],['CHIROPTERA'],1
+445,PREDICT_MAstV-186,Astroviridae,new,['Rousettus sp.'],['CHIROPTERA'],1
+446,PREDICT_MAstV-187,Astroviridae,new,['Eidolon helvum'],['CHIROPTERA'],1
+447,PREDICT_MAstV-188,Astroviridae,new,['Eidolon helvum'],['CHIROPTERA'],1
+448,PREDICT_MAstV-189,Astroviridae,new,['Rousettus sp.'],['CHIROPTERA'],1
+449,PREDICT_MAstV-19,Astroviridae,new,['Rattus losea'],['RODENTIA'],1
+450,PREDICT_MAstV-190,Astroviridae,new,['Rousettus sp.'],['CHIROPTERA'],1
+451,PREDICT_MAstV-191,Astroviridae,new,['Mops condylurus'],['CHIROPTERA'],1
+452,PREDICT_MAstV-192,Astroviridae,new,['Hipposideros commersoni'],['CHIROPTERA'],1
+453,PREDICT_MAstV-193,Astroviridae,new,['Lissonycteris angolensis'],['CHIROPTERA'],1
+454,PREDICT_MAstV-194,Astroviridae,new,['Hipposideros commersoni'],['CHIROPTERA'],1
+455,PREDICT_MAstV-195,Astroviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+456,PREDICT_MAstV-196,Astroviridae,new,['Nycteris hispida'],['CHIROPTERA'],1
+457,PREDICT_MAstV-197,Astroviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+458,PREDICT_MAstV-198,Astroviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+459,PREDICT_MAstV-199,Astroviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+460,PREDICT_MAstV-2,Astroviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+461,PREDICT_MAstV-20,Astroviridae,new,['Hipposideros armiger' 'Scotophilus sp.'],['CHIROPTERA'],2
+462,PREDICT_MAstV-200,Astroviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+463,PREDICT_MAstV-201,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+464,PREDICT_MAstV-202,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+465,PREDICT_MAstV-203,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+466,PREDICT_MAstV-204,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+467,PREDICT_MAstV-205,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+468,PREDICT_MAstV-206,Astroviridae,new,['Bandicota bengalensis'],['RODENTIA'],1
+469,PREDICT_MAstV-21,Astroviridae,new,['Macaca fascicularis'],['PRIMATES'],1
+470,PREDICT_MAstV-22,Astroviridae,new,['Rhinolophus shameli'],['CHIROPTERA'],1
+471,PREDICT_MAstV-23,Astroviridae,new,['Taphozous melanopogon'],['CHIROPTERA'],1
+472,PREDICT_MAstV-24,Astroviridae,new,['Scotophilus sp.' 'Scotophilus kuhlii'],['CHIROPTERA'],2
+473,PREDICT_MAstV-25,Astroviridae,new,['Megaderma lyra'],['CHIROPTERA'],1
+474,PREDICT_MAstV-26,Astroviridae,new,['Hipposideros pomona'],['CHIROPTERA'],1
+475,PREDICT_MAstV-27,Astroviridae,new,['Hipposideros lekaguli' 'Myotis horsfieldii'],['CHIROPTERA'],2
+476,PREDICT_MAstV-28,Astroviridae,new,['Myotis horsfieldii'],['CHIROPTERA'],1
+477,PREDICT_MAstV-29,Astroviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+478,PREDICT_MAstV-3,Astroviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+479,PREDICT_MAstV-30,Astroviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+480,PREDICT_MAstV-31,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+481,PREDICT_MAstV-32,Astroviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+482,PREDICT_MAstV-33,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+483,PREDICT_MAstV-34,Astroviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+484,PREDICT_MAstV-35,Astroviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+485,PREDICT_MAstV-36,Astroviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+486,PREDICT_MAstV-37,Astroviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+487,PREDICT_MAstV-38,Astroviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+488,PREDICT_MAstV-39,Astroviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+489,PREDICT_MAstV-4,Astroviridae,new,['Pteropus giganteus' 'Pteropus alecto'],['CHIROPTERA'],2
+490,PREDICT_MAstV-40,Astroviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+491,PREDICT_MAstV-41,Astroviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+492,PREDICT_MAstV-42,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+493,PREDICT_MAstV-43,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+494,PREDICT_MAstV-44,Astroviridae,new,['Hypsugo crassulus'],[nan],1
+495,PREDICT_MAstV-45,Astroviridae,new,['Hipposideros ruber' 'Hipposideros sp.'],['CHIROPTERA'],2
+496,PREDICT_MAstV-46,Astroviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+497,PREDICT_MAstV-47,Astroviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+498,PREDICT_MAstV-48,Astroviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+499,PREDICT_MAstV-49,Astroviridae,new,['Hipposideros sp.'],['CHIROPTERA'],1
+500,PREDICT_MAstV-5,Astroviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+501,PREDICT_MAstV-50,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+502,PREDICT_MAstV-51,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+503,PREDICT_MAstV-52,Astroviridae,new,['Coleura afra' 'Triaenops persicus'],['CHIROPTERA'],2
+504,PREDICT_MAstV-53,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+505,PREDICT_MAstV-54,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+506,PREDICT_MAstV-55,Astroviridae,new,['Hystrix brachyura'],['RODENTIA'],1
+507,PREDICT_MAstV-56,Astroviridae,new,['Macaca fascicularis'],['PRIMATES'],1
+508,PREDICT_MAstV-57,Astroviridae,new,['Macaca mulatta' 'Macaca fascicularis'],['PRIMATES'],2
+509,PREDICT_MAstV-58,Astroviridae,new,['Hipposideros armiger' 'Hipposideros larvatus' 'Rhizomys pruinosus'],['CHIROPTERA' 'RODENTIA'],3
+510,PREDICT_MAstV-59,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+511,PREDICT_MAstV-6,Astroviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+512,PREDICT_MAstV-60,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+513,PREDICT_MAstV-61,Astroviridae,new,['Taphozous melanopogon' 'Hipposideros armiger'],['CHIROPTERA'],2
+514,PREDICT_MAstV-62,Astroviridae,new,['Taphozous melanopogon'],['CHIROPTERA'],1
+515,PREDICT_MAstV-63,Astroviridae,new,['Taphozous melanopogon'],['CHIROPTERA'],1
+516,PREDICT_MAstV-64,Astroviridae,new,['Taphozous melanopogon'],['CHIROPTERA'],1
+517,PREDICT_MAstV-65,Astroviridae,new,['Hipposideros lekaguli' 'Hipposideros larvatus' 'Rhizomys sinensis'],['CHIROPTERA' 'RODENTIA'],3
+518,PREDICT_MAstV-66,Astroviridae,new,['Hipposideros lekaguli'],['CHIROPTERA'],1
+519,PREDICT_MAstV-67,Astroviridae,new,['Hipposideros larvatus' 'Hipposideros armiger' 'Hipposideros lekaguli'],['CHIROPTERA'],3
+520,PREDICT_MAstV-68,Astroviridae,new,['Hipposideros lekaguli'],['CHIROPTERA'],1
+521,PREDICT_MAstV-69,Astroviridae,new,['Hipposideros lekaguli'],['CHIROPTERA'],1
+522,PREDICT_MAstV-7,Astroviridae,new,['Artibeus lituratus'],['CHIROPTERA'],1
+523,PREDICT_MAstV-70,Astroviridae,new,['Hipposideros lekaguli'],['CHIROPTERA'],1
+524,PREDICT_MAstV-71,Astroviridae,new,['Taphozous melanopogon' 'Miniopterus magnater'],['CHIROPTERA'],2
+525,PREDICT_MAstV-72,Astroviridae,new,['Hipposideros lekaguli'],['CHIROPTERA'],1
+526,PREDICT_MAstV-73,Astroviridae,new,['Rhinolophus shameli'],['CHIROPTERA'],1
+527,PREDICT_MAstV-74,Astroviridae,new,['Rhinolophus shameli'],['CHIROPTERA'],1
+528,PREDICT_MAstV-75,Astroviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+529,PREDICT_MAstV-76,Astroviridae,new,['Myotis horsfieldii'],['CHIROPTERA'],1
+530,PREDICT_MAstV-77,Astroviridae,new,['Taphozous melanopogon'],['CHIROPTERA'],1
+531,PREDICT_MAstV-78,Astroviridae,new,['Taphozous melanopogon'],['CHIROPTERA'],1
+532,PREDICT_MAstV-79,Astroviridae,new,['Miniopterus pusillus'],['CHIROPTERA'],1
+533,PREDICT_MAstV-8,Astroviridae,new,['Sturnira lilium'],['CHIROPTERA'],1
+534,PREDICT_MAstV-80,Astroviridae,new,['Rhinolophus shameli'],['CHIROPTERA'],1
+535,PREDICT_MAstV-81,Astroviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+536,PREDICT_MAstV-82,Astroviridae,new,['Rhinosciurus laticaudatus'],['RODENTIA'],1
+537,PREDICT_MAstV-83,Astroviridae,new,['Macaca nemestrina'],['PRIMATES'],1
+538,PREDICT_MAstV-84,Astroviridae,new,['Mastomys sp.'],['RODENTIA'],1
+539,PREDICT_MAstV-85,Astroviridae,new,['Mastomys sp.'],['RODENTIA'],1
+540,PREDICT_MAstV-86,Astroviridae,new,['Mastomys sp.'],['RODENTIA'],1
+541,PREDICT_MAstV-87,Astroviridae,new,['Praomys sp.'],['RODENTIA'],1
+542,PREDICT_MAstV-88,Astroviridae,new,['Chaerephon pumilus'],['CHIROPTERA'],1
+543,PREDICT_MAstV-89,Astroviridae,new,['Chaerephon pumilus'],['CHIROPTERA'],1
+544,PREDICT_MAstV-9,Astroviridae,new,['Carollia perspicillata' 'Anoura caudifer'],['CHIROPTERA'],2
+545,PREDICT_MAstV-90,Astroviridae,new,['Miniopterus magnater' 'Miniopterus schreibersii'],['CHIROPTERA'],2
+546,PREDICT_MAstV-91,Astroviridae,new,['Miniopterus magnater' 'Miniopterus schreibersii'],['CHIROPTERA'],2
+547,PREDICT_MAstV-92,Astroviridae,new,['Miniopterus schreibersii'],['CHIROPTERA'],1
+548,PREDICT_MAstV-93,Astroviridae,new,['Miniopterus schreibersii'],['CHIROPTERA'],1
+549,PREDICT_MAstV-94,Astroviridae,new,['Rhinolophus affinis'],['CHIROPTERA'],1
+550,PREDICT_MAstV-95,Astroviridae,new,['Eothenomys cachinus'],['RODENTIA'],1
+551,PREDICT_MAstV-96,Astroviridae,new,['Eothenomys cachinus'],['RODENTIA'],1
+552,PREDICT_MAstV-97,Astroviridae,new,['Eothenomys cachinus'],['RODENTIA'],1
+553,PREDICT_MAstV-98,Astroviridae,new,['Eothenomys cachinus'],['RODENTIA'],1
+554,PREDICT_MAstV-99,Astroviridae,new,['Eothenomys cachinus'],['RODENTIA'],1
+555,PREDICT_MNV-1,Caliciviridae,new,['Macaca mulatta'],['PRIMATES'],1
+556,PREDICT_Orbi-1,Reoviridae,new,['Neoromicia nana'],['CHIROPTERA'],1
+557,PREDICT_Orbi-2,Reoviridae,new,['Cephalophus callipygus' 'Philantomba monticola'],['CETARTIODACTYLA'],2
+558,PREDICT_Orbi-3,Reoviridae,new,['Potamochoerus porcus'],['CETARTIODACTYLA'],1
+559,PREDICT_Orbi-4,Reoviridae,new,['Phataginus tricuspis'],['PHOLIDOTA'],1
+560,PREDICT_Orbi-5,Reoviridae,new,['Philantomba monticola'],['CETARTIODACTYLA'],1
+561,PREDICT_Orbi-6,Reoviridae,new,['Macaca mulatta'],['PRIMATES'],1
+562,PREDICT_PMV-1,Paramyxoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+563,PREDICT_PMV-10,Paramyxoviridae,new,['Pteropus giganteus' 'Pteropus alecto' 'Pteropus lylei'],['CHIROPTERA'],3
+564,PREDICT_PMV-100,Paramyxoviridae,new,['Pteropus alecto'],['CHIROPTERA'],1
+565,PREDICT_PMV-101,Paramyxoviridae,new,['Crocidura sp.'],['EULIPOTYPHLA'],1
+566,PREDICT_PMV-102,Paramyxoviridae,new,['Pteropus alecto'],['CHIROPTERA'],1
+567,PREDICT_PMV-103,Paramyxoviridae,new,['Rhinolophus lepidus'],['CHIROPTERA'],1
+568,PREDICT_PMV-104,Paramyxoviridae,new,['Megaderma lyra'],['CHIROPTERA'],1
+569,PREDICT_PMV-105,Paramyxoviridae,new,['Rhinolophus cf. creaghi'],['CHIROPTERA'],1
+570,PREDICT_PMV-106,Paramyxoviridae,new,['Rhinolophus creaghi' 'Rhinolophus cf. creaghi'],['CHIROPTERA'],2
+571,PREDICT_PMV-107,Paramyxoviridae,new,['Rhinolophus creaghi' 'Rhinolophus cf. arcuatus'],['CHIROPTERA'],2
+572,PREDICT_PMV-108,Paramyxoviridae,new,['Hipposideros diadema'],['CHIROPTERA'],1
+573,PREDICT_PMV-109,Paramyxoviridae,new,['Saccolaimus saccolaimus'],['CHIROPTERA'],1
+574,PREDICT_PMV-11,Paramyxoviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+575,PREDICT_PMV-110,Paramyxoviridae,new,['Hipposideros cervinus'],['CHIROPTERA'],1
+576,PREDICT_PMV-111,Paramyxoviridae,new,['Acerodon celebensis'],['CHIROPTERA'],1
+577,PREDICT_PMV-112,Paramyxoviridae,new,['Rousettus amplexicaudatus'],['CHIROPTERA'],1
+578,PREDICT_PMV-113,Paramyxoviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+579,PREDICT_PMV-114,Paramyxoviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+580,PREDICT_PMV-115,Paramyxoviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+581,PREDICT_PMV-116,Paramyxoviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+582,PREDICT_PMV-117,Paramyxoviridae,new,['Rhinolophus lepidus'],['CHIROPTERA'],1
+583,PREDICT_PMV-118,Paramyxoviridae,new,['Pipistrellus kuhlii' 'Rousettus aegyptiacus'],['CHIROPTERA'],2
+584,PREDICT_PMV-12,Paramyxoviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+585,PREDICT_PMV-120,Paramyxoviridae,new,['Echinosorex gymnura'],['EULIPOTYPHLA'],1
+586,PREDICT_PMV-121,Paramyxoviridae,new,['Pteropus cf. alecto'],['CHIROPTERA'],1
+587,PREDICT_PMV-122,Paramyxoviridae,new,['Thoopterus nigrescens'],['CHIROPTERA'],1
+588,PREDICT_PMV-123,Paramyxoviridae,new,['Eonycteris spelaea'],['CHIROPTERA'],1
+589,PREDICT_PMV-124,Paramyxoviridae,new,['Pteropus cf. alecto' 'Pteropus alecto'],['CHIROPTERA'],2
+590,PREDICT_PMV-125,Paramyxoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+591,PREDICT_PMV-126,Paramyxoviridae,new,['Pteropus cf. alecto'],['CHIROPTERA'],1
+592,PREDICT_PMV-127,Paramyxoviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+593,PREDICT_PMV-128,Paramyxoviridae,new,['Pteropus lylei'],['CHIROPTERA'],1
+594,PREDICT_PMV-129,Paramyxoviridae,new,['Rhinolophus sinicus'],['CHIROPTERA'],1
+595,PREDICT_PMV-13,Paramyxoviridae,new,"['Myotis horsfieldii' 'Scotophilus sp.' 'Chiroptera'
+ 'Scotophilus cf. kuhlii' 'Scotophilus kuhlii' 'Myotis muricola']",['CHIROPTERA' nan],6
+596,PREDICT_PMV-130,Paramyxoviridae,new,['Myotis fimbriatus'],['CHIROPTERA'],1
+597,PREDICT_PMV-131,Paramyxoviridae,new,['Praomys jacksoni'],['RODENTIA'],1
+598,PREDICT_PMV-132,Paramyxoviridae,new,['Rattus tanezumi'],['RODENTIA'],1
+599,PREDICT_PMV-133,Paramyxoviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+600,PREDICT_PMV-134,Paramyxoviridae,new,['Rhinolophus sinicus'],['CHIROPTERA'],1
+601,PREDICT_PMV-135,Paramyxoviridae,new,['Aselliscus stoliczkanus'],['CHIROPTERA'],1
+602,PREDICT_PMV-136,Paramyxoviridae,new,['Taphozous sp.'],['CHIROPTERA'],1
+603,PREDICT_PMV-137,Paramyxoviridae,new,['Rhinolophus trifoliatus'],['CHIROPTERA'],1
+604,PREDICT_PMV-138,Paramyxoviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+605,PREDICT_PMV-139,Paramyxoviridae,new,['Hipposideros curtus'],['CHIROPTERA'],1
+606,PREDICT_PMV-14,Paramyxoviridae,new,['Hipposideros lekaguli'],['CHIROPTERA'],1
+607,PREDICT_PMV-140,Paramyxoviridae,new,['Pteropus lylei'],['CHIROPTERA'],1
+608,PREDICT_PMV-141,Paramyxoviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+609,PREDICT_PMV-142,Paramyxoviridae,new,['Pteropus lylei'],['CHIROPTERA'],1
+610,PREDICT_PMV-143,Paramyxoviridae,new,['Arvicanthis niloticus'],['RODENTIA'],1
+611,PREDICT_PMV-144,Paramyxoviridae,new,['Crocidura olivieri'],['EULIPOTYPHLA'],1
+612,PREDICT_PMV-145,Paramyxoviridae,new,['Suncus murinus'],['EULIPOTYPHLA'],1
+613,PREDICT_PMV-146,Paramyxoviridae,new,['Crocidura montis'],['EULIPOTYPHLA'],1
+614,PREDICT_PMV-147,Paramyxoviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+615,PREDICT_PMV-148,Paramyxoviridae,new,['Praomys misonnei' 'Crocidura goliath' 'Lophuromys nudicaudus'],['RODENTIA' 'EULIPOTYPHLA'],3
+616,PREDICT_PMV-149,Paramyxoviridae,new,['Mus musculus'],['RODENTIA'],1
+617,PREDICT_PMV-15,Paramyxoviridae,new,['Mops condylurus' 'Chaerephon pumilus' 'Micropteropus pusillus'],['CHIROPTERA'],3
+618,PREDICT_PMV-150,Paramyxoviridae,new,['Mastomys natalensis'],['RODENTIA'],1
+619,PREDICT_PMV-151,Paramyxoviridae,new,['Callosciurus cf. finlaysonii'],['RODENTIA'],1
+620,PREDICT_PMV-152,Paramyxoviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+621,PREDICT_PMV-153,Paramyxoviridae,new,['Hylopetes cf. phayrei'],['RODENTIA'],1
+622,PREDICT_PMV-154,Paramyxoviridae,new,['Rattus hoffmanni'],['RODENTIA'],1
+623,PREDICT_PMV-155,Paramyxoviridae,new,['Chaerephon plicatus'],['CHIROPTERA'],1
+624,PREDICT_PMV-156,Paramyxoviridae,new,['Crocidura goliath'],['EULIPOTYPHLA'],1
+625,PREDICT_PMV-157,Paramyxoviridae,new,['Miniopterus schreibersii'],['CHIROPTERA'],1
+626,PREDICT_PMV-158,Paramyxoviridae,new,['Miniopterus schreibersii'],['CHIROPTERA'],1
+627,PREDICT_PMV-159,Paramyxoviridae,new,['Mus cervicolor'],['RODENTIA'],1
+628,PREDICT_PMV-16,Paramyxoviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+629,PREDICT_PMV-160,Paramyxoviridae,new,['Lophuromys nudicaudus'],['RODENTIA'],1
+630,PREDICT_PMV-161,Paramyxoviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+631,PREDICT_PMV-162,Paramyxoviridae,new,['Miniopterus schreibersii'],['CHIROPTERA'],1
+632,PREDICT_PMV-163,Paramyxoviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+633,PREDICT_PMV-164,Paramyxoviridae,new,['Aselliscus stoliczkanus'],['CHIROPTERA'],1
+634,PREDICT_PMV-165,Paramyxoviridae,new,['Myotis laniger'],['CHIROPTERA'],1
+635,PREDICT_PMV-166,Paramyxoviridae,new,['Myotis laniger'],['CHIROPTERA'],1
+636,PREDICT_PMV-167,Paramyxoviridae,new,['Rattus rattus'],['RODENTIA'],1
+637,PREDICT_PMV-168,Paramyxoviridae,new,['Crocidura olivieri'],['EULIPOTYPHLA'],1
+638,PREDICT_PMV-169,Paramyxoviridae,new,['Soricidae'],['EULIPOTYPHLA'],1
+639,PREDICT_PMV-17,Paramyxoviridae,new,['Hipposideros lekaguli'],['CHIROPTERA'],1
+640,PREDICT_PMV-170,Paramyxoviridae,new,['Crocidura olivieri'],['EULIPOTYPHLA'],1
+641,PREDICT_PMV-171,Paramyxoviridae,new,['Praomys derooi'],['RODENTIA'],1
+642,PREDICT_PMV-172,Paramyxoviridae,new,['Rattus rattus'],['RODENTIA'],1
+643,PREDICT_PMV-173,Paramyxoviridae,new,['Mus musculus'],['RODENTIA'],1
+644,PREDICT_PMV-174,Paramyxoviridae,new,['Pipistrellus inexspectatus'],['CHIROPTERA'],1
+645,PREDICT_PMV-175,Paramyxoviridae,new,['Mops midas'],['CHIROPTERA'],1
+646,PREDICT_PMV-176,Paramyxoviridae,new,['Rhinopoma hardwickii'],['CHIROPTERA'],1
+647,PREDICT_PMV-177,Paramyxoviridae,new,['Suncus murinus'],['EULIPOTYPHLA'],1
+648,PREDICT_PMV-178,Paramyxoviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+649,PREDICT_PMV-179,Paramyxoviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+650,PREDICT_PMV-18,Paramyxoviridae,new,['Coleura afra'],['CHIROPTERA'],1
+651,PREDICT_PMV-180,Paramyxoviridae,new,['Lissonycteris angolensis'],['CHIROPTERA'],1
+652,PREDICT_PMV-181,Paramyxoviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+653,PREDICT_PMV-182,Paramyxoviridae,new,['Miniopterus sp.'],['CHIROPTERA'],1
+654,PREDICT_PMV-183,Paramyxoviridae,new,['Hipposideros jonesi'],['CHIROPTERA'],1
+655,PREDICT_PMV-184,Paramyxoviridae,new,['Miniopterus sp.'],['CHIROPTERA'],1
+656,PREDICT_PMV-185,Paramyxoviridae,new,['Glauconycteris variegata'],['CHIROPTERA'],1
+657,PREDICT_PMV-19,Paramyxoviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+658,PREDICT_PMV-2,Paramyxoviridae,new,['Pteropus giganteus' 'Pteropus lylei'],['CHIROPTERA'],2
+659,PREDICT_PMV-20,Paramyxoviridae,new,"['Rattus norvegicus' 'Rattus exulans' 'Rattus rattus' 'Rattus sp.'
+ 'Mus musculus' 'Suncus murinus']",['RODENTIA' 'EULIPOTYPHLA'],6
+660,PREDICT_PMV-21,Paramyxoviridae,new,['Akodon sp.'],['RODENTIA'],1
+661,PREDICT_PMV-22,Paramyxoviridae,new,['Taphozous longimanus'],['CHIROPTERA'],1
+662,PREDICT_PMV-23,Paramyxoviridae,new,['Murina cyclotis'],['CHIROPTERA'],1
+663,PREDICT_PMV-24,Paramyxoviridae,new,['Hipposideros ruber' 'Chaerephon pumilus'],['CHIROPTERA'],2
+664,PREDICT_PMV-25,Paramyxoviridae,new,['Pteropus alecto'],['CHIROPTERA'],1
+665,PREDICT_PMV-26,Paramyxoviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+666,PREDICT_PMV-27,Paramyxoviridae,new,['Hipposideros lekaguli'],['CHIROPTERA'],1
+667,PREDICT_PMV-28,Paramyxoviridae,new,['Rattus sp.'],['RODENTIA'],1
+668,PREDICT_PMV-29,Paramyxoviridae,new,['Myotis ricketti'],['CHIROPTERA'],1
+669,PREDICT_PMV-3,Paramyxoviridae,new,['Pteropus giganteus' 'Pteropus lylei'],['CHIROPTERA'],2
+670,PREDICT_PMV-30,Paramyxoviridae,new,['Rhinolophus pusillus'],['CHIROPTERA'],1
+671,PREDICT_PMV-31,Paramyxoviridae,new,['Mustela sibirica'],['CARNIVORA'],1
+672,PREDICT_PMV-32,Paramyxoviridae,new,['Myotis keaysi' 'Myotis oxyotus'],['CHIROPTERA'],2
+673,PREDICT_PMV-33,Paramyxoviridae,new,['Phyllostomus hastatus'],['CHIROPTERA'],1
+674,PREDICT_PMV-34,Paramyxoviridae,new,['Artibeus phaeotis'],[nan],1
+675,PREDICT_PMV-36,Paramyxoviridae,new,['Myotis longipes'],['CHIROPTERA'],1
+676,PREDICT_PMV-37,Paramyxoviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+677,PREDICT_PMV-38,Paramyxoviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+678,PREDICT_PMV-39,Paramyxoviridae,new,['Plecotus auritus'],['CHIROPTERA'],1
+679,PREDICT_PMV-4,Paramyxoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+680,PREDICT_PMV-40,Paramyxoviridae,new,['Vespertilio sinensis'],['CHIROPTERA'],1
+681,PREDICT_PMV-41,Paramyxoviridae,new,['Pipistrellus pipistrellus'],['CHIROPTERA'],1
+682,PREDICT_PMV-42,Paramyxoviridae,new,['Rhinolophus affinis'],['CHIROPTERA'],1
+683,PREDICT_PMV-43,Paramyxoviridae,new,['Myotis altarium'],['CHIROPTERA'],1
+684,PREDICT_PMV-44,Paramyxoviridae,new,['Rhinolophus sinicus'],['CHIROPTERA'],1
+685,PREDICT_PMV-45,Paramyxoviridae,new,['Artibeus lituratus'],['CHIROPTERA'],1
+686,PREDICT_PMV-46,Paramyxoviridae,new,['Vespertilio sinensis'],['CHIROPTERA'],1
+687,PREDICT_PMV-47,Paramyxoviridae,new,['Ia io'],['CHIROPTERA'],1
+688,PREDICT_PMV-48,Paramyxoviridae,new,['Hipposideros larvatus' 'Hipposideros larvatus species complex'],['CHIROPTERA'],2
+689,PREDICT_PMV-49,Paramyxoviridae,new,['Taphozous melanopogon' 'Taphozous sp.'],['CHIROPTERA'],2
+690,PREDICT_PMV-5,Paramyxoviridae,new,['Pteropus giganteus' 'Pteropus lylei'],['CHIROPTERA'],2
+691,PREDICT_PMV-50,Paramyxoviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+692,PREDICT_PMV-51,Paramyxoviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+693,PREDICT_PMV-53,Paramyxoviridae,new,['Miniopterus magnater' 'Rhinolophus coelophyllus'],['CHIROPTERA'],2
+694,PREDICT_PMV-54,Paramyxoviridae,new,['Suncus murinus'],['EULIPOTYPHLA'],1
+695,PREDICT_PMV-55,Paramyxoviridae,new,['Rattus rattus'],['RODENTIA'],1
+696,PREDICT_PMV-56,Paramyxoviridae,new,['Eidolon helvum'],['CHIROPTERA'],1
+697,PREDICT_PMV-57,Paramyxoviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+698,PREDICT_PMV-58,Paramyxoviridae,new,['Rattus sp.'],['RODENTIA'],1
+699,PREDICT_PMV-59,Paramyxoviridae,new,['Taphozous mauritianus'],['CHIROPTERA'],1
+700,PREDICT_PMV-6,Paramyxoviridae,new,['Pteropus giganteus' 'Pteropus lylei'],['CHIROPTERA'],2
+701,PREDICT_PMV-60,Paramyxoviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+702,PREDICT_PMV-61,Paramyxoviridae,new,['Eidolon helvum'],['CHIROPTERA'],1
+703,PREDICT_PMV-62,Paramyxoviridae,new,['Dobsonia exoleta'],['CHIROPTERA'],1
+704,PREDICT_PMV-63,Paramyxoviridae,new,['Chiroptera' 'Scotophilus kuhlii' 'Myotis sp.'],[nan 'CHIROPTERA'],3
+705,PREDICT_PMV-64,Paramyxoviridae,new,['Mastomys natalensis'],['RODENTIA'],1
+706,PREDICT_PMV-65,Paramyxoviridae,new,['Rattus sp.'],['RODENTIA'],1
+707,PREDICT_PMV-66,Paramyxoviridae,new,['Chiroptera' 'Scotophilus kuhlii'],['CHIROPTERA' nan],2
+708,PREDICT_PMV-67,Paramyxoviridae,new,['Chiroptera' 'Scotophilus kuhlii'],[nan 'CHIROPTERA'],2
+709,PREDICT_PMV-68,Paramyxoviridae,new,['Hylomyscus stella' 'Malacomys sp.' 'Crocidura sp.'],['RODENTIA' 'EULIPOTYPHLA'],3
+710,PREDICT_PMV-69,Paramyxoviridae,new,['Praomys jacksoni'],['RODENTIA'],1
+711,PREDICT_PMV-7,Paramyxoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+712,PREDICT_PMV-70,Paramyxoviridae,new,['Crocidura olivieri'],['EULIPOTYPHLA'],1
+713,PREDICT_PMV-71,Paramyxoviridae,new,['Rhinolophus clivosus'],['CHIROPTERA'],1
+714,PREDICT_PMV-72,Paramyxoviridae,new,['Rhinolophus creaghi' 'Hipposideros cervinus'],['CHIROPTERA'],2
+715,PREDICT_PMV-73,Paramyxoviridae,new,['Hipposideros diadema'],['CHIROPTERA'],1
+716,PREDICT_PMV-74,Paramyxoviridae,new,['Hipposideros galeritus' 'Hipposideros cervinus'],['CHIROPTERA'],2
+717,PREDICT_PMV-75,Paramyxoviridae,new,['Hipposideros galeritus'],['CHIROPTERA'],1
+718,PREDICT_PMV-76,Paramyxoviridae,new,['Crocidura olivieri'],['EULIPOTYPHLA'],1
+719,PREDICT_PMV-77,Paramyxoviridae,new,['Rodentia' 'Oryzomys sp.'],['RODENTIA'],2
+720,PREDICT_PMV-78,Paramyxoviridae,new,['Calomys sp.' 'Oryzomys sp.'],['RODENTIA'],2
+721,PREDICT_PMV-79,Paramyxoviridae,new,['Hipposideros sp.' 'Hipposideros ruber'],['CHIROPTERA'],2
+722,PREDICT_PMV-8,Paramyxoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+723,PREDICT_PMV-80,Paramyxoviridae,new,['Hipposideros gigas'],['CHIROPTERA'],1
+724,PREDICT_PMV-81,Paramyxoviridae,new,['Hipposideros cervinus'],['CHIROPTERA'],1
+725,PREDICT_PMV-82,Paramyxoviridae,new,['Hipposideros gigas'],['CHIROPTERA'],1
+726,PREDICT_PMV-83,Paramyxoviridae,new,['Suncus murinus'],['EULIPOTYPHLA'],1
+727,PREDICT_PMV-84,Paramyxoviridae,new,['Rodentia'],['RODENTIA'],1
+728,PREDICT_PMV-85,Paramyxoviridae,new,['Pteropus lylei'],['CHIROPTERA'],1
+729,PREDICT_PMV-86,Paramyxoviridae,new,['Rattus losea' 'Rattus exulans'],['RODENTIA'],2
+730,PREDICT_PMV-87,Paramyxoviridae,new,['Scotophilus sp.'],['CHIROPTERA'],1
+731,PREDICT_PMV-88,Paramyxoviridae,new,['Rhinolophus affinis'],['CHIROPTERA'],1
+732,PREDICT_PMV-89,Paramyxoviridae,new,['Rhinolophus sinicus'],['CHIROPTERA'],1
+733,PREDICT_PMV-9,Paramyxoviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+734,PREDICT_PMV-90,Paramyxoviridae,new,['Taphozous melanopogon'],['CHIROPTERA'],1
+735,PREDICT_PMV-91,Paramyxoviridae,new,['Crocidura sp.'],['EULIPOTYPHLA'],1
+736,PREDICT_PMV-92,Paramyxoviridae,new,['Pteropus alecto'],['CHIROPTERA'],1
+737,PREDICT_PMV-93,Paramyxoviridae,new,['Acerodon celebensis'],['CHIROPTERA'],1
+738,PREDICT_PMV-94,Paramyxoviridae,new,['Pteropus alecto'],['CHIROPTERA'],1
+739,PREDICT_PMV-95,Paramyxoviridae,new,['Acerodon celebensis'],['CHIROPTERA'],1
+740,PREDICT_PMV-96,Paramyxoviridae,new,['Rattus sp.'],['RODENTIA'],1
+741,PREDICT_PMV-97,Paramyxoviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+742,PREDICT_PMV-98,Paramyxoviridae,new,['Hipposideros cervinus'],['CHIROPTERA'],1
+743,PREDICT_PMV-99,Paramyxoviridae,new,['Hipposideros cervinus'],['CHIROPTERA'],1
+744,PREDICT_PapV-1,Papillomaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+745,PREDICT_PbV-1,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+746,PREDICT_PbV-10,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+747,PREDICT_PbV-100,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+748,PREDICT_PbV-101,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+749,PREDICT_PbV-102,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+750,PREDICT_PbV-103,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+751,PREDICT_PbV-104,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+752,PREDICT_PbV-105,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+753,PREDICT_PbV-106,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+754,PREDICT_PbV-107,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+755,PREDICT_PbV-108,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+756,PREDICT_PbV-109,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+757,PREDICT_PbV-11,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+758,PREDICT_PbV-110,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+759,PREDICT_PbV-111,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+760,PREDICT_PbV-112,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+761,PREDICT_PbV-113,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+762,PREDICT_PbV-114,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+763,PREDICT_PbV-115,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+764,PREDICT_PbV-116,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+765,PREDICT_PbV-117,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+766,PREDICT_PbV-118,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+767,PREDICT_PbV-119,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+768,PREDICT_PbV-12,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+769,PREDICT_PbV-120,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+770,PREDICT_PbV-121,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+771,PREDICT_PbV-13,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+772,PREDICT_PbV-14,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+773,PREDICT_PbV-15,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+774,PREDICT_PbV-16,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+775,PREDICT_PbV-17,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+776,PREDICT_PbV-18,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+777,PREDICT_PbV-19,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+778,PREDICT_PbV-2,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+779,PREDICT_PbV-20,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+780,PREDICT_PbV-21,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+781,PREDICT_PbV-22,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+782,PREDICT_PbV-23,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+783,PREDICT_PbV-24,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+784,PREDICT_PbV-25,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+785,PREDICT_PbV-26,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+786,PREDICT_PbV-27,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+787,PREDICT_PbV-28,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+788,PREDICT_PbV-29,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+789,PREDICT_PbV-3,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+790,PREDICT_PbV-30,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+791,PREDICT_PbV-31,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+792,PREDICT_PbV-32,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+793,PREDICT_PbV-33,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+794,PREDICT_PbV-34,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+795,PREDICT_PbV-35,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+796,PREDICT_PbV-36,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+797,PREDICT_PbV-37,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+798,PREDICT_PbV-38,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+799,PREDICT_PbV-39,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+800,PREDICT_PbV-4,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+801,PREDICT_PbV-40,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+802,PREDICT_PbV-41,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+803,PREDICT_PbV-42,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+804,PREDICT_PbV-43,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+805,PREDICT_PbV-44,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+806,PREDICT_PbV-45,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+807,PREDICT_PbV-46,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+808,PREDICT_PbV-47,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+809,PREDICT_PbV-48,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+810,PREDICT_PbV-49,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+811,PREDICT_PbV-5,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+812,PREDICT_PbV-50,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+813,PREDICT_PbV-51,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+814,PREDICT_PbV-52,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+815,PREDICT_PbV-53,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+816,PREDICT_PbV-54,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+817,PREDICT_PbV-55,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+818,PREDICT_PbV-56,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+819,PREDICT_PbV-57,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+820,PREDICT_PbV-58,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+821,PREDICT_PbV-59,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+822,PREDICT_PbV-6,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+823,PREDICT_PbV-60,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+824,PREDICT_PbV-61,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+825,PREDICT_PbV-62,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+826,PREDICT_PbV-63,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+827,PREDICT_PbV-64,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+828,PREDICT_PbV-65,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+829,PREDICT_PbV-66,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+830,PREDICT_PbV-67,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+831,PREDICT_PbV-68,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+832,PREDICT_PbV-69,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+833,PREDICT_PbV-7,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+834,PREDICT_PbV-70,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+835,PREDICT_PbV-71,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+836,PREDICT_PbV-72,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+837,PREDICT_PbV-73,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+838,PREDICT_PbV-74,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+839,PREDICT_PbV-75,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+840,PREDICT_PbV-76,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+841,PREDICT_PbV-77,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+842,PREDICT_PbV-78,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+843,PREDICT_PbV-79,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+844,PREDICT_PbV-8,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+845,PREDICT_PbV-80,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+846,PREDICT_PbV-81,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+847,PREDICT_PbV-82,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+848,PREDICT_PbV-83,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+849,PREDICT_PbV-84,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+850,PREDICT_PbV-85,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+851,PREDICT_PbV-86,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+852,PREDICT_PbV-87,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+853,PREDICT_PbV-88,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+854,PREDICT_PbV-89,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+855,PREDICT_PbV-9,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+856,PREDICT_PbV-90,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+857,PREDICT_PbV-91,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+858,PREDICT_PbV-92,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+859,PREDICT_PbV-93,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+860,PREDICT_PbV-94,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+861,PREDICT_PbV-95,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+862,PREDICT_PbV-96,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+863,PREDICT_PbV-97,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+864,PREDICT_PbV-98,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+865,PREDICT_PbV-99,Picobirnaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+867,PREDICT_Picorna-1,Picornaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+868,PREDICT_Picorna-2,Picornaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+869,PREDICT_Picorna-3,Picornaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+870,PREDICT_Picorna-4,Picornaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+871,PREDICT_PosaV-1,Picornaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+872,PREDICT_PosaV-2,Picornaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+873,PREDICT_PosaV-3,Picornaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+874,PREDICT_PosaV-4,Picornaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+875,PREDICT_Pox-1,Poxviridae,new,['Praomys sp.'],['RODENTIA'],1
+876,PREDICT_PyV-1,Polyomaviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+877,PREDICT_PyV-10,Polyomaviridae,new,['Rodentia'],['RODENTIA'],1
+878,PREDICT_PyV-11,Polyomaviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+879,PREDICT_PyV-12,Polyomaviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+880,PREDICT_PyV-13,Polyomaviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+881,PREDICT_PyV-14,Polyomaviridae,new,"['Hipposideros caffer' 'Rousettus aegyptiacus' 'Nycteris grandis'
+ 'Hipposideros gigas']",['CHIROPTERA'],4
+882,PREDICT_PyV-15,Polyomaviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+883,PREDICT_PyV-16,Polyomaviridae,new,['Rousettus aegyptiacus' 'Rhinolophus landeri'],['CHIROPTERA'],2
+884,PREDICT_PyV-17,Polyomaviridae,new,['Hipposideros cyclops'],['CHIROPTERA'],1
+885,PREDICT_PyV-18,Polyomaviridae,new,['Hypsugo musciculus'],['CHIROPTERA'],1
+886,PREDICT_PyV-19,Polyomaviridae,new,['Neoromicia tenuipinnis'],['CHIROPTERA'],1
+887,PREDICT_PyV-2,Polyomaviridae,new,['Pteropus giganteus'],['CHIROPTERA'],1
+888,PREDICT_PyV-20,Polyomaviridae,new,['Nycteris grandis'],['CHIROPTERA'],1
+889,PREDICT_PyV-21,Polyomaviridae,new,['Rhinolophus landeri'],['CHIROPTERA'],1
+890,PREDICT_PyV-22,Polyomaviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+891,PREDICT_PyV-23,Polyomaviridae,new,['Miniopterus inflatus'],['CHIROPTERA'],1
+892,PREDICT_PyV-24,Polyomaviridae,new,['Hipposideros caffer' 'Rousettus aegyptiacus' 'Hipposideros gigas'],['CHIROPTERA'],3
+893,PREDICT_PyV-25,Polyomaviridae,new,['Hipposideros caffer' 'Hipposideros gigas' 'Coleura afra'],['CHIROPTERA'],3
+894,PREDICT_PyV-26,Polyomaviridae,new,['Epomops franqueti' 'Rousettus aegyptiacus'],['CHIROPTERA'],2
+895,PREDICT_PyV-27,Polyomaviridae,new,['Rousettus aegyptiacus'],['CHIROPTERA'],1
+896,PREDICT_PyV-28,Polyomaviridae,new,['Heliosciurus gambianus'],['RODENTIA'],1
+897,PREDICT_PyV-29,Polyomaviridae,new,['Hipposideros caffer'],['CHIROPTERA'],1
+898,PREDICT_PyV-3,Polyomaviridae,new,['Glossophaga soricina'],['CHIROPTERA'],1
+899,PREDICT_PyV-30,Polyomaviridae,new,['Thryonomys swinderianus'],['RODENTIA'],1
+900,PREDICT_PyV-31,Polyomaviridae,new,['Macaca mulatta'],['PRIMATES'],1
+901,PREDICT_PyV-32,Polyomaviridae,new,['Cricetomys sp.'],['RODENTIA'],1
+902,PREDICT_PyV-33,Polyomaviridae,new,['Lissonycteris angolensis'],['CHIROPTERA'],1
+903,PREDICT_PyV-34,Polyomaviridae,new,['Thryonomys sp.'],['RODENTIA'],1
+904,PREDICT_PyV-37,Polyomaviridae,new,['Rodentia'],['RODENTIA'],1
+905,PREDICT_PyV-38,Polyomaviridae,new,['Rhinolophus landeri'],['CHIROPTERA'],1
+906,PREDICT_PyV-4,Polyomaviridae,new,['Phyllostomidae'],['CHIROPTERA'],1
+907,PREDICT_PyV-5,Polyomaviridae,new,['Gorilla beringei beringei'],['PRIMATES'],1
+908,PREDICT_PyV-6,Polyomaviridae,new,['Gorilla beringei beringei'],['PRIMATES'],1
+909,PREDICT_PyV-7,Polyomaviridae,new,['Gorilla beringei beringei'],['PRIMATES'],1
+910,PREDICT_PyV-8,Polyomaviridae,new,['Nycteris major' 'Nycteris grandis'],['CHIROPTERA'],2
+911,PREDICT_PyV-9,Polyomaviridae,new,['Rousettus aegyptiacus' 'Hipposideros caffer' 'Hipposideros gigas'],['CHIROPTERA'],3
+912,PREDICT_RbdV-1,Rhabdoviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+913,PREDICT_RbdV-10,Rhabdoviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+914,PREDICT_RbdV-11,Rhabdoviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+915,PREDICT_RbdV-12,Rhabdoviridae,new,['Nyctimene cephalotes'],['CHIROPTERA'],1
+916,PREDICT_RbdV-13,Rhabdoviridae,new,['Cynopterus brachyotis'],['CHIROPTERA'],1
+917,PREDICT_RbdV-14,Rhabdoviridae,new,['Macaca mulatta'],['PRIMATES'],1
+918,PREDICT_RbdV-15,Rhabdoviridae,new,['Macaca mulatta' 'Macaca fascicularis' 'Hystrix brachyura'],['PRIMATES' 'RODENTIA'],3
+919,PREDICT_RbdV-16,Rhabdoviridae,new,['Rhizomys sp.'],['RODENTIA'],1
+920,PREDICT_RbdV-17,Rhabdoviridae,new,['Rhizomys sp.'],['RODENTIA'],1
+921,PREDICT_RbdV-18,Rhabdoviridae,new,['Rhizomys sp.'],['RODENTIA'],1
+922,PREDICT_RbdV-19,Rhabdoviridae,new,['Rattus sp.'],['RODENTIA'],1
+923,PREDICT_RbdV-2,Rhabdoviridae,new,['Triaenops persicus'],['CHIROPTERA'],1
+924,PREDICT_RbdV-20,Rhabdoviridae,new,['Chiroptera'],[nan 'CHIROPTERA'],1
+925,PREDICT_RbdV-21,Rhabdoviridae,new,['Chiroptera' 'Scotophilus kuhlii'],[nan 'CHIROPTERA'],2
+926,PREDICT_RbdV-22,Rhabdoviridae,new,['Chiroptera'],[nan],1
+927,PREDICT_RbdV-23,Rhabdoviridae,new,['Chiroptera'],[nan],1
+928,PREDICT_RbdV-24,Rhabdoviridae,new,['Chiroptera'],[nan],1
+929,PREDICT_RbdV-25,Rhabdoviridae,new,['Chiroptera'],[nan],1
+930,PREDICT_RbdV-26,Rhabdoviridae,new,['Chiroptera'],[nan],1
+931,PREDICT_RbdV-27,Rhabdoviridae,new,['Chiroptera' 'Scotophilus kuhlii' 'Scotophilus cf. kuhlii'],[nan 'CHIROPTERA'],3
+932,PREDICT_RbdV-28,Rhabdoviridae,new,['Chiroptera' 'Scotophilus kuhlii'],['CHIROPTERA' nan],2
+933,PREDICT_RbdV-29,Rhabdoviridae,new,['Pongo pygmaeus'],['PRIMATES'],1
+934,PREDICT_RbdV-3,Rhabdoviridae,new,['Neoromicia brunnea'],['CHIROPTERA'],1
+935,PREDICT_RbdV-30,Rhabdoviridae,new,['Cercopithecus mitis'],['PRIMATES'],1
+936,PREDICT_RbdV-31,Rhabdoviridae,new,['Scotophilus kuhlii'],['CHIROPTERA'],1
+937,PREDICT_RbdV-32,Rhabdoviridae,new,['Scotophilus kuhlii'],['CHIROPTERA'],1
+938,PREDICT_RbdV-33,Rhabdoviridae,new,['Scotophilus kuhlii'],['CHIROPTERA'],1
+939,PREDICT_RbdV-34,Rhabdoviridae,new,['Scotophilus kuhlii'],['CHIROPTERA'],1
+940,PREDICT_RbdV-35,Rhabdoviridae,new,['Scotophilus kuhlii'],['CHIROPTERA'],1
+941,PREDICT_RbdV-4,Rhabdoviridae,new,['Hipposideros ruber'],['CHIROPTERA'],1
+942,PREDICT_RbdV-5,Rhabdoviridae,new,['Suncus murinus'],['EULIPOTYPHLA'],1
+943,PREDICT_RbdV-6,Rhabdoviridae,new,['Suncus murinus'],['EULIPOTYPHLA'],1
+944,PREDICT_RbdV-7,Rhabdoviridae,new,['Cynopterus brachyotis'],['CHIROPTERA'],1
+945,PREDICT_RbdV-8,Rhabdoviridae,new,['Lophuromys sp.'],['RODENTIA'],1
+946,PREDICT_RbdV-9,Rhabdoviridae,new,['Miniopterus magnater'],['CHIROPTERA'],1
+947,PREDICT_SdV-1,Reoviridae,new,['Scotophilus sp.'],['CHIROPTERA'],1
