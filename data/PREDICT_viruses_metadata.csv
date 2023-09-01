@@ -1,4 +1,4 @@
-,VirusGroup,ViralFamily,VirusStatus,ScientificName,Order,PubMed
+,VirusGroup,ViralFamily,VirusStatus,ScientificName,Order,NumberOfAccessions
 0,Bombali Virus (BOMV),Filoviridae,new,['Mops condylurus' 'Chaerephon pumilus'],['CHIROPTERA'],2
 1,PREDICT_AaV-1,Adenoviridae,new,['Macaca mulatta'],['PRIMATES'],1
 2,PREDICT_AaV-10,Adenoviridae,new,['Macaca mulatta'],['PRIMATES'],1
