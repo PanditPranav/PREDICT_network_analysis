@@ -1,5 +1,6 @@
 # Predicting the potential for zoonotic transmission and host associations for novel viruses  
 Code and data for manuscript:   
+Cite to the code: [![DOI](https://zenodo.org/badge/392060088.svg)](https://zenodo.org/badge/latestdoi/392060088)  
 
 ### Predicting the potential for zoonotic transmission and host associations for novel viruses 
 
